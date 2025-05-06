@@ -1,0 +1,45 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 16px;
+    background-color: #f8f8f8;
+    border-bottom: 1px solid #ddd;
+}
+
+.filter-title {
+    font-size: 1.5rem;
+    margin-bottom: 12px;
+}
+
+.filter-group {
+    margin-bottom: 16px;
+}
+
+.filter-group label {
+    margin-right: 8px;
+}
+
+.filter-group select {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.sort-group {
+    margin-bottom: 16px;
+}
+
+.sort-group select {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.sticky {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}

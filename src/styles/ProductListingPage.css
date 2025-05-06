@@ -1,0 +1,18 @@
+.product-listing-page {
+    padding: 20px;
+}
+
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.product-card {
+    border: 1px solid #ccc;
+    padding: 16px;
+    border-radius: 8px;
+    background-color: #fff;
+    text-align: center;
+}

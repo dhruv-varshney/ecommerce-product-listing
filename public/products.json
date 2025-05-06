@@ -1,0 +1,8002 @@
+[
+  {
+    "id": 1,
+    "image": "https://picsum.photos/200?random=1",
+    "name": "Product 1",
+    "price": 420.28,
+    "category": "Electronics",
+    "rating": 3.2
+  },
+  {
+    "id": 2,
+    "image": "https://picsum.photos/200?random=2",
+    "name": "Product 2",
+    "price": 850.41,
+    "category": "Books",
+    "rating": 4.4
+  },
+  {
+    "id": 3,
+    "image": "https://picsum.photos/200?random=3",
+    "name": "Product 3",
+    "price": 686.56,
+    "category": "Books",
+    "rating": 1.3
+  },
+  {
+    "id": 4,
+    "image": "https://picsum.photos/200?random=4",
+    "name": "Product 4",
+    "price": 68.84,
+    "category": "Books",
+    "rating": 3.5
+  },
+  {
+    "id": 5,
+    "image": "https://picsum.photos/200?random=5",
+    "name": "Product 5",
+    "price": 383.63,
+    "category": "Electronics",
+    "rating": 4.1
+  },
+  {
+    "id": 6,
+    "image": "https://picsum.photos/200?random=6",
+    "name": "Product 6",
+    "price": 16.39,
+    "category": "Home",
+    "rating": 3.2
+  },
+  {
+    "id": 7,
+    "image": "https://picsum.photos/200?random=7",
+    "name": "Product 7",
+    "price": 395.56,
+    "category": "Clothing",
+    "rating": 1.8
+  },
+  {
+    "id": 8,
+    "image": "https://picsum.photos/200?random=8",
+    "name": "Product 8",
+    "price": 966.85,
+    "category": "Clothing",
+    "rating": 4.8
+  },
+  {
+    "id": 9,
+    "image": "https://picsum.photos/200?random=9",
+    "name": "Product 9",
+    "price": 650.38,
+    "category": "Home",
+    "rating": 3.3
+  },
+  {
+    "id": 10,
+    "image": "https://picsum.photos/200?random=10",
+    "name": "Product 10",
+    "price": 836.05,
+    "category": "Clothing",
+    "rating": 1.3
+  },
+  {
+    "id": 11,
+    "image": "https://picsum.photos/200?random=11",
+    "name": "Product 11",
+    "price": 719.05,
+    "category": "Electronics",
+    "rating": 2.9
+  },
+  {
+    "id": 12,
+    "image": "https://picsum.photos/200?random=12",
+    "name": "Product 12",
+    "price": 229.75,
+    "category": "Home",
+    "rating": 1.7
+  },
+  {
+    "id": 13,
+    "image": "https://picsum.photos/200?random=13",
+    "name": "Product 13",
+    "price": 452.73,
+    "category": "Clothing",
+    "rating": 1.8
+  },
+  {
+    "id": 14,
+    "image": "https://picsum.photos/200?random=14",
+    "name": "Product 14",
+    "price": 146.35,
+    "category": "Electronics",
+    "rating": 2.9
+  },
+  {
+    "id": 15,
+    "image": "https://picsum.photos/200?random=15",
+    "name": "Product 15",
+    "price": 26.8,
+    "category": "Clothing",
+    "rating": 4.6
+  },
+  {
+    "id": 16,
+    "image": "https://picsum.photos/200?random=16",
+    "name": "Product 16",
+    "price": 315.82,
+    "category": "Home",
+    "rating": 2.7
+  },
+  {
+    "id": 17,
+    "image": "https://picsum.photos/200?random=17",
+    "name": "Product 17",
+    "price": 226.3,
+    "category": "Electronics",
+    "rating": 2.6
+  },
+  {
+    "id": 18,
+    "image": "https://picsum.photos/200?random=18",
+    "name": "Product 18",
+    "price": 999.99,
+    "category": "Clothing",
+    "rating": 1.9
+  },
+  {
+    "id": 19,
+    "image": "https://picsum.photos/200?random=19",
+    "name": "Product 19",
+    "price": 684.6,
+    "category": "Home",
+    "rating": 1.8
+  },
+  {
+    "id": 20,
+    "image": "https://picsum.photos/200?random=20",
+    "name": "Product 20",
+    "price": 527.45,
+    "category": "Home",
+    "rating": 4.3
+  },
+  {
+    "id": 21,
+    "image": "https://picsum.photos/200?random=21",
+    "name": "Product 21",
+    "price": 756.19,
+    "category": "Home",
+    "rating": 4.7
+  },
+  {
+    "id": 22,
+    "image": "https://picsum.photos/200?random=22",
+    "name": "Product 22",
+    "price": 246.14,
+    "category": "Books",
+    "rating": 2.3
+  },
+  {
+    "id": 23,
+    "image": "https://picsum.photos/200?random=23",
+    "name": "Product 23",
+    "price": 852.93,
+    "category": "Home",
+    "rating": 5.0
+  },
+  {
+    "id": 24,
+    "image": "https://picsum.photos/200?random=24",
+    "name": "Product 24",
+    "price": 356.74,
+    "category": "Clothing",
+    "rating": 4.7
+  },
+  {
+    "id": 25,
+    "image": "https://picsum.photos/200?random=25",
+    "name": "Product 25",
+    "price": 842.13,
+    "category": "Clothing",
+    "rating": 2.3
+  },
+  {
+    "id": 26,
+    "image": "https://picsum.photos/200?random=26",
+    "name": "Product 26",
+    "price": 705.06,
+    "category": "Electronics",
+    "rating": 2.6
+  },
+  {
+    "id": 27,
+    "image": "https://picsum.photos/200?random=27",
+    "name": "Product 27",
+    "price": 235.55,
+    "category": "Clothing",
+    "rating": 1.9
+  },
+  {
+    "id": 28,
+    "image": "https://picsum.photos/200?random=28",
+    "name": "Product 28",
+    "price": 518.12,
+    "category": "Books",
+    "rating": 3.2
+  },
+  {
+    "id": 29,
+    "image": "https://picsum.photos/200?random=29",
+    "name": "Product 29",
+    "price": 988.5,
+    "category": "Electronics",
+    "rating": 2.8
+  },
+  {
+    "id": 30,
+    "image": "https://picsum.photos/200?random=30",
+    "name": "Product 30",
+    "price": 263.12,
+    "category": "Books",
+    "rating": 4.7
+  },
+  {
+    "id": 31,
+    "image": "https://picsum.photos/200?random=31",
+    "name": "Product 31",
+    "price": 541.63,
+    "category": "Home",
+    "rating": 3.8
+  },
+  {
+    "id": 32,
+    "image": "https://picsum.photos/200?random=32",
+    "name": "Product 32",
+    "price": 505.66,
+    "category": "Home",
+    "rating": 4.2
+  },
+  {
+    "id": 33,
+    "image": "https://picsum.photos/200?random=33",
+    "name": "Product 33",
+    "price": 208.58,
+    "category": "Home",
+    "rating": 1.8
+  },
+  {
+    "id": 34,
+    "image": "https://picsum.photos/200?random=34",
+    "name": "Product 34",
+    "price": 432.92,
+    "category": "Home",
+    "rating": 4.8
+  },
+  {
+    "id": 35,
+    "image": "https://picsum.photos/200?random=35",
+    "name": "Product 35",
+    "price": 832.57,
+    "category": "Clothing",
+    "rating": 2.8
+  },
+  {
+    "id": 36,
+    "image": "https://picsum.photos/200?random=36",
+    "name": "Product 36",
+    "price": 275.83,
+    "category": "Books",
+    "rating": 3.6
+  },
+  {
+    "id": 37,
+    "image": "https://picsum.photos/200?random=37",
+    "name": "Product 37",
+    "price": 231.91,
+    "category": "Electronics",
+    "rating": 4.6
+  },
+  {
+    "id": 38,
+    "image": "https://picsum.photos/200?random=38",
+    "name": "Product 38",
+    "price": 37.65,
+    "category": "Books",
+    "rating": 3.9
+  },
+  {
+    "id": 39,
+    "image": "https://picsum.photos/200?random=39",
+    "name": "Product 39",
+    "price": 374.36,
+    "category": "Books",
+    "rating": 2.1
+  },
+  {
+    "id": 40,
+    "image": "https://picsum.photos/200?random=40",
+    "name": "Product 40",
+    "price": 906.44,
+    "category": "Clothing",
+    "rating": 1.6
+  },
+  {
+    "id": 41,
+    "image": "https://picsum.photos/200?random=41",
+    "name": "Product 41",
+    "price": 709.17,
+    "category": "Books",
+    "rating": 2.9
+  },
+  {
+    "id": 42,
+    "image": "https://picsum.photos/200?random=42",
+    "name": "Product 42",
+    "price": 179.69,
+    "category": "Books",
+    "rating": 2.0
+  },
+  {
+    "id": 43,
+    "image": "https://picsum.photos/200?random=43",
+    "name": "Product 43",
+    "price": 693.9,
+    "category": "Electronics",
+    "rating": 2.6
+  },
+  {
+    "id": 44,
+    "image": "https://picsum.photos/200?random=44",
+    "name": "Product 44",
+    "price": 596.92,
+    "category": "Electronics",
+    "rating": 4.6
+  },
+  {
+    "id": 45,
+    "image": "https://picsum.photos/200?random=45",
+    "name": "Product 45",
+    "price": 108.15,
+    "category": "Electronics",
+    "rating": 2.6
+  },
+  {
+    "id": 46,
+    "image": "https://picsum.photos/200?random=46",
+    "name": "Product 46",
+    "price": 511.69,
+    "category": "Clothing",
+    "rating": 4.8
+  },
+  {
+    "id": 47,
+    "image": "https://picsum.photos/200?random=47",
+    "name": "Product 47",
+    "price": 717.33,
+    "category": "Home",
+    "rating": 3.2
+  },
+  {
+    "id": 48,
+    "image": "https://picsum.photos/200?random=48",
+    "name": "Product 48",
+    "price": 518.83,
+    "category": "Electronics",
+    "rating": 1.2
+  },
+  {
+    "id": 49,
+    "image": "https://picsum.photos/200?random=49",
+    "name": "Product 49",
+    "price": 366.25,
+    "category": "Clothing",
+    "rating": 2.6
+  },
+  {
+    "id": 50,
+    "image": "https://picsum.photos/200?random=50",
+    "name": "Product 50",
+    "price": 41.89,
+    "category": "Electronics",
+    "rating": 3.9
+  },
+  {
+    "id": 51,
+    "image": "https://picsum.photos/200?random=51",
+    "name": "Product 51",
+    "price": 905.0,
+    "category": "Electronics",
+    "rating": 1.7
+  },
+  {
+    "id": 52,
+    "image": "https://picsum.photos/200?random=52",
+    "name": "Product 52",
+    "price": 448.64,
+    "category": "Books",
+    "rating": 4.9
+  },
+  {
+    "id": 53,
+    "image": "https://picsum.photos/200?random=53",
+    "name": "Product 53",
+    "price": 87.1,
+    "category": "Clothing",
+    "rating": 3.8
+  },
+  {
+    "id": 54,
+    "image": "https://picsum.photos/200?random=54",
+    "name": "Product 54",
+    "price": 347.77,
+    "category": "Home",
+    "rating": 4.0
+  },
+  {
+    "id": 55,
+    "image": "https://picsum.photos/200?random=55",
+    "name": "Product 55",
+    "price": 726.8,
+    "category": "Electronics",
+    "rating": 3.6
+  },
+  {
+    "id": 56,
+    "image": "https://picsum.photos/200?random=56",
+    "name": "Product 56",
+    "price": 285.15,
+    "category": "Books",
+    "rating": 3.4
+  },
+  {
+    "id": 57,
+    "image": "https://picsum.photos/200?random=57",
+    "name": "Product 57",
+    "price": 33.58,
+    "category": "Books",
+    "rating": 1.3
+  },
+  {
+    "id": 58,
+    "image": "https://picsum.photos/200?random=58",
+    "name": "Product 58",
+    "price": 281.83,
+    "category": "Clothing",
+    "rating": 4.7
+  },
+  {
+    "id": 59,
+    "image": "https://picsum.photos/200?random=59",
+    "name": "Product 59",
+    "price": 537.89,
+    "category": "Books",
+    "rating": 3.9
+  },
+  {
+    "id": 60,
+    "image": "https://picsum.photos/200?random=60",
+    "name": "Product 60",
+    "price": 614.89,
+    "category": "Home",
+    "rating": 1.7
+  },
+  {
+    "id": 61,
+    "image": "https://picsum.photos/200?random=61",
+    "name": "Product 61",
+    "price": 37.59,
+    "category": "Books",
+    "rating": 1.1
+  },
+  {
+    "id": 62,
+    "image": "https://picsum.photos/200?random=62",
+    "name": "Product 62",
+    "price": 11.71,
+    "category": "Electronics",
+    "rating": 2.5
+  },
+  {
+    "id": 63,
+    "image": "https://picsum.photos/200?random=63",
+    "name": "Product 63",
+    "price": 435.25,
+    "category": "Home",
+    "rating": 3.4
+  },
+  {
+    "id": 64,
+    "image": "https://picsum.photos/200?random=64",
+    "name": "Product 64",
+    "price": 189.33,
+    "category": "Home",
+    "rating": 3.8
+  },
+  {
+    "id": 65,
+    "image": "https://picsum.photos/200?random=65",
+    "name": "Product 65",
+    "price": 529.57,
+    "category": "Clothing",
+    "rating": 1.6
+  },
+  {
+    "id": 66,
+    "image": "https://picsum.photos/200?random=66",
+    "name": "Product 66",
+    "price": 634.26,
+    "category": "Clothing",
+    "rating": 3.9
+  },
+  {
+    "id": 67,
+    "image": "https://picsum.photos/200?random=67",
+    "name": "Product 67",
+    "price": 797.52,
+    "category": "Clothing",
+    "rating": 2.3
+  },
+  {
+    "id": 68,
+    "image": "https://picsum.photos/200?random=68",
+    "name": "Product 68",
+    "price": 602.96,
+    "category": "Electronics",
+    "rating": 3.0
+  },
+  {
+    "id": 69,
+    "image": "https://picsum.photos/200?random=69",
+    "name": "Product 69",
+    "price": 399.61,
+    "category": "Clothing",
+    "rating": 3.7
+  },
+  {
+    "id": 70,
+    "image": "https://picsum.photos/200?random=70",
+    "name": "Product 70",
+    "price": 623.39,
+    "category": "Home",
+    "rating": 3.7
+  },
+  {
+    "id": 71,
+    "image": "https://picsum.photos/200?random=71",
+    "name": "Product 71",
+    "price": 604.86,
+    "category": "Clothing",
+    "rating": 3.0
+  },
+  {
+    "id": 72,
+    "image": "https://picsum.photos/200?random=72",
+    "name": "Product 72",
+    "price": 466.0,
+    "category": "Electronics",
+    "rating": 4.5
+  },
+  {
+    "id": 73,
+    "image": "https://picsum.photos/200?random=73",
+    "name": "Product 73",
+    "price": 688.09,
+    "category": "Home",
+    "rating": 2.4
+  },
+  {
+    "id": 74,
+    "image": "https://picsum.photos/200?random=74",
+    "name": "Product 74",
+    "price": 29.46,
+    "category": "Electronics",
+    "rating": 1.4
+  },
+  {
+    "id": 75,
+    "image": "https://picsum.photos/200?random=75",
+    "name": "Product 75",
+    "price": 687.93,
+    "category": "Electronics",
+    "rating": 2.9
+  },
+  {
+    "id": 76,
+    "image": "https://picsum.photos/200?random=76",
+    "name": "Product 76",
+    "price": 59.03,
+    "category": "Electronics",
+    "rating": 3.4
+  },
+  {
+    "id": 77,
+    "image": "https://picsum.photos/200?random=77",
+    "name": "Product 77",
+    "price": 933.84,
+    "category": "Books",
+    "rating": 1.2
+  },
+  {
+    "id": 78,
+    "image": "https://picsum.photos/200?random=78",
+    "name": "Product 78",
+    "price": 276.49,
+    "category": "Electronics",
+    "rating": 3.0
+  },
+  {
+    "id": 79,
+    "image": "https://picsum.photos/200?random=79",
+    "name": "Product 79",
+    "price": 607.87,
+    "category": "Clothing",
+    "rating": 2.6
+  },
+  {
+    "id": 80,
+    "image": "https://picsum.photos/200?random=80",
+    "name": "Product 80",
+    "price": 58.6,
+    "category": "Books",
+    "rating": 2.4
+  },
+  {
+    "id": 81,
+    "image": "https://picsum.photos/200?random=81",
+    "name": "Product 81",
+    "price": 150.44,
+    "category": "Books",
+    "rating": 2.8
+  },
+  {
+    "id": 82,
+    "image": "https://picsum.photos/200?random=82",
+    "name": "Product 82",
+    "price": 932.53,
+    "category": "Clothing",
+    "rating": 3.8
+  },
+  {
+    "id": 83,
+    "image": "https://picsum.photos/200?random=83",
+    "name": "Product 83",
+    "price": 780.86,
+    "category": "Home",
+    "rating": 1.8
+  },
+  {
+    "id": 84,
+    "image": "https://picsum.photos/200?random=84",
+    "name": "Product 84",
+    "price": 346.11,
+    "category": "Home",
+    "rating": 3.1
+  },
+  {
+    "id": 85,
+    "image": "https://picsum.photos/200?random=85",
+    "name": "Product 85",
+    "price": 683.36,
+    "category": "Electronics",
+    "rating": 2.9
+  },
+  {
+    "id": 86,
+    "image": "https://picsum.photos/200?random=86",
+    "name": "Product 86",
+    "price": 177.37,
+    "category": "Books",
+    "rating": 4.8
+  },
+  {
+    "id": 87,
+    "image": "https://picsum.photos/200?random=87",
+    "name": "Product 87",
+    "price": 353.78,
+    "category": "Home",
+    "rating": 3.5
+  },
+  {
+    "id": 88,
+    "image": "https://picsum.photos/200?random=88",
+    "name": "Product 88",
+    "price": 653.22,
+    "category": "Home",
+    "rating": 2.2
+  },
+  {
+    "id": 89,
+    "image": "https://picsum.photos/200?random=89",
+    "name": "Product 89",
+    "price": 403.15,
+    "category": "Electronics",
+    "rating": 2.2
+  },
+  {
+    "id": 90,
+    "image": "https://picsum.photos/200?random=90",
+    "name": "Product 90",
+    "price": 188.46,
+    "category": "Electronics",
+    "rating": 2.0
+  },
+  {
+    "id": 91,
+    "image": "https://picsum.photos/200?random=91",
+    "name": "Product 91",
+    "price": 905.41,
+    "category": "Books",
+    "rating": 1.9
+  },
+  {
+    "id": 92,
+    "image": "https://picsum.photos/200?random=92",
+    "name": "Product 92",
+    "price": 585.47,
+    "category": "Clothing",
+    "rating": 3.8
+  },
+  {
+    "id": 93,
+    "image": "https://picsum.photos/200?random=93",
+    "name": "Product 93",
+    "price": 172.75,
+    "category": "Home",
+    "rating": 2.0
+  },
+  {
+    "id": 94,
+    "image": "https://picsum.photos/200?random=94",
+    "name": "Product 94",
+    "price": 617.61,
+    "category": "Home",
+    "rating": 1.4
+  },
+  {
+    "id": 95,
+    "image": "https://picsum.photos/200?random=95",
+    "name": "Product 95",
+    "price": 27.15,
+    "category": "Books",
+    "rating": 1.6
+  },
+  {
+    "id": 96,
+    "image": "https://picsum.photos/200?random=96",
+    "name": "Product 96",
+    "price": 61.31,
+    "category": "Electronics",
+    "rating": 2.3
+  },
+  {
+    "id": 97,
+    "image": "https://picsum.photos/200?random=97",
+    "name": "Product 97",
+    "price": 21.59,
+    "category": "Electronics",
+    "rating": 2.5
+  },
+  {
+    "id": 98,
+    "image": "https://picsum.photos/200?random=98",
+    "name": "Product 98",
+    "price": 28.71,
+    "category": "Home",
+    "rating": 4.9
+  },
+  {
+    "id": 99,
+    "image": "https://picsum.photos/200?random=99",
+    "name": "Product 99",
+    "price": 845.38,
+    "category": "Books",
+    "rating": 4.0
+  },
+  {
+    "id": 100,
+    "image": "https://picsum.photos/200?random=100",
+    "name": "Product 100",
+    "price": 919.75,
+    "category": "Home",
+    "rating": 1.9
+  },
+  {
+    "id": 101,
+    "image": "https://picsum.photos/200?random=101",
+    "name": "Product 101",
+    "price": 898.55,
+    "category": "Electronics",
+    "rating": 3.7
+  },
+  {
+    "id": 102,
+    "image": "https://picsum.photos/200?random=102",
+    "name": "Product 102",
+    "price": 69.27,
+    "category": "Clothing",
+    "rating": 1.7
+  },
+  {
+    "id": 103,
+    "image": "https://picsum.photos/200?random=103",
+    "name": "Product 103",
+    "price": 300.19,
+    "category": "Clothing",
+    "rating": 4.8
+  },
+  {
+    "id": 104,
+    "image": "https://picsum.photos/200?random=104",
+    "name": "Product 104",
+    "price": 252.67,
+    "category": "Clothing",
+    "rating": 4.7
+  },
+  {
+    "id": 105,
+    "image": "https://picsum.photos/200?random=105",
+    "name": "Product 105",
+    "price": 207.03,
+    "category": "Home",
+    "rating": 2.9
+  },
+  {
+    "id": 106,
+    "image": "https://picsum.photos/200?random=106",
+    "name": "Product 106",
+    "price": 657.71,
+    "category": "Books",
+    "rating": 4.3
+  },
+  {
+    "id": 107,
+    "image": "https://picsum.photos/200?random=107",
+    "name": "Product 107",
+    "price": 435.2,
+    "category": "Electronics",
+    "rating": 2.5
+  },
+  {
+    "id": 108,
+    "image": "https://picsum.photos/200?random=108",
+    "name": "Product 108",
+    "price": 39.6,
+    "category": "Home",
+    "rating": 1.8
+  },
+  {
+    "id": 109,
+    "image": "https://picsum.photos/200?random=109",
+    "name": "Product 109",
+    "price": 572.92,
+    "category": "Clothing",
+    "rating": 4.7
+  },
+  {
+    "id": 110,
+    "image": "https://picsum.photos/200?random=110",
+    "name": "Product 110",
+    "price": 302.13,
+    "category": "Clothing",
+    "rating": 3.5
+  },
+  {
+    "id": 111,
+    "image": "https://picsum.photos/200?random=111",
+    "name": "Product 111",
+    "price": 667.86,
+    "category": "Electronics",
+    "rating": 2.9
+  },
+  {
+    "id": 112,
+    "image": "https://picsum.photos/200?random=112",
+    "name": "Product 112",
+    "price": 966.06,
+    "category": "Clothing",
+    "rating": 2.9
+  },
+  {
+    "id": 113,
+    "image": "https://picsum.photos/200?random=113",
+    "name": "Product 113",
+    "price": 862.57,
+    "category": "Clothing",
+    "rating": 2.5
+  },
+  {
+    "id": 114,
+    "image": "https://picsum.photos/200?random=114",
+    "name": "Product 114",
+    "price": 749.33,
+    "category": "Books",
+    "rating": 1.4
+  },
+  {
+    "id": 115,
+    "image": "https://picsum.photos/200?random=115",
+    "name": "Product 115",
+    "price": 507.42,
+    "category": "Home",
+    "rating": 2.1
+  },
+  {
+    "id": 116,
+    "image": "https://picsum.photos/200?random=116",
+    "name": "Product 116",
+    "price": 240.77,
+    "category": "Clothing",
+    "rating": 3.8
+  },
+  {
+    "id": 117,
+    "image": "https://picsum.photos/200?random=117",
+    "name": "Product 117",
+    "price": 267.82,
+    "category": "Books",
+    "rating": 4.4
+  },
+  {
+    "id": 118,
+    "image": "https://picsum.photos/200?random=118",
+    "name": "Product 118",
+    "price": 284.71,
+    "category": "Clothing",
+    "rating": 4.0
+  },
+  {
+    "id": 119,
+    "image": "https://picsum.photos/200?random=119",
+    "name": "Product 119",
+    "price": 144.25,
+    "category": "Home",
+    "rating": 1.6
+  },
+  {
+    "id": 120,
+    "image": "https://picsum.photos/200?random=120",
+    "name": "Product 120",
+    "price": 33.37,
+    "category": "Electronics",
+    "rating": 4.3
+  },
+  {
+    "id": 121,
+    "image": "https://picsum.photos/200?random=121",
+    "name": "Product 121",
+    "price": 979.52,
+    "category": "Home",
+    "rating": 2.3
+  },
+  {
+    "id": 122,
+    "image": "https://picsum.photos/200?random=122",
+    "name": "Product 122",
+    "price": 752.27,
+    "category": "Home",
+    "rating": 4.5
+  },
+  {
+    "id": 123,
+    "image": "https://picsum.photos/200?random=123",
+    "name": "Product 123",
+    "price": 862.97,
+    "category": "Clothing",
+    "rating": 4.8
+  },
+  {
+    "id": 124,
+    "image": "https://picsum.photos/200?random=124",
+    "name": "Product 124",
+    "price": 535.52,
+    "category": "Electronics",
+    "rating": 3.8
+  },
+  {
+    "id": 125,
+    "image": "https://picsum.photos/200?random=125",
+    "name": "Product 125",
+    "price": 199.25,
+    "category": "Electronics",
+    "rating": 4.9
+  },
+  {
+    "id": 126,
+    "image": "https://picsum.photos/200?random=126",
+    "name": "Product 126",
+    "price": 258.84,
+    "category": "Home",
+    "rating": 1.6
+  },
+  {
+    "id": 127,
+    "image": "https://picsum.photos/200?random=127",
+    "name": "Product 127",
+    "price": 420.69,
+    "category": "Books",
+    "rating": 4.3
+  },
+  {
+    "id": 128,
+    "image": "https://picsum.photos/200?random=128",
+    "name": "Product 128",
+    "price": 711.18,
+    "category": "Electronics",
+    "rating": 2.4
+  },
+  {
+    "id": 129,
+    "image": "https://picsum.photos/200?random=129",
+    "name": "Product 129",
+    "price": 568.39,
+    "category": "Clothing",
+    "rating": 4.9
+  },
+  {
+    "id": 130,
+    "image": "https://picsum.photos/200?random=130",
+    "name": "Product 130",
+    "price": 530.49,
+    "category": "Home",
+    "rating": 4.9
+  },
+  {
+    "id": 131,
+    "image": "https://picsum.photos/200?random=131",
+    "name": "Product 131",
+    "price": 927.36,
+    "category": "Electronics",
+    "rating": 2.4
+  },
+  {
+    "id": 132,
+    "image": "https://picsum.photos/200?random=132",
+    "name": "Product 132",
+    "price": 971.02,
+    "category": "Books",
+    "rating": 1.0
+  },
+  {
+    "id": 133,
+    "image": "https://picsum.photos/200?random=133",
+    "name": "Product 133",
+    "price": 342.67,
+    "category": "Books",
+    "rating": 4.3
+  },
+  {
+    "id": 134,
+    "image": "https://picsum.photos/200?random=134",
+    "name": "Product 134",
+    "price": 788.76,
+    "category": "Electronics",
+    "rating": 1.9
+  },
+  {
+    "id": 135,
+    "image": "https://picsum.photos/200?random=135",
+    "name": "Product 135",
+    "price": 569.87,
+    "category": "Clothing",
+    "rating": 1.9
+  },
+  {
+    "id": 136,
+    "image": "https://picsum.photos/200?random=136",
+    "name": "Product 136",
+    "price": 691.11,
+    "category": "Clothing",
+    "rating": 1.3
+  },
+  {
+    "id": 137,
+    "image": "https://picsum.photos/200?random=137",
+    "name": "Product 137",
+    "price": 253.61,
+    "category": "Clothing",
+    "rating": 3.1
+  },
+  {
+    "id": 138,
+    "image": "https://picsum.photos/200?random=138",
+    "name": "Product 138",
+    "price": 23.42,
+    "category": "Clothing",
+    "rating": 2.5
+  },
+  {
+    "id": 139,
+    "image": "https://picsum.photos/200?random=139",
+    "name": "Product 139",
+    "price": 807.72,
+    "category": "Clothing",
+    "rating": 1.6
+  },
+  {
+    "id": 140,
+    "image": "https://picsum.photos/200?random=140",
+    "name": "Product 140",
+    "price": 352.61,
+    "category": "Home",
+    "rating": 2.9
+  },
+  {
+    "id": 141,
+    "image": "https://picsum.photos/200?random=141",
+    "name": "Product 141",
+    "price": 407.3,
+    "category": "Electronics",
+    "rating": 2.6
+  },
+  {
+    "id": 142,
+    "image": "https://picsum.photos/200?random=142",
+    "name": "Product 142",
+    "price": 919.72,
+    "category": "Books",
+    "rating": 2.4
+  },
+  {
+    "id": 143,
+    "image": "https://picsum.photos/200?random=143",
+    "name": "Product 143",
+    "price": 698.22,
+    "category": "Clothing",
+    "rating": 3.3
+  },
+  {
+    "id": 144,
+    "image": "https://picsum.photos/200?random=144",
+    "name": "Product 144",
+    "price": 240.57,
+    "category": "Electronics",
+    "rating": 1.3
+  },
+  {
+    "id": 145,
+    "image": "https://picsum.photos/200?random=145",
+    "name": "Product 145",
+    "price": 105.97,
+    "category": "Clothing",
+    "rating": 3.0
+  },
+  {
+    "id": 146,
+    "image": "https://picsum.photos/200?random=146",
+    "name": "Product 146",
+    "price": 550.25,
+    "category": "Books",
+    "rating": 1.2
+  },
+  {
+    "id": 147,
+    "image": "https://picsum.photos/200?random=147",
+    "name": "Product 147",
+    "price": 690.72,
+    "category": "Home",
+    "rating": 4.8
+  },
+  {
+    "id": 148,
+    "image": "https://picsum.photos/200?random=148",
+    "name": "Product 148",
+    "price": 374.64,
+    "category": "Clothing",
+    "rating": 1.5
+  },
+  {
+    "id": 149,
+    "image": "https://picsum.photos/200?random=149",
+    "name": "Product 149",
+    "price": 987.44,
+    "category": "Home",
+    "rating": 3.5
+  },
+  {
+    "id": 150,
+    "image": "https://picsum.photos/200?random=150",
+    "name": "Product 150",
+    "price": 931.76,
+    "category": "Books",
+    "rating": 1.5
+  },
+  {
+    "id": 151,
+    "image": "https://picsum.photos/200?random=151",
+    "name": "Product 151",
+    "price": 970.56,
+    "category": "Books",
+    "rating": 3.0
+  },
+  {
+    "id": 152,
+    "image": "https://picsum.photos/200?random=152",
+    "name": "Product 152",
+    "price": 923.22,
+    "category": "Electronics",
+    "rating": 4.5
+  },
+  {
+    "id": 153,
+    "image": "https://picsum.photos/200?random=153",
+    "name": "Product 153",
+    "price": 658.43,
+    "category": "Clothing",
+    "rating": 2.0
+  },
+  {
+    "id": 154,
+    "image": "https://picsum.photos/200?random=154",
+    "name": "Product 154",
+    "price": 985.75,
+    "category": "Clothing",
+    "rating": 1.1
+  },
+  {
+    "id": 155,
+    "image": "https://picsum.photos/200?random=155",
+    "name": "Product 155",
+    "price": 423.22,
+    "category": "Clothing",
+    "rating": 2.1
+  },
+  {
+    "id": 156,
+    "image": "https://picsum.photos/200?random=156",
+    "name": "Product 156",
+    "price": 638.79,
+    "category": "Books",
+    "rating": 2.7
+  },
+  {
+    "id": 157,
+    "image": "https://picsum.photos/200?random=157",
+    "name": "Product 157",
+    "price": 898.5,
+    "category": "Books",
+    "rating": 3.6
+  },
+  {
+    "id": 158,
+    "image": "https://picsum.photos/200?random=158",
+    "name": "Product 158",
+    "price": 649.16,
+    "category": "Books",
+    "rating": 1.6
+  },
+  {
+    "id": 159,
+    "image": "https://picsum.photos/200?random=159",
+    "name": "Product 159",
+    "price": 450.5,
+    "category": "Books",
+    "rating": 1.7
+  },
+  {
+    "id": 160,
+    "image": "https://picsum.photos/200?random=160",
+    "name": "Product 160",
+    "price": 20.47,
+    "category": "Home",
+    "rating": 3.7
+  },
+  {
+    "id": 161,
+    "image": "https://picsum.photos/200?random=161",
+    "name": "Product 161",
+    "price": 384.96,
+    "category": "Clothing",
+    "rating": 2.5
+  },
+  {
+    "id": 162,
+    "image": "https://picsum.photos/200?random=162",
+    "name": "Product 162",
+    "price": 624.71,
+    "category": "Electronics",
+    "rating": 3.8
+  },
+  {
+    "id": 163,
+    "image": "https://picsum.photos/200?random=163",
+    "name": "Product 163",
+    "price": 882.98,
+    "category": "Clothing",
+    "rating": 2.6
+  },
+  {
+    "id": 164,
+    "image": "https://picsum.photos/200?random=164",
+    "name": "Product 164",
+    "price": 808.41,
+    "category": "Books",
+    "rating": 1.2
+  },
+  {
+    "id": 165,
+    "image": "https://picsum.photos/200?random=165",
+    "name": "Product 165",
+    "price": 886.16,
+    "category": "Home",
+    "rating": 1.8
+  },
+  {
+    "id": 166,
+    "image": "https://picsum.photos/200?random=166",
+    "name": "Product 166",
+    "price": 902.47,
+    "category": "Electronics",
+    "rating": 3.6
+  },
+  {
+    "id": 167,
+    "image": "https://picsum.photos/200?random=167",
+    "name": "Product 167",
+    "price": 232.27,
+    "category": "Home",
+    "rating": 4.7
+  },
+  {
+    "id": 168,
+    "image": "https://picsum.photos/200?random=168",
+    "name": "Product 168",
+    "price": 539.73,
+    "category": "Clothing",
+    "rating": 3.9
+  },
+  {
+    "id": 169,
+    "image": "https://picsum.photos/200?random=169",
+    "name": "Product 169",
+    "price": 804.03,
+    "category": "Clothing",
+    "rating": 1.4
+  },
+  {
+    "id": 170,
+    "image": "https://picsum.photos/200?random=170",
+    "name": "Product 170",
+    "price": 595.67,
+    "category": "Books",
+    "rating": 2.1
+  },
+  {
+    "id": 171,
+    "image": "https://picsum.photos/200?random=171",
+    "name": "Product 171",
+    "price": 718.44,
+    "category": "Books",
+    "rating": 3.3
+  },
+  {
+    "id": 172,
+    "image": "https://picsum.photos/200?random=172",
+    "name": "Product 172",
+    "price": 271.02,
+    "category": "Clothing",
+    "rating": 1.2
+  },
+  {
+    "id": 173,
+    "image": "https://picsum.photos/200?random=173",
+    "name": "Product 173",
+    "price": 495.64,
+    "category": "Electronics",
+    "rating": 3.5
+  },
+  {
+    "id": 174,
+    "image": "https://picsum.photos/200?random=174",
+    "name": "Product 174",
+    "price": 854.06,
+    "category": "Books",
+    "rating": 4.2
+  },
+  {
+    "id": 175,
+    "image": "https://picsum.photos/200?random=175",
+    "name": "Product 175",
+    "price": 954.66,
+    "category": "Home",
+    "rating": 4.4
+  },
+  {
+    "id": 176,
+    "image": "https://picsum.photos/200?random=176",
+    "name": "Product 176",
+    "price": 842.26,
+    "category": "Clothing",
+    "rating": 4.3
+  },
+  {
+    "id": 177,
+    "image": "https://picsum.photos/200?random=177",
+    "name": "Product 177",
+    "price": 122.81,
+    "category": "Books",
+    "rating": 1.5
+  },
+  {
+    "id": 178,
+    "image": "https://picsum.photos/200?random=178",
+    "name": "Product 178",
+    "price": 322.96,
+    "category": "Home",
+    "rating": 2.0
+  },
+  {
+    "id": 179,
+    "image": "https://picsum.photos/200?random=179",
+    "name": "Product 179",
+    "price": 456.05,
+    "category": "Clothing",
+    "rating": 1.6
+  },
+  {
+    "id": 180,
+    "image": "https://picsum.photos/200?random=180",
+    "name": "Product 180",
+    "price": 568.25,
+    "category": "Books",
+    "rating": 2.4
+  },
+  {
+    "id": 181,
+    "image": "https://picsum.photos/200?random=181",
+    "name": "Product 181",
+    "price": 933.98,
+    "category": "Books",
+    "rating": 4.2
+  },
+  {
+    "id": 182,
+    "image": "https://picsum.photos/200?random=182",
+    "name": "Product 182",
+    "price": 657.89,
+    "category": "Electronics",
+    "rating": 3.3
+  },
+  {
+    "id": 183,
+    "image": "https://picsum.photos/200?random=183",
+    "name": "Product 183",
+    "price": 84.63,
+    "category": "Electronics",
+    "rating": 2.2
+  },
+  {
+    "id": 184,
+    "image": "https://picsum.photos/200?random=184",
+    "name": "Product 184",
+    "price": 578.21,
+    "category": "Home",
+    "rating": 3.0
+  },
+  {
+    "id": 185,
+    "image": "https://picsum.photos/200?random=185",
+    "name": "Product 185",
+    "price": 306.06,
+    "category": "Home",
+    "rating": 2.5
+  },
+  {
+    "id": 186,
+    "image": "https://picsum.photos/200?random=186",
+    "name": "Product 186",
+    "price": 884.19,
+    "category": "Home",
+    "rating": 1.7
+  },
+  {
+    "id": 187,
+    "image": "https://picsum.photos/200?random=187",
+    "name": "Product 187",
+    "price": 16.89,
+    "category": "Clothing",
+    "rating": 3.9
+  },
+  {
+    "id": 188,
+    "image": "https://picsum.photos/200?random=188",
+    "name": "Product 188",
+    "price": 463.34,
+    "category": "Books",
+    "rating": 1.6
+  },
+  {
+    "id": 189,
+    "image": "https://picsum.photos/200?random=189",
+    "name": "Product 189",
+    "price": 923.05,
+    "category": "Clothing",
+    "rating": 3.1
+  },
+  {
+    "id": 190,
+    "image": "https://picsum.photos/200?random=190",
+    "name": "Product 190",
+    "price": 698.92,
+    "category": "Clothing",
+    "rating": 2.9
+  },
+  {
+    "id": 191,
+    "image": "https://picsum.photos/200?random=191",
+    "name": "Product 191",
+    "price": 446.3,
+    "category": "Clothing",
+    "rating": 2.6
+  },
+  {
+    "id": 192,
+    "image": "https://picsum.photos/200?random=192",
+    "name": "Product 192",
+    "price": 677.54,
+    "category": "Home",
+    "rating": 1.7
+  },
+  {
+    "id": 193,
+    "image": "https://picsum.photos/200?random=193",
+    "name": "Product 193",
+    "price": 603.24,
+    "category": "Electronics",
+    "rating": 4.4
+  },
+  {
+    "id": 194,
+    "image": "https://picsum.photos/200?random=194",
+    "name": "Product 194",
+    "price": 830.03,
+    "category": "Home",
+    "rating": 2.6
+  },
+  {
+    "id": 195,
+    "image": "https://picsum.photos/200?random=195",
+    "name": "Product 195",
+    "price": 263.77,
+    "category": "Books",
+    "rating": 4.1
+  },
+  {
+    "id": 196,
+    "image": "https://picsum.photos/200?random=196",
+    "name": "Product 196",
+    "price": 745.29,
+    "category": "Electronics",
+    "rating": 4.0
+  },
+  {
+    "id": 197,
+    "image": "https://picsum.photos/200?random=197",
+    "name": "Product 197",
+    "price": 286.74,
+    "category": "Books",
+    "rating": 1.1
+  },
+  {
+    "id": 198,
+    "image": "https://picsum.photos/200?random=198",
+    "name": "Product 198",
+    "price": 623.21,
+    "category": "Clothing",
+    "rating": 3.7
+  },
+  {
+    "id": 199,
+    "image": "https://picsum.photos/200?random=199",
+    "name": "Product 199",
+    "price": 103.32,
+    "category": "Books",
+    "rating": 2.5
+  },
+  {
+    "id": 200,
+    "image": "https://picsum.photos/200?random=200",
+    "name": "Product 200",
+    "price": 509.68,
+    "category": "Clothing",
+    "rating": 2.7
+  },
+  {
+    "id": 201,
+    "image": "https://picsum.photos/200?random=201",
+    "name": "Product 201",
+    "price": 881.94,
+    "category": "Home",
+    "rating": 4.4
+  },
+  {
+    "id": 202,
+    "image": "https://picsum.photos/200?random=202",
+    "name": "Product 202",
+    "price": 435.14,
+    "category": "Electronics",
+    "rating": 2.1
+  },
+  {
+    "id": 203,
+    "image": "https://picsum.photos/200?random=203",
+    "name": "Product 203",
+    "price": 17.84,
+    "category": "Home",
+    "rating": 2.3
+  },
+  {
+    "id": 204,
+    "image": "https://picsum.photos/200?random=204",
+    "name": "Product 204",
+    "price": 527.09,
+    "category": "Home",
+    "rating": 2.8
+  },
+  {
+    "id": 205,
+    "image": "https://picsum.photos/200?random=205",
+    "name": "Product 205",
+    "price": 173.09,
+    "category": "Clothing",
+    "rating": 2.5
+  },
+  {
+    "id": 206,
+    "image": "https://picsum.photos/200?random=206",
+    "name": "Product 206",
+    "price": 211.19,
+    "category": "Books",
+    "rating": 3.4
+  },
+  {
+    "id": 207,
+    "image": "https://picsum.photos/200?random=207",
+    "name": "Product 207",
+    "price": 496.97,
+    "category": "Books",
+    "rating": 2.9
+  },
+  {
+    "id": 208,
+    "image": "https://picsum.photos/200?random=208",
+    "name": "Product 208",
+    "price": 290.96,
+    "category": "Home",
+    "rating": 1.8
+  },
+  {
+    "id": 209,
+    "image": "https://picsum.photos/200?random=209",
+    "name": "Product 209",
+    "price": 620.34,
+    "category": "Books",
+    "rating": 2.5
+  },
+  {
+    "id": 210,
+    "image": "https://picsum.photos/200?random=210",
+    "name": "Product 210",
+    "price": 898.03,
+    "category": "Home",
+    "rating": 3.1
+  },
+  {
+    "id": 211,
+    "image": "https://picsum.photos/200?random=211",
+    "name": "Product 211",
+    "price": 812.72,
+    "category": "Electronics",
+    "rating": 2.3
+  },
+  {
+    "id": 212,
+    "image": "https://picsum.photos/200?random=212",
+    "name": "Product 212",
+    "price": 577.84,
+    "category": "Books",
+    "rating": 3.6
+  },
+  {
+    "id": 213,
+    "image": "https://picsum.photos/200?random=213",
+    "name": "Product 213",
+    "price": 76.59,
+    "category": "Electronics",
+    "rating": 2.8
+  },
+  {
+    "id": 214,
+    "image": "https://picsum.photos/200?random=214",
+    "name": "Product 214",
+    "price": 395.74,
+    "category": "Electronics",
+    "rating": 4.0
+  },
+  {
+    "id": 215,
+    "image": "https://picsum.photos/200?random=215",
+    "name": "Product 215",
+    "price": 254.97,
+    "category": "Electronics",
+    "rating": 2.9
+  },
+  {
+    "id": 216,
+    "image": "https://picsum.photos/200?random=216",
+    "name": "Product 216",
+    "price": 234.08,
+    "category": "Electronics",
+    "rating": 4.6
+  },
+  {
+    "id": 217,
+    "image": "https://picsum.photos/200?random=217",
+    "name": "Product 217",
+    "price": 995.56,
+    "category": "Home",
+    "rating": 2.8
+  },
+  {
+    "id": 218,
+    "image": "https://picsum.photos/200?random=218",
+    "name": "Product 218",
+    "price": 538.37,
+    "category": "Home",
+    "rating": 2.9
+  },
+  {
+    "id": 219,
+    "image": "https://picsum.photos/200?random=219",
+    "name": "Product 219",
+    "price": 732.75,
+    "category": "Books",
+    "rating": 4.8
+  },
+  {
+    "id": 220,
+    "image": "https://picsum.photos/200?random=220",
+    "name": "Product 220",
+    "price": 776.34,
+    "category": "Home",
+    "rating": 3.5
+  },
+  {
+    "id": 221,
+    "image": "https://picsum.photos/200?random=221",
+    "name": "Product 221",
+    "price": 651.11,
+    "category": "Home",
+    "rating": 1.7
+  },
+  {
+    "id": 222,
+    "image": "https://picsum.photos/200?random=222",
+    "name": "Product 222",
+    "price": 48.67,
+    "category": "Books",
+    "rating": 1.6
+  },
+  {
+    "id": 223,
+    "image": "https://picsum.photos/200?random=223",
+    "name": "Product 223",
+    "price": 990.51,
+    "category": "Home",
+    "rating": 3.1
+  },
+  {
+    "id": 224,
+    "image": "https://picsum.photos/200?random=224",
+    "name": "Product 224",
+    "price": 413.36,
+    "category": "Home",
+    "rating": 1.8
+  },
+  {
+    "id": 225,
+    "image": "https://picsum.photos/200?random=225",
+    "name": "Product 225",
+    "price": 307.87,
+    "category": "Electronics",
+    "rating": 4.1
+  },
+  {
+    "id": 226,
+    "image": "https://picsum.photos/200?random=226",
+    "name": "Product 226",
+    "price": 607.97,
+    "category": "Home",
+    "rating": 3.9
+  },
+  {
+    "id": 227,
+    "image": "https://picsum.photos/200?random=227",
+    "name": "Product 227",
+    "price": 791.1,
+    "category": "Books",
+    "rating": 3.7
+  },
+  {
+    "id": 228,
+    "image": "https://picsum.photos/200?random=228",
+    "name": "Product 228",
+    "price": 713.56,
+    "category": "Clothing",
+    "rating": 2.2
+  },
+  {
+    "id": 229,
+    "image": "https://picsum.photos/200?random=229",
+    "name": "Product 229",
+    "price": 226.4,
+    "category": "Clothing",
+    "rating": 4.8
+  },
+  {
+    "id": 230,
+    "image": "https://picsum.photos/200?random=230",
+    "name": "Product 230",
+    "price": 138.1,
+    "category": "Home",
+    "rating": 1.8
+  },
+  {
+    "id": 231,
+    "image": "https://picsum.photos/200?random=231",
+    "name": "Product 231",
+    "price": 790.51,
+    "category": "Clothing",
+    "rating": 2.7
+  },
+  {
+    "id": 232,
+    "image": "https://picsum.photos/200?random=232",
+    "name": "Product 232",
+    "price": 520.98,
+    "category": "Clothing",
+    "rating": 1.7
+  },
+  {
+    "id": 233,
+    "image": "https://picsum.photos/200?random=233",
+    "name": "Product 233",
+    "price": 449.51,
+    "category": "Electronics",
+    "rating": 4.0
+  },
+  {
+    "id": 234,
+    "image": "https://picsum.photos/200?random=234",
+    "name": "Product 234",
+    "price": 96.03,
+    "category": "Books",
+    "rating": 2.1
+  },
+  {
+    "id": 235,
+    "image": "https://picsum.photos/200?random=235",
+    "name": "Product 235",
+    "price": 127.69,
+    "category": "Clothing",
+    "rating": 2.3
+  },
+  {
+    "id": 236,
+    "image": "https://picsum.photos/200?random=236",
+    "name": "Product 236",
+    "price": 678.77,
+    "category": "Clothing",
+    "rating": 3.6
+  },
+  {
+    "id": 237,
+    "image": "https://picsum.photos/200?random=237",
+    "name": "Product 237",
+    "price": 815.25,
+    "category": "Home",
+    "rating": 4.3
+  },
+  {
+    "id": 238,
+    "image": "https://picsum.photos/200?random=238",
+    "name": "Product 238",
+    "price": 568.38,
+    "category": "Home",
+    "rating": 2.4
+  },
+  {
+    "id": 239,
+    "image": "https://picsum.photos/200?random=239",
+    "name": "Product 239",
+    "price": 393.09,
+    "category": "Clothing",
+    "rating": 3.7
+  },
+  {
+    "id": 240,
+    "image": "https://picsum.photos/200?random=240",
+    "name": "Product 240",
+    "price": 106.64,
+    "category": "Home",
+    "rating": 4.4
+  },
+  {
+    "id": 241,
+    "image": "https://picsum.photos/200?random=241",
+    "name": "Product 241",
+    "price": 399.34,
+    "category": "Electronics",
+    "rating": 1.9
+  },
+  {
+    "id": 242,
+    "image": "https://picsum.photos/200?random=242",
+    "name": "Product 242",
+    "price": 619.04,
+    "category": "Books",
+    "rating": 3.3
+  },
+  {
+    "id": 243,
+    "image": "https://picsum.photos/200?random=243",
+    "name": "Product 243",
+    "price": 563.97,
+    "category": "Electronics",
+    "rating": 5.0
+  },
+  {
+    "id": 244,
+    "image": "https://picsum.photos/200?random=244",
+    "name": "Product 244",
+    "price": 822.44,
+    "category": "Electronics",
+    "rating": 2.6
+  },
+  {
+    "id": 245,
+    "image": "https://picsum.photos/200?random=245",
+    "name": "Product 245",
+    "price": 694.81,
+    "category": "Home",
+    "rating": 4.1
+  },
+  {
+    "id": 246,
+    "image": "https://picsum.photos/200?random=246",
+    "name": "Product 246",
+    "price": 943.15,
+    "category": "Books",
+    "rating": 1.1
+  },
+  {
+    "id": 247,
+    "image": "https://picsum.photos/200?random=247",
+    "name": "Product 247",
+    "price": 747.72,
+    "category": "Home",
+    "rating": 4.0
+  },
+  {
+    "id": 248,
+    "image": "https://picsum.photos/200?random=248",
+    "name": "Product 248",
+    "price": 491.04,
+    "category": "Books",
+    "rating": 1.6
+  },
+  {
+    "id": 249,
+    "image": "https://picsum.photos/200?random=249",
+    "name": "Product 249",
+    "price": 490.21,
+    "category": "Home",
+    "rating": 3.7
+  },
+  {
+    "id": 250,
+    "image": "https://picsum.photos/200?random=250",
+    "name": "Product 250",
+    "price": 95.17,
+    "category": "Electronics",
+    "rating": 3.6
+  },
+  {
+    "id": 251,
+    "image": "https://picsum.photos/200?random=251",
+    "name": "Product 251",
+    "price": 222.03,
+    "category": "Clothing",
+    "rating": 4.9
+  },
+  {
+    "id": 252,
+    "image": "https://picsum.photos/200?random=252",
+    "name": "Product 252",
+    "price": 693.41,
+    "category": "Home",
+    "rating": 4.8
+  },
+  {
+    "id": 253,
+    "image": "https://picsum.photos/200?random=253",
+    "name": "Product 253",
+    "price": 24.66,
+    "category": "Clothing",
+    "rating": 1.8
+  },
+  {
+    "id": 254,
+    "image": "https://picsum.photos/200?random=254",
+    "name": "Product 254",
+    "price": 936.42,
+    "category": "Electronics",
+    "rating": 2.4
+  },
+  {
+    "id": 255,
+    "image": "https://picsum.photos/200?random=255",
+    "name": "Product 255",
+    "price": 827.17,
+    "category": "Electronics",
+    "rating": 3.2
+  },
+  {
+    "id": 256,
+    "image": "https://picsum.photos/200?random=256",
+    "name": "Product 256",
+    "price": 477.52,
+    "category": "Home",
+    "rating": 2.6
+  },
+  {
+    "id": 257,
+    "image": "https://picsum.photos/200?random=257",
+    "name": "Product 257",
+    "price": 233.14,
+    "category": "Electronics",
+    "rating": 4.7
+  },
+  {
+    "id": 258,
+    "image": "https://picsum.photos/200?random=258",
+    "name": "Product 258",
+    "price": 719.1,
+    "category": "Books",
+    "rating": 4.9
+  },
+  {
+    "id": 259,
+    "image": "https://picsum.photos/200?random=259",
+    "name": "Product 259",
+    "price": 811.76,
+    "category": "Books",
+    "rating": 4.2
+  },
+  {
+    "id": 260,
+    "image": "https://picsum.photos/200?random=260",
+    "name": "Product 260",
+    "price": 508.9,
+    "category": "Electronics",
+    "rating": 4.5
+  },
+  {
+    "id": 261,
+    "image": "https://picsum.photos/200?random=261",
+    "name": "Product 261",
+    "price": 159.56,
+    "category": "Books",
+    "rating": 3.8
+  },
+  {
+    "id": 262,
+    "image": "https://picsum.photos/200?random=262",
+    "name": "Product 262",
+    "price": 206.53,
+    "category": "Electronics",
+    "rating": 3.9
+  },
+  {
+    "id": 263,
+    "image": "https://picsum.photos/200?random=263",
+    "name": "Product 263",
+    "price": 576.53,
+    "category": "Books",
+    "rating": 4.5
+  },
+  {
+    "id": 264,
+    "image": "https://picsum.photos/200?random=264",
+    "name": "Product 264",
+    "price": 35.8,
+    "category": "Books",
+    "rating": 2.7
+  },
+  {
+    "id": 265,
+    "image": "https://picsum.photos/200?random=265",
+    "name": "Product 265",
+    "price": 678.12,
+    "category": "Electronics",
+    "rating": 4.8
+  },
+  {
+    "id": 266,
+    "image": "https://picsum.photos/200?random=266",
+    "name": "Product 266",
+    "price": 814.28,
+    "category": "Books",
+    "rating": 2.5
+  },
+  {
+    "id": 267,
+    "image": "https://picsum.photos/200?random=267",
+    "name": "Product 267",
+    "price": 599.92,
+    "category": "Clothing",
+    "rating": 2.7
+  },
+  {
+    "id": 268,
+    "image": "https://picsum.photos/200?random=268",
+    "name": "Product 268",
+    "price": 803.5,
+    "category": "Home",
+    "rating": 4.4
+  },
+  {
+    "id": 269,
+    "image": "https://picsum.photos/200?random=269",
+    "name": "Product 269",
+    "price": 731.51,
+    "category": "Electronics",
+    "rating": 4.3
+  },
+  {
+    "id": 270,
+    "image": "https://picsum.photos/200?random=270",
+    "name": "Product 270",
+    "price": 322.29,
+    "category": "Electronics",
+    "rating": 3.9
+  },
+  {
+    "id": 271,
+    "image": "https://picsum.photos/200?random=271",
+    "name": "Product 271",
+    "price": 264.56,
+    "category": "Clothing",
+    "rating": 3.4
+  },
+  {
+    "id": 272,
+    "image": "https://picsum.photos/200?random=272",
+    "name": "Product 272",
+    "price": 396.31,
+    "category": "Home",
+    "rating": 4.1
+  },
+  {
+    "id": 273,
+    "image": "https://picsum.photos/200?random=273",
+    "name": "Product 273",
+    "price": 759.94,
+    "category": "Home",
+    "rating": 2.1
+  },
+  {
+    "id": 274,
+    "image": "https://picsum.photos/200?random=274",
+    "name": "Product 274",
+    "price": 349.28,
+    "category": "Electronics",
+    "rating": 2.6
+  },
+  {
+    "id": 275,
+    "image": "https://picsum.photos/200?random=275",
+    "name": "Product 275",
+    "price": 772.37,
+    "category": "Clothing",
+    "rating": 2.3
+  },
+  {
+    "id": 276,
+    "image": "https://picsum.photos/200?random=276",
+    "name": "Product 276",
+    "price": 293.52,
+    "category": "Books",
+    "rating": 3.3
+  },
+  {
+    "id": 277,
+    "image": "https://picsum.photos/200?random=277",
+    "name": "Product 277",
+    "price": 28.77,
+    "category": "Electronics",
+    "rating": 4.9
+  },
+  {
+    "id": 278,
+    "image": "https://picsum.photos/200?random=278",
+    "name": "Product 278",
+    "price": 987.57,
+    "category": "Books",
+    "rating": 2.7
+  },
+  {
+    "id": 279,
+    "image": "https://picsum.photos/200?random=279",
+    "name": "Product 279",
+    "price": 122.39,
+    "category": "Home",
+    "rating": 2.1
+  },
+  {
+    "id": 280,
+    "image": "https://picsum.photos/200?random=280",
+    "name": "Product 280",
+    "price": 607.1,
+    "category": "Clothing",
+    "rating": 1.8
+  },
+  {
+    "id": 281,
+    "image": "https://picsum.photos/200?random=281",
+    "name": "Product 281",
+    "price": 310.42,
+    "category": "Clothing",
+    "rating": 3.1
+  },
+  {
+    "id": 282,
+    "image": "https://picsum.photos/200?random=282",
+    "name": "Product 282",
+    "price": 428.27,
+    "category": "Books",
+    "rating": 3.5
+  },
+  {
+    "id": 283,
+    "image": "https://picsum.photos/200?random=283",
+    "name": "Product 283",
+    "price": 330.97,
+    "category": "Electronics",
+    "rating": 4.5
+  },
+  {
+    "id": 284,
+    "image": "https://picsum.photos/200?random=284",
+    "name": "Product 284",
+    "price": 160.81,
+    "category": "Home",
+    "rating": 3.1
+  },
+  {
+    "id": 285,
+    "image": "https://picsum.photos/200?random=285",
+    "name": "Product 285",
+    "price": 300.12,
+    "category": "Home",
+    "rating": 3.1
+  },
+  {
+    "id": 286,
+    "image": "https://picsum.photos/200?random=286",
+    "name": "Product 286",
+    "price": 870.88,
+    "category": "Home",
+    "rating": 1.3
+  },
+  {
+    "id": 287,
+    "image": "https://picsum.photos/200?random=287",
+    "name": "Product 287",
+    "price": 65.56,
+    "category": "Home",
+    "rating": 3.4
+  },
+  {
+    "id": 288,
+    "image": "https://picsum.photos/200?random=288",
+    "name": "Product 288",
+    "price": 740.65,
+    "category": "Books",
+    "rating": 1.0
+  },
+  {
+    "id": 289,
+    "image": "https://picsum.photos/200?random=289",
+    "name": "Product 289",
+    "price": 901.97,
+    "category": "Books",
+    "rating": 3.9
+  },
+  {
+    "id": 290,
+    "image": "https://picsum.photos/200?random=290",
+    "name": "Product 290",
+    "price": 158.84,
+    "category": "Home",
+    "rating": 4.6
+  },
+  {
+    "id": 291,
+    "image": "https://picsum.photos/200?random=291",
+    "name": "Product 291",
+    "price": 214.07,
+    "category": "Home",
+    "rating": 4.7
+  },
+  {
+    "id": 292,
+    "image": "https://picsum.photos/200?random=292",
+    "name": "Product 292",
+    "price": 508.38,
+    "category": "Clothing",
+    "rating": 3.4
+  },
+  {
+    "id": 293,
+    "image": "https://picsum.photos/200?random=293",
+    "name": "Product 293",
+    "price": 780.8,
+    "category": "Books",
+    "rating": 3.9
+  },
+  {
+    "id": 294,
+    "image": "https://picsum.photos/200?random=294",
+    "name": "Product 294",
+    "price": 666.46,
+    "category": "Clothing",
+    "rating": 3.3
+  },
+  {
+    "id": 295,
+    "image": "https://picsum.photos/200?random=295",
+    "name": "Product 295",
+    "price": 369.17,
+    "category": "Books",
+    "rating": 4.4
+  },
+  {
+    "id": 296,
+    "image": "https://picsum.photos/200?random=296",
+    "name": "Product 296",
+    "price": 572.07,
+    "category": "Home",
+    "rating": 2.3
+  },
+  {
+    "id": 297,
+    "image": "https://picsum.photos/200?random=297",
+    "name": "Product 297",
+    "price": 282.74,
+    "category": "Clothing",
+    "rating": 4.8
+  },
+  {
+    "id": 298,
+    "image": "https://picsum.photos/200?random=298",
+    "name": "Product 298",
+    "price": 996.18,
+    "category": "Books",
+    "rating": 2.8
+  },
+  {
+    "id": 299,
+    "image": "https://picsum.photos/200?random=299",
+    "name": "Product 299",
+    "price": 765.91,
+    "category": "Home",
+    "rating": 4.1
+  },
+  {
+    "id": 300,
+    "image": "https://picsum.photos/200?random=300",
+    "name": "Product 300",
+    "price": 307.67,
+    "category": "Clothing",
+    "rating": 4.5
+  },
+  {
+    "id": 301,
+    "image": "https://picsum.photos/200?random=301",
+    "name": "Product 301",
+    "price": 970.71,
+    "category": "Electronics",
+    "rating": 3.2
+  },
+  {
+    "id": 302,
+    "image": "https://picsum.photos/200?random=302",
+    "name": "Product 302",
+    "price": 672.02,
+    "category": "Books",
+    "rating": 2.9
+  },
+  {
+    "id": 303,
+    "image": "https://picsum.photos/200?random=303",
+    "name": "Product 303",
+    "price": 640.91,
+    "category": "Electronics",
+    "rating": 3.4
+  },
+  {
+    "id": 304,
+    "image": "https://picsum.photos/200?random=304",
+    "name": "Product 304",
+    "price": 694.92,
+    "category": "Home",
+    "rating": 3.7
+  },
+  {
+    "id": 305,
+    "image": "https://picsum.photos/200?random=305",
+    "name": "Product 305",
+    "price": 494.78,
+    "category": "Home",
+    "rating": 2.6
+  },
+  {
+    "id": 306,
+    "image": "https://picsum.photos/200?random=306",
+    "name": "Product 306",
+    "price": 10.82,
+    "category": "Home",
+    "rating": 1.3
+  },
+  {
+    "id": 307,
+    "image": "https://picsum.photos/200?random=307",
+    "name": "Product 307",
+    "price": 744.59,
+    "category": "Home",
+    "rating": 3.6
+  },
+  {
+    "id": 308,
+    "image": "https://picsum.photos/200?random=308",
+    "name": "Product 308",
+    "price": 782.14,
+    "category": "Clothing",
+    "rating": 1.1
+  },
+  {
+    "id": 309,
+    "image": "https://picsum.photos/200?random=309",
+    "name": "Product 309",
+    "price": 890.24,
+    "category": "Home",
+    "rating": 2.3
+  },
+  {
+    "id": 310,
+    "image": "https://picsum.photos/200?random=310",
+    "name": "Product 310",
+    "price": 244.51,
+    "category": "Electronics",
+    "rating": 2.2
+  },
+  {
+    "id": 311,
+    "image": "https://picsum.photos/200?random=311",
+    "name": "Product 311",
+    "price": 568.27,
+    "category": "Electronics",
+    "rating": 3.9
+  },
+  {
+    "id": 312,
+    "image": "https://picsum.photos/200?random=312",
+    "name": "Product 312",
+    "price": 553.8,
+    "category": "Clothing",
+    "rating": 3.2
+  },
+  {
+    "id": 313,
+    "image": "https://picsum.photos/200?random=313",
+    "name": "Product 313",
+    "price": 360.48,
+    "category": "Electronics",
+    "rating": 3.4
+  },
+  {
+    "id": 314,
+    "image": "https://picsum.photos/200?random=314",
+    "name": "Product 314",
+    "price": 423.04,
+    "category": "Clothing",
+    "rating": 3.2
+  },
+  {
+    "id": 315,
+    "image": "https://picsum.photos/200?random=315",
+    "name": "Product 315",
+    "price": 986.41,
+    "category": "Books",
+    "rating": 2.4
+  },
+  {
+    "id": 316,
+    "image": "https://picsum.photos/200?random=316",
+    "name": "Product 316",
+    "price": 396.56,
+    "category": "Electronics",
+    "rating": 4.6
+  },
+  {
+    "id": 317,
+    "image": "https://picsum.photos/200?random=317",
+    "name": "Product 317",
+    "price": 264.15,
+    "category": "Home",
+    "rating": 3.7
+  },
+  {
+    "id": 318,
+    "image": "https://picsum.photos/200?random=318",
+    "name": "Product 318",
+    "price": 768.02,
+    "category": "Home",
+    "rating": 3.1
+  },
+  {
+    "id": 319,
+    "image": "https://picsum.photos/200?random=319",
+    "name": "Product 319",
+    "price": 740.29,
+    "category": "Electronics",
+    "rating": 4.0
+  },
+  {
+    "id": 320,
+    "image": "https://picsum.photos/200?random=320",
+    "name": "Product 320",
+    "price": 299.99,
+    "category": "Electronics",
+    "rating": 3.9
+  },
+  {
+    "id": 321,
+    "image": "https://picsum.photos/200?random=321",
+    "name": "Product 321",
+    "price": 858.01,
+    "category": "Electronics",
+    "rating": 4.9
+  },
+  {
+    "id": 322,
+    "image": "https://picsum.photos/200?random=322",
+    "name": "Product 322",
+    "price": 958.14,
+    "category": "Electronics",
+    "rating": 3.1
+  },
+  {
+    "id": 323,
+    "image": "https://picsum.photos/200?random=323",
+    "name": "Product 323",
+    "price": 564.14,
+    "category": "Electronics",
+    "rating": 2.1
+  },
+  {
+    "id": 324,
+    "image": "https://picsum.photos/200?random=324",
+    "name": "Product 324",
+    "price": 762.71,
+    "category": "Books",
+    "rating": 1.9
+  },
+  {
+    "id": 325,
+    "image": "https://picsum.photos/200?random=325",
+    "name": "Product 325",
+    "price": 357.7,
+    "category": "Books",
+    "rating": 1.4
+  },
+  {
+    "id": 326,
+    "image": "https://picsum.photos/200?random=326",
+    "name": "Product 326",
+    "price": 417.47,
+    "category": "Home",
+    "rating": 4.5
+  },
+  {
+    "id": 327,
+    "image": "https://picsum.photos/200?random=327",
+    "name": "Product 327",
+    "price": 366.74,
+    "category": "Books",
+    "rating": 2.3
+  },
+  {
+    "id": 328,
+    "image": "https://picsum.photos/200?random=328",
+    "name": "Product 328",
+    "price": 26.85,
+    "category": "Home",
+    "rating": 1.6
+  },
+  {
+    "id": 329,
+    "image": "https://picsum.photos/200?random=329",
+    "name": "Product 329",
+    "price": 289.53,
+    "category": "Home",
+    "rating": 4.6
+  },
+  {
+    "id": 330,
+    "image": "https://picsum.photos/200?random=330",
+    "name": "Product 330",
+    "price": 265.37,
+    "category": "Electronics",
+    "rating": 4.9
+  },
+  {
+    "id": 331,
+    "image": "https://picsum.photos/200?random=331",
+    "name": "Product 331",
+    "price": 820.67,
+    "category": "Clothing",
+    "rating": 2.3
+  },
+  {
+    "id": 332,
+    "image": "https://picsum.photos/200?random=332",
+    "name": "Product 332",
+    "price": 676.08,
+    "category": "Clothing",
+    "rating": 3.7
+  },
+  {
+    "id": 333,
+    "image": "https://picsum.photos/200?random=333",
+    "name": "Product 333",
+    "price": 719.82,
+    "category": "Home",
+    "rating": 3.2
+  },
+  {
+    "id": 334,
+    "image": "https://picsum.photos/200?random=334",
+    "name": "Product 334",
+    "price": 82.34,
+    "category": "Home",
+    "rating": 2.2
+  },
+  {
+    "id": 335,
+    "image": "https://picsum.photos/200?random=335",
+    "name": "Product 335",
+    "price": 179.87,
+    "category": "Books",
+    "rating": 4.7
+  },
+  {
+    "id": 336,
+    "image": "https://picsum.photos/200?random=336",
+    "name": "Product 336",
+    "price": 863.39,
+    "category": "Electronics",
+    "rating": 1.2
+  },
+  {
+    "id": 337,
+    "image": "https://picsum.photos/200?random=337",
+    "name": "Product 337",
+    "price": 156.66,
+    "category": "Clothing",
+    "rating": 1.4
+  },
+  {
+    "id": 338,
+    "image": "https://picsum.photos/200?random=338",
+    "name": "Product 338",
+    "price": 222.68,
+    "category": "Electronics",
+    "rating": 3.2
+  },
+  {
+    "id": 339,
+    "image": "https://picsum.photos/200?random=339",
+    "name": "Product 339",
+    "price": 458.56,
+    "category": "Electronics",
+    "rating": 3.3
+  },
+  {
+    "id": 340,
+    "image": "https://picsum.photos/200?random=340",
+    "name": "Product 340",
+    "price": 753.26,
+    "category": "Home",
+    "rating": 3.0
+  },
+  {
+    "id": 341,
+    "image": "https://picsum.photos/200?random=341",
+    "name": "Product 341",
+    "price": 801.44,
+    "category": "Clothing",
+    "rating": 4.8
+  },
+  {
+    "id": 342,
+    "image": "https://picsum.photos/200?random=342",
+    "name": "Product 342",
+    "price": 413.96,
+    "category": "Home",
+    "rating": 3.5
+  },
+  {
+    "id": 343,
+    "image": "https://picsum.photos/200?random=343",
+    "name": "Product 343",
+    "price": 827.42,
+    "category": "Electronics",
+    "rating": 2.8
+  },
+  {
+    "id": 344,
+    "image": "https://picsum.photos/200?random=344",
+    "name": "Product 344",
+    "price": 525.88,
+    "category": "Electronics",
+    "rating": 3.8
+  },
+  {
+    "id": 345,
+    "image": "https://picsum.photos/200?random=345",
+    "name": "Product 345",
+    "price": 726.92,
+    "category": "Home",
+    "rating": 3.0
+  },
+  {
+    "id": 346,
+    "image": "https://picsum.photos/200?random=346",
+    "name": "Product 346",
+    "price": 742.5,
+    "category": "Electronics",
+    "rating": 4.4
+  },
+  {
+    "id": 347,
+    "image": "https://picsum.photos/200?random=347",
+    "name": "Product 347",
+    "price": 208.51,
+    "category": "Home",
+    "rating": 2.4
+  },
+  {
+    "id": 348,
+    "image": "https://picsum.photos/200?random=348",
+    "name": "Product 348",
+    "price": 137.46,
+    "category": "Books",
+    "rating": 3.2
+  },
+  {
+    "id": 349,
+    "image": "https://picsum.photos/200?random=349",
+    "name": "Product 349",
+    "price": 770.21,
+    "category": "Home",
+    "rating": 1.1
+  },
+  {
+    "id": 350,
+    "image": "https://picsum.photos/200?random=350",
+    "name": "Product 350",
+    "price": 455.04,
+    "category": "Electronics",
+    "rating": 2.5
+  },
+  {
+    "id": 351,
+    "image": "https://picsum.photos/200?random=351",
+    "name": "Product 351",
+    "price": 798.06,
+    "category": "Clothing",
+    "rating": 2.7
+  },
+  {
+    "id": 352,
+    "image": "https://picsum.photos/200?random=352",
+    "name": "Product 352",
+    "price": 454.17,
+    "category": "Clothing",
+    "rating": 3.6
+  },
+  {
+    "id": 353,
+    "image": "https://picsum.photos/200?random=353",
+    "name": "Product 353",
+    "price": 865.2,
+    "category": "Home",
+    "rating": 4.7
+  },
+  {
+    "id": 354,
+    "image": "https://picsum.photos/200?random=354",
+    "name": "Product 354",
+    "price": 823.12,
+    "category": "Home",
+    "rating": 4.3
+  },
+  {
+    "id": 355,
+    "image": "https://picsum.photos/200?random=355",
+    "name": "Product 355",
+    "price": 240.68,
+    "category": "Clothing",
+    "rating": 4.7
+  },
+  {
+    "id": 356,
+    "image": "https://picsum.photos/200?random=356",
+    "name": "Product 356",
+    "price": 217.8,
+    "category": "Electronics",
+    "rating": 1.3
+  },
+  {
+    "id": 357,
+    "image": "https://picsum.photos/200?random=357",
+    "name": "Product 357",
+    "price": 431.03,
+    "category": "Electronics",
+    "rating": 4.2
+  },
+  {
+    "id": 358,
+    "image": "https://picsum.photos/200?random=358",
+    "name": "Product 358",
+    "price": 805.26,
+    "category": "Home",
+    "rating": 3.0
+  },
+  {
+    "id": 359,
+    "image": "https://picsum.photos/200?random=359",
+    "name": "Product 359",
+    "price": 150.6,
+    "category": "Home",
+    "rating": 3.3
+  },
+  {
+    "id": 360,
+    "image": "https://picsum.photos/200?random=360",
+    "name": "Product 360",
+    "price": 681.07,
+    "category": "Electronics",
+    "rating": 4.3
+  },
+  {
+    "id": 361,
+    "image": "https://picsum.photos/200?random=361",
+    "name": "Product 361",
+    "price": 133.73,
+    "category": "Books",
+    "rating": 3.1
+  },
+  {
+    "id": 362,
+    "image": "https://picsum.photos/200?random=362",
+    "name": "Product 362",
+    "price": 403.78,
+    "category": "Electronics",
+    "rating": 4.5
+  },
+  {
+    "id": 363,
+    "image": "https://picsum.photos/200?random=363",
+    "name": "Product 363",
+    "price": 313.46,
+    "category": "Books",
+    "rating": 3.4
+  },
+  {
+    "id": 364,
+    "image": "https://picsum.photos/200?random=364",
+    "name": "Product 364",
+    "price": 915.38,
+    "category": "Clothing",
+    "rating": 3.6
+  },
+  {
+    "id": 365,
+    "image": "https://picsum.photos/200?random=365",
+    "name": "Product 365",
+    "price": 780.05,
+    "category": "Clothing",
+    "rating": 1.8
+  },
+  {
+    "id": 366,
+    "image": "https://picsum.photos/200?random=366",
+    "name": "Product 366",
+    "price": 785.04,
+    "category": "Books",
+    "rating": 1.3
+  },
+  {
+    "id": 367,
+    "image": "https://picsum.photos/200?random=367",
+    "name": "Product 367",
+    "price": 816.88,
+    "category": "Books",
+    "rating": 3.9
+  },
+  {
+    "id": 368,
+    "image": "https://picsum.photos/200?random=368",
+    "name": "Product 368",
+    "price": 418.82,
+    "category": "Home",
+    "rating": 4.2
+  },
+  {
+    "id": 369,
+    "image": "https://picsum.photos/200?random=369",
+    "name": "Product 369",
+    "price": 230.63,
+    "category": "Electronics",
+    "rating": 4.0
+  },
+  {
+    "id": 370,
+    "image": "https://picsum.photos/200?random=370",
+    "name": "Product 370",
+    "price": 402.54,
+    "category": "Electronics",
+    "rating": 1.5
+  },
+  {
+    "id": 371,
+    "image": "https://picsum.photos/200?random=371",
+    "name": "Product 371",
+    "price": 943.51,
+    "category": "Electronics",
+    "rating": 3.1
+  },
+  {
+    "id": 372,
+    "image": "https://picsum.photos/200?random=372",
+    "name": "Product 372",
+    "price": 321.41,
+    "category": "Books",
+    "rating": 1.8
+  },
+  {
+    "id": 373,
+    "image": "https://picsum.photos/200?random=373",
+    "name": "Product 373",
+    "price": 801.47,
+    "category": "Home",
+    "rating": 1.8
+  },
+  {
+    "id": 374,
+    "image": "https://picsum.photos/200?random=374",
+    "name": "Product 374",
+    "price": 993.04,
+    "category": "Books",
+    "rating": 2.9
+  },
+  {
+    "id": 375,
+    "image": "https://picsum.photos/200?random=375",
+    "name": "Product 375",
+    "price": 417.46,
+    "category": "Clothing",
+    "rating": 2.9
+  },
+  {
+    "id": 376,
+    "image": "https://picsum.photos/200?random=376",
+    "name": "Product 376",
+    "price": 796.51,
+    "category": "Clothing",
+    "rating": 3.8
+  },
+  {
+    "id": 377,
+    "image": "https://picsum.photos/200?random=377",
+    "name": "Product 377",
+    "price": 883.25,
+    "category": "Books",
+    "rating": 3.2
+  },
+  {
+    "id": 378,
+    "image": "https://picsum.photos/200?random=378",
+    "name": "Product 378",
+    "price": 804.16,
+    "category": "Electronics",
+    "rating": 3.5
+  },
+  {
+    "id": 379,
+    "image": "https://picsum.photos/200?random=379",
+    "name": "Product 379",
+    "price": 268.7,
+    "category": "Electronics",
+    "rating": 3.5
+  },
+  {
+    "id": 380,
+    "image": "https://picsum.photos/200?random=380",
+    "name": "Product 380",
+    "price": 535.26,
+    "category": "Home",
+    "rating": 3.4
+  },
+  {
+    "id": 381,
+    "image": "https://picsum.photos/200?random=381",
+    "name": "Product 381",
+    "price": 789.5,
+    "category": "Electronics",
+    "rating": 1.5
+  },
+  {
+    "id": 382,
+    "image": "https://picsum.photos/200?random=382",
+    "name": "Product 382",
+    "price": 973.95,
+    "category": "Clothing",
+    "rating": 2.7
+  },
+  {
+    "id": 383,
+    "image": "https://picsum.photos/200?random=383",
+    "name": "Product 383",
+    "price": 763.56,
+    "category": "Clothing",
+    "rating": 2.8
+  },
+  {
+    "id": 384,
+    "image": "https://picsum.photos/200?random=384",
+    "name": "Product 384",
+    "price": 751.15,
+    "category": "Clothing",
+    "rating": 4.7
+  },
+  {
+    "id": 385,
+    "image": "https://picsum.photos/200?random=385",
+    "name": "Product 385",
+    "price": 600.9,
+    "category": "Electronics",
+    "rating": 4.2
+  },
+  {
+    "id": 386,
+    "image": "https://picsum.photos/200?random=386",
+    "name": "Product 386",
+    "price": 727.63,
+    "category": "Clothing",
+    "rating": 2.8
+  },
+  {
+    "id": 387,
+    "image": "https://picsum.photos/200?random=387",
+    "name": "Product 387",
+    "price": 840.49,
+    "category": "Clothing",
+    "rating": 3.4
+  },
+  {
+    "id": 388,
+    "image": "https://picsum.photos/200?random=388",
+    "name": "Product 388",
+    "price": 475.55,
+    "category": "Home",
+    "rating": 1.6
+  },
+  {
+    "id": 389,
+    "image": "https://picsum.photos/200?random=389",
+    "name": "Product 389",
+    "price": 873.93,
+    "category": "Electronics",
+    "rating": 4.7
+  },
+  {
+    "id": 390,
+    "image": "https://picsum.photos/200?random=390",
+    "name": "Product 390",
+    "price": 577.61,
+    "category": "Home",
+    "rating": 2.0
+  },
+  {
+    "id": 391,
+    "image": "https://picsum.photos/200?random=391",
+    "name": "Product 391",
+    "price": 755.15,
+    "category": "Clothing",
+    "rating": 2.2
+  },
+  {
+    "id": 392,
+    "image": "https://picsum.photos/200?random=392",
+    "name": "Product 392",
+    "price": 566.85,
+    "category": "Electronics",
+    "rating": 3.9
+  },
+  {
+    "id": 393,
+    "image": "https://picsum.photos/200?random=393",
+    "name": "Product 393",
+    "price": 53.08,
+    "category": "Books",
+    "rating": 3.7
+  },
+  {
+    "id": 394,
+    "image": "https://picsum.photos/200?random=394",
+    "name": "Product 394",
+    "price": 572.7,
+    "category": "Clothing",
+    "rating": 2.4
+  },
+  {
+    "id": 395,
+    "image": "https://picsum.photos/200?random=395",
+    "name": "Product 395",
+    "price": 752.04,
+    "category": "Electronics",
+    "rating": 1.7
+  },
+  {
+    "id": 396,
+    "image": "https://picsum.photos/200?random=396",
+    "name": "Product 396",
+    "price": 539.83,
+    "category": "Electronics",
+    "rating": 3.0
+  },
+  {
+    "id": 397,
+    "image": "https://picsum.photos/200?random=397",
+    "name": "Product 397",
+    "price": 878.69,
+    "category": "Clothing",
+    "rating": 1.9
+  },
+  {
+    "id": 398,
+    "image": "https://picsum.photos/200?random=398",
+    "name": "Product 398",
+    "price": 331.17,
+    "category": "Clothing",
+    "rating": 4.2
+  },
+  {
+    "id": 399,
+    "image": "https://picsum.photos/200?random=399",
+    "name": "Product 399",
+    "price": 105.72,
+    "category": "Home",
+    "rating": 2.5
+  },
+  {
+    "id": 400,
+    "image": "https://picsum.photos/200?random=400",
+    "name": "Product 400",
+    "price": 293.21,
+    "category": "Books",
+    "rating": 4.4
+  },
+  {
+    "id": 401,
+    "image": "https://picsum.photos/200?random=401",
+    "name": "Product 401",
+    "price": 802.36,
+    "category": "Home",
+    "rating": 4.9
+  },
+  {
+    "id": 402,
+    "image": "https://picsum.photos/200?random=402",
+    "name": "Product 402",
+    "price": 969.0,
+    "category": "Electronics",
+    "rating": 3.1
+  },
+  {
+    "id": 403,
+    "image": "https://picsum.photos/200?random=403",
+    "name": "Product 403",
+    "price": 654.59,
+    "category": "Home",
+    "rating": 2.5
+  },
+  {
+    "id": 404,
+    "image": "https://picsum.photos/200?random=404",
+    "name": "Product 404",
+    "price": 355.4,
+    "category": "Electronics",
+    "rating": 2.7
+  },
+  {
+    "id": 405,
+    "image": "https://picsum.photos/200?random=405",
+    "name": "Product 405",
+    "price": 973.99,
+    "category": "Electronics",
+    "rating": 3.8
+  },
+  {
+    "id": 406,
+    "image": "https://picsum.photos/200?random=406",
+    "name": "Product 406",
+    "price": 29.16,
+    "category": "Electronics",
+    "rating": 1.5
+  },
+  {
+    "id": 407,
+    "image": "https://picsum.photos/200?random=407",
+    "name": "Product 407",
+    "price": 606.13,
+    "category": "Electronics",
+    "rating": 2.1
+  },
+  {
+    "id": 408,
+    "image": "https://picsum.photos/200?random=408",
+    "name": "Product 408",
+    "price": 121.92,
+    "category": "Home",
+    "rating": 4.0
+  },
+  {
+    "id": 409,
+    "image": "https://picsum.photos/200?random=409",
+    "name": "Product 409",
+    "price": 189.77,
+    "category": "Clothing",
+    "rating": 2.6
+  },
+  {
+    "id": 410,
+    "image": "https://picsum.photos/200?random=410",
+    "name": "Product 410",
+    "price": 334.85,
+    "category": "Home",
+    "rating": 5.0
+  },
+  {
+    "id": 411,
+    "image": "https://picsum.photos/200?random=411",
+    "name": "Product 411",
+    "price": 301.01,
+    "category": "Home",
+    "rating": 2.5
+  },
+  {
+    "id": 412,
+    "image": "https://picsum.photos/200?random=412",
+    "name": "Product 412",
+    "price": 919.83,
+    "category": "Books",
+    "rating": 2.2
+  },
+  {
+    "id": 413,
+    "image": "https://picsum.photos/200?random=413",
+    "name": "Product 413",
+    "price": 600.7,
+    "category": "Home",
+    "rating": 2.5
+  },
+  {
+    "id": 414,
+    "image": "https://picsum.photos/200?random=414",
+    "name": "Product 414",
+    "price": 557.25,
+    "category": "Clothing",
+    "rating": 1.8
+  },
+  {
+    "id": 415,
+    "image": "https://picsum.photos/200?random=415",
+    "name": "Product 415",
+    "price": 15.62,
+    "category": "Clothing",
+    "rating": 4.5
+  },
+  {
+    "id": 416,
+    "image": "https://picsum.photos/200?random=416",
+    "name": "Product 416",
+    "price": 381.57,
+    "category": "Books",
+    "rating": 3.2
+  },
+  {
+    "id": 417,
+    "image": "https://picsum.photos/200?random=417",
+    "name": "Product 417",
+    "price": 793.8,
+    "category": "Home",
+    "rating": 3.0
+  },
+  {
+    "id": 418,
+    "image": "https://picsum.photos/200?random=418",
+    "name": "Product 418",
+    "price": 753.25,
+    "category": "Clothing",
+    "rating": 3.6
+  },
+  {
+    "id": 419,
+    "image": "https://picsum.photos/200?random=419",
+    "name": "Product 419",
+    "price": 589.73,
+    "category": "Books",
+    "rating": 1.0
+  },
+  {
+    "id": 420,
+    "image": "https://picsum.photos/200?random=420",
+    "name": "Product 420",
+    "price": 638.56,
+    "category": "Books",
+    "rating": 2.3
+  },
+  {
+    "id": 421,
+    "image": "https://picsum.photos/200?random=421",
+    "name": "Product 421",
+    "price": 872.65,
+    "category": "Home",
+    "rating": 4.0
+  },
+  {
+    "id": 422,
+    "image": "https://picsum.photos/200?random=422",
+    "name": "Product 422",
+    "price": 723.95,
+    "category": "Books",
+    "rating": 1.3
+  },
+  {
+    "id": 423,
+    "image": "https://picsum.photos/200?random=423",
+    "name": "Product 423",
+    "price": 400.17,
+    "category": "Books",
+    "rating": 4.9
+  },
+  {
+    "id": 424,
+    "image": "https://picsum.photos/200?random=424",
+    "name": "Product 424",
+    "price": 89.17,
+    "category": "Clothing",
+    "rating": 4.3
+  },
+  {
+    "id": 425,
+    "image": "https://picsum.photos/200?random=425",
+    "name": "Product 425",
+    "price": 974.37,
+    "category": "Home",
+    "rating": 1.4
+  },
+  {
+    "id": 426,
+    "image": "https://picsum.photos/200?random=426",
+    "name": "Product 426",
+    "price": 704.6,
+    "category": "Clothing",
+    "rating": 4.8
+  },
+  {
+    "id": 427,
+    "image": "https://picsum.photos/200?random=427",
+    "name": "Product 427",
+    "price": 849.03,
+    "category": "Books",
+    "rating": 1.9
+  },
+  {
+    "id": 428,
+    "image": "https://picsum.photos/200?random=428",
+    "name": "Product 428",
+    "price": 139.32,
+    "category": "Clothing",
+    "rating": 2.1
+  },
+  {
+    "id": 429,
+    "image": "https://picsum.photos/200?random=429",
+    "name": "Product 429",
+    "price": 625.1,
+    "category": "Books",
+    "rating": 1.7
+  },
+  {
+    "id": 430,
+    "image": "https://picsum.photos/200?random=430",
+    "name": "Product 430",
+    "price": 998.24,
+    "category": "Clothing",
+    "rating": 4.1
+  },
+  {
+    "id": 431,
+    "image": "https://picsum.photos/200?random=431",
+    "name": "Product 431",
+    "price": 423.4,
+    "category": "Clothing",
+    "rating": 4.6
+  },
+  {
+    "id": 432,
+    "image": "https://picsum.photos/200?random=432",
+    "name": "Product 432",
+    "price": 11.05,
+    "category": "Home",
+    "rating": 3.2
+  },
+  {
+    "id": 433,
+    "image": "https://picsum.photos/200?random=433",
+    "name": "Product 433",
+    "price": 731.94,
+    "category": "Books",
+    "rating": 2.1
+  },
+  {
+    "id": 434,
+    "image": "https://picsum.photos/200?random=434",
+    "name": "Product 434",
+    "price": 750.95,
+    "category": "Clothing",
+    "rating": 1.8
+  },
+  {
+    "id": 435,
+    "image": "https://picsum.photos/200?random=435",
+    "name": "Product 435",
+    "price": 853.56,
+    "category": "Electronics",
+    "rating": 1.7
+  },
+  {
+    "id": 436,
+    "image": "https://picsum.photos/200?random=436",
+    "name": "Product 436",
+    "price": 861.91,
+    "category": "Home",
+    "rating": 2.6
+  },
+  {
+    "id": 437,
+    "image": "https://picsum.photos/200?random=437",
+    "name": "Product 437",
+    "price": 195.3,
+    "category": "Books",
+    "rating": 3.0
+  },
+  {
+    "id": 438,
+    "image": "https://picsum.photos/200?random=438",
+    "name": "Product 438",
+    "price": 399.85,
+    "category": "Clothing",
+    "rating": 1.8
+  },
+  {
+    "id": 439,
+    "image": "https://picsum.photos/200?random=439",
+    "name": "Product 439",
+    "price": 208.72,
+    "category": "Clothing",
+    "rating": 3.9
+  },
+  {
+    "id": 440,
+    "image": "https://picsum.photos/200?random=440",
+    "name": "Product 440",
+    "price": 84.07,
+    "category": "Home",
+    "rating": 3.6
+  },
+  {
+    "id": 441,
+    "image": "https://picsum.photos/200?random=441",
+    "name": "Product 441",
+    "price": 251.8,
+    "category": "Electronics",
+    "rating": 3.4
+  },
+  {
+    "id": 442,
+    "image": "https://picsum.photos/200?random=442",
+    "name": "Product 442",
+    "price": 434.83,
+    "category": "Electronics",
+    "rating": 4.6
+  },
+  {
+    "id": 443,
+    "image": "https://picsum.photos/200?random=443",
+    "name": "Product 443",
+    "price": 35.04,
+    "category": "Clothing",
+    "rating": 3.5
+  },
+  {
+    "id": 444,
+    "image": "https://picsum.photos/200?random=444",
+    "name": "Product 444",
+    "price": 93.7,
+    "category": "Clothing",
+    "rating": 3.7
+  },
+  {
+    "id": 445,
+    "image": "https://picsum.photos/200?random=445",
+    "name": "Product 445",
+    "price": 548.45,
+    "category": "Electronics",
+    "rating": 3.3
+  },
+  {
+    "id": 446,
+    "image": "https://picsum.photos/200?random=446",
+    "name": "Product 446",
+    "price": 621.37,
+    "category": "Books",
+    "rating": 3.3
+  },
+  {
+    "id": 447,
+    "image": "https://picsum.photos/200?random=447",
+    "name": "Product 447",
+    "price": 216.86,
+    "category": "Electronics",
+    "rating": 4.9
+  },
+  {
+    "id": 448,
+    "image": "https://picsum.photos/200?random=448",
+    "name": "Product 448",
+    "price": 239.33,
+    "category": "Books",
+    "rating": 2.7
+  },
+  {
+    "id": 449,
+    "image": "https://picsum.photos/200?random=449",
+    "name": "Product 449",
+    "price": 712.42,
+    "category": "Home",
+    "rating": 1.2
+  },
+  {
+    "id": 450,
+    "image": "https://picsum.photos/200?random=450",
+    "name": "Product 450",
+    "price": 197.69,
+    "category": "Clothing",
+    "rating": 2.4
+  },
+  {
+    "id": 451,
+    "image": "https://picsum.photos/200?random=451",
+    "name": "Product 451",
+    "price": 614.11,
+    "category": "Home",
+    "rating": 2.1
+  },
+  {
+    "id": 452,
+    "image": "https://picsum.photos/200?random=452",
+    "name": "Product 452",
+    "price": 689.54,
+    "category": "Books",
+    "rating": 3.9
+  },
+  {
+    "id": 453,
+    "image": "https://picsum.photos/200?random=453",
+    "name": "Product 453",
+    "price": 975.28,
+    "category": "Electronics",
+    "rating": 1.4
+  },
+  {
+    "id": 454,
+    "image": "https://picsum.photos/200?random=454",
+    "name": "Product 454",
+    "price": 567.15,
+    "category": "Electronics",
+    "rating": 2.1
+  },
+  {
+    "id": 455,
+    "image": "https://picsum.photos/200?random=455",
+    "name": "Product 455",
+    "price": 201.45,
+    "category": "Clothing",
+    "rating": 1.6
+  },
+  {
+    "id": 456,
+    "image": "https://picsum.photos/200?random=456",
+    "name": "Product 456",
+    "price": 446.44,
+    "category": "Clothing",
+    "rating": 2.7
+  },
+  {
+    "id": 457,
+    "image": "https://picsum.photos/200?random=457",
+    "name": "Product 457",
+    "price": 707.72,
+    "category": "Clothing",
+    "rating": 3.4
+  },
+  {
+    "id": 458,
+    "image": "https://picsum.photos/200?random=458",
+    "name": "Product 458",
+    "price": 315.53,
+    "category": "Books",
+    "rating": 2.9
+  },
+  {
+    "id": 459,
+    "image": "https://picsum.photos/200?random=459",
+    "name": "Product 459",
+    "price": 114.74,
+    "category": "Clothing",
+    "rating": 4.7
+  },
+  {
+    "id": 460,
+    "image": "https://picsum.photos/200?random=460",
+    "name": "Product 460",
+    "price": 678.1,
+    "category": "Clothing",
+    "rating": 1.2
+  },
+  {
+    "id": 461,
+    "image": "https://picsum.photos/200?random=461",
+    "name": "Product 461",
+    "price": 426.17,
+    "category": "Clothing",
+    "rating": 3.9
+  },
+  {
+    "id": 462,
+    "image": "https://picsum.photos/200?random=462",
+    "name": "Product 462",
+    "price": 770.89,
+    "category": "Electronics",
+    "rating": 3.4
+  },
+  {
+    "id": 463,
+    "image": "https://picsum.photos/200?random=463",
+    "name": "Product 463",
+    "price": 664.11,
+    "category": "Electronics",
+    "rating": 2.2
+  },
+  {
+    "id": 464,
+    "image": "https://picsum.photos/200?random=464",
+    "name": "Product 464",
+    "price": 569.87,
+    "category": "Books",
+    "rating": 1.1
+  },
+  {
+    "id": 465,
+    "image": "https://picsum.photos/200?random=465",
+    "name": "Product 465",
+    "price": 463.66,
+    "category": "Clothing",
+    "rating": 1.7
+  },
+  {
+    "id": 466,
+    "image": "https://picsum.photos/200?random=466",
+    "name": "Product 466",
+    "price": 729.77,
+    "category": "Books",
+    "rating": 2.5
+  },
+  {
+    "id": 467,
+    "image": "https://picsum.photos/200?random=467",
+    "name": "Product 467",
+    "price": 511.98,
+    "category": "Home",
+    "rating": 3.0
+  },
+  {
+    "id": 468,
+    "image": "https://picsum.photos/200?random=468",
+    "name": "Product 468",
+    "price": 811.36,
+    "category": "Home",
+    "rating": 1.5
+  },
+  {
+    "id": 469,
+    "image": "https://picsum.photos/200?random=469",
+    "name": "Product 469",
+    "price": 460.57,
+    "category": "Electronics",
+    "rating": 2.9
+  },
+  {
+    "id": 470,
+    "image": "https://picsum.photos/200?random=470",
+    "name": "Product 470",
+    "price": 633.57,
+    "category": "Clothing",
+    "rating": 2.8
+  },
+  {
+    "id": 471,
+    "image": "https://picsum.photos/200?random=471",
+    "name": "Product 471",
+    "price": 726.25,
+    "category": "Home",
+    "rating": 1.2
+  },
+  {
+    "id": 472,
+    "image": "https://picsum.photos/200?random=472",
+    "name": "Product 472",
+    "price": 970.73,
+    "category": "Books",
+    "rating": 1.2
+  },
+  {
+    "id": 473,
+    "image": "https://picsum.photos/200?random=473",
+    "name": "Product 473",
+    "price": 255.43,
+    "category": "Books",
+    "rating": 3.0
+  },
+  {
+    "id": 474,
+    "image": "https://picsum.photos/200?random=474",
+    "name": "Product 474",
+    "price": 653.51,
+    "category": "Home",
+    "rating": 1.6
+  },
+  {
+    "id": 475,
+    "image": "https://picsum.photos/200?random=475",
+    "name": "Product 475",
+    "price": 675.75,
+    "category": "Home",
+    "rating": 3.5
+  },
+  {
+    "id": 476,
+    "image": "https://picsum.photos/200?random=476",
+    "name": "Product 476",
+    "price": 753.52,
+    "category": "Electronics",
+    "rating": 3.9
+  },
+  {
+    "id": 477,
+    "image": "https://picsum.photos/200?random=477",
+    "name": "Product 477",
+    "price": 11.13,
+    "category": "Clothing",
+    "rating": 3.5
+  },
+  {
+    "id": 478,
+    "image": "https://picsum.photos/200?random=478",
+    "name": "Product 478",
+    "price": 437.73,
+    "category": "Home",
+    "rating": 3.9
+  },
+  {
+    "id": 479,
+    "image": "https://picsum.photos/200?random=479",
+    "name": "Product 479",
+    "price": 227.72,
+    "category": "Books",
+    "rating": 4.7
+  },
+  {
+    "id": 480,
+    "image": "https://picsum.photos/200?random=480",
+    "name": "Product 480",
+    "price": 87.78,
+    "category": "Home",
+    "rating": 1.6
+  },
+  {
+    "id": 481,
+    "image": "https://picsum.photos/200?random=481",
+    "name": "Product 481",
+    "price": 353.32,
+    "category": "Home",
+    "rating": 1.7
+  },
+  {
+    "id": 482,
+    "image": "https://picsum.photos/200?random=482",
+    "name": "Product 482",
+    "price": 453.79,
+    "category": "Clothing",
+    "rating": 1.2
+  },
+  {
+    "id": 483,
+    "image": "https://picsum.photos/200?random=483",
+    "name": "Product 483",
+    "price": 437.05,
+    "category": "Clothing",
+    "rating": 2.8
+  },
+  {
+    "id": 484,
+    "image": "https://picsum.photos/200?random=484",
+    "name": "Product 484",
+    "price": 879.58,
+    "category": "Home",
+    "rating": 1.5
+  },
+  {
+    "id": 485,
+    "image": "https://picsum.photos/200?random=485",
+    "name": "Product 485",
+    "price": 390.4,
+    "category": "Books",
+    "rating": 3.0
+  },
+  {
+    "id": 486,
+    "image": "https://picsum.photos/200?random=486",
+    "name": "Product 486",
+    "price": 179.23,
+    "category": "Home",
+    "rating": 1.8
+  },
+  {
+    "id": 487,
+    "image": "https://picsum.photos/200?random=487",
+    "name": "Product 487",
+    "price": 796.76,
+    "category": "Electronics",
+    "rating": 4.3
+  },
+  {
+    "id": 488,
+    "image": "https://picsum.photos/200?random=488",
+    "name": "Product 488",
+    "price": 489.89,
+    "category": "Clothing",
+    "rating": 3.4
+  },
+  {
+    "id": 489,
+    "image": "https://picsum.photos/200?random=489",
+    "name": "Product 489",
+    "price": 466.18,
+    "category": "Home",
+    "rating": 4.0
+  },
+  {
+    "id": 490,
+    "image": "https://picsum.photos/200?random=490",
+    "name": "Product 490",
+    "price": 729.86,
+    "category": "Home",
+    "rating": 3.5
+  },
+  {
+    "id": 491,
+    "image": "https://picsum.photos/200?random=491",
+    "name": "Product 491",
+    "price": 50.25,
+    "category": "Books",
+    "rating": 2.6
+  },
+  {
+    "id": 492,
+    "image": "https://picsum.photos/200?random=492",
+    "name": "Product 492",
+    "price": 288.89,
+    "category": "Electronics",
+    "rating": 2.0
+  },
+  {
+    "id": 493,
+    "image": "https://picsum.photos/200?random=493",
+    "name": "Product 493",
+    "price": 681.53,
+    "category": "Clothing",
+    "rating": 3.2
+  },
+  {
+    "id": 494,
+    "image": "https://picsum.photos/200?random=494",
+    "name": "Product 494",
+    "price": 74.49,
+    "category": "Electronics",
+    "rating": 4.8
+  },
+  {
+    "id": 495,
+    "image": "https://picsum.photos/200?random=495",
+    "name": "Product 495",
+    "price": 635.74,
+    "category": "Clothing",
+    "rating": 2.3
+  },
+  {
+    "id": 496,
+    "image": "https://picsum.photos/200?random=496",
+    "name": "Product 496",
+    "price": 829.49,
+    "category": "Clothing",
+    "rating": 1.6
+  },
+  {
+    "id": 497,
+    "image": "https://picsum.photos/200?random=497",
+    "name": "Product 497",
+    "price": 49.32,
+    "category": "Books",
+    "rating": 1.5
+  },
+  {
+    "id": 498,
+    "image": "https://picsum.photos/200?random=498",
+    "name": "Product 498",
+    "price": 491.37,
+    "category": "Electronics",
+    "rating": 3.4
+  },
+  {
+    "id": 499,
+    "image": "https://picsum.photos/200?random=499",
+    "name": "Product 499",
+    "price": 863.23,
+    "category": "Books",
+    "rating": 4.4
+  },
+  {
+    "id": 500,
+    "image": "https://picsum.photos/200?random=500",
+    "name": "Product 500",
+    "price": 243.96,
+    "category": "Electronics",
+    "rating": 4.0
+  },
+  {
+    "id": 501,
+    "image": "https://picsum.photos/200?random=501",
+    "name": "Product 501",
+    "price": 594.19,
+    "category": "Clothing",
+    "rating": 1.1
+  },
+  {
+    "id": 502,
+    "image": "https://picsum.photos/200?random=502",
+    "name": "Product 502",
+    "price": 52.29,
+    "category": "Clothing",
+    "rating": 1.4
+  },
+  {
+    "id": 503,
+    "image": "https://picsum.photos/200?random=503",
+    "name": "Product 503",
+    "price": 562.03,
+    "category": "Books",
+    "rating": 1.5
+  },
+  {
+    "id": 504,
+    "image": "https://picsum.photos/200?random=504",
+    "name": "Product 504",
+    "price": 487.53,
+    "category": "Clothing",
+    "rating": 3.5
+  },
+  {
+    "id": 505,
+    "image": "https://picsum.photos/200?random=505",
+    "name": "Product 505",
+    "price": 490.14,
+    "category": "Electronics",
+    "rating": 2.7
+  },
+  {
+    "id": 506,
+    "image": "https://picsum.photos/200?random=506",
+    "name": "Product 506",
+    "price": 257.71,
+    "category": "Electronics",
+    "rating": 4.0
+  },
+  {
+    "id": 507,
+    "image": "https://picsum.photos/200?random=507",
+    "name": "Product 507",
+    "price": 879.66,
+    "category": "Clothing",
+    "rating": 1.3
+  },
+  {
+    "id": 508,
+    "image": "https://picsum.photos/200?random=508",
+    "name": "Product 508",
+    "price": 207.07,
+    "category": "Clothing",
+    "rating": 1.5
+  },
+  {
+    "id": 509,
+    "image": "https://picsum.photos/200?random=509",
+    "name": "Product 509",
+    "price": 626.37,
+    "category": "Electronics",
+    "rating": 2.3
+  },
+  {
+    "id": 510,
+    "image": "https://picsum.photos/200?random=510",
+    "name": "Product 510",
+    "price": 847.24,
+    "category": "Clothing",
+    "rating": 2.4
+  },
+  {
+    "id": 511,
+    "image": "https://picsum.photos/200?random=511",
+    "name": "Product 511",
+    "price": 218.5,
+    "category": "Books",
+    "rating": 3.7
+  },
+  {
+    "id": 512,
+    "image": "https://picsum.photos/200?random=512",
+    "name": "Product 512",
+    "price": 928.34,
+    "category": "Home",
+    "rating": 1.6
+  },
+  {
+    "id": 513,
+    "image": "https://picsum.photos/200?random=513",
+    "name": "Product 513",
+    "price": 665.07,
+    "category": "Books",
+    "rating": 2.2
+  },
+  {
+    "id": 514,
+    "image": "https://picsum.photos/200?random=514",
+    "name": "Product 514",
+    "price": 840.68,
+    "category": "Clothing",
+    "rating": 1.0
+  },
+  {
+    "id": 515,
+    "image": "https://picsum.photos/200?random=515",
+    "name": "Product 515",
+    "price": 295.65,
+    "category": "Books",
+    "rating": 4.7
+  },
+  {
+    "id": 516,
+    "image": "https://picsum.photos/200?random=516",
+    "name": "Product 516",
+    "price": 699.28,
+    "category": "Clothing",
+    "rating": 3.5
+  },
+  {
+    "id": 517,
+    "image": "https://picsum.photos/200?random=517",
+    "name": "Product 517",
+    "price": 958.85,
+    "category": "Books",
+    "rating": 1.9
+  },
+  {
+    "id": 518,
+    "image": "https://picsum.photos/200?random=518",
+    "name": "Product 518",
+    "price": 936.82,
+    "category": "Books",
+    "rating": 4.3
+  },
+  {
+    "id": 519,
+    "image": "https://picsum.photos/200?random=519",
+    "name": "Product 519",
+    "price": 502.72,
+    "category": "Clothing",
+    "rating": 1.3
+  },
+  {
+    "id": 520,
+    "image": "https://picsum.photos/200?random=520",
+    "name": "Product 520",
+    "price": 430.38,
+    "category": "Electronics",
+    "rating": 1.6
+  },
+  {
+    "id": 521,
+    "image": "https://picsum.photos/200?random=521",
+    "name": "Product 521",
+    "price": 287.8,
+    "category": "Books",
+    "rating": 3.7
+  },
+  {
+    "id": 522,
+    "image": "https://picsum.photos/200?random=522",
+    "name": "Product 522",
+    "price": 157.22,
+    "category": "Home",
+    "rating": 1.6
+  },
+  {
+    "id": 523,
+    "image": "https://picsum.photos/200?random=523",
+    "name": "Product 523",
+    "price": 712.68,
+    "category": "Home",
+    "rating": 3.6
+  },
+  {
+    "id": 524,
+    "image": "https://picsum.photos/200?random=524",
+    "name": "Product 524",
+    "price": 969.18,
+    "category": "Clothing",
+    "rating": 3.5
+  },
+  {
+    "id": 525,
+    "image": "https://picsum.photos/200?random=525",
+    "name": "Product 525",
+    "price": 642.57,
+    "category": "Clothing",
+    "rating": 1.6
+  },
+  {
+    "id": 526,
+    "image": "https://picsum.photos/200?random=526",
+    "name": "Product 526",
+    "price": 721.24,
+    "category": "Books",
+    "rating": 1.9
+  },
+  {
+    "id": 527,
+    "image": "https://picsum.photos/200?random=527",
+    "name": "Product 527",
+    "price": 207.81,
+    "category": "Home",
+    "rating": 1.2
+  },
+  {
+    "id": 528,
+    "image": "https://picsum.photos/200?random=528",
+    "name": "Product 528",
+    "price": 959.28,
+    "category": "Home",
+    "rating": 3.0
+  },
+  {
+    "id": 529,
+    "image": "https://picsum.photos/200?random=529",
+    "name": "Product 529",
+    "price": 700.2,
+    "category": "Home",
+    "rating": 4.0
+  },
+  {
+    "id": 530,
+    "image": "https://picsum.photos/200?random=530",
+    "name": "Product 530",
+    "price": 45.56,
+    "category": "Clothing",
+    "rating": 3.9
+  },
+  {
+    "id": 531,
+    "image": "https://picsum.photos/200?random=531",
+    "name": "Product 531",
+    "price": 872.19,
+    "category": "Books",
+    "rating": 4.8
+  },
+  {
+    "id": 532,
+    "image": "https://picsum.photos/200?random=532",
+    "name": "Product 532",
+    "price": 990.66,
+    "category": "Electronics",
+    "rating": 3.6
+  },
+  {
+    "id": 533,
+    "image": "https://picsum.photos/200?random=533",
+    "name": "Product 533",
+    "price": 272.32,
+    "category": "Books",
+    "rating": 1.6
+  },
+  {
+    "id": 534,
+    "image": "https://picsum.photos/200?random=534",
+    "name": "Product 534",
+    "price": 853.91,
+    "category": "Clothing",
+    "rating": 4.0
+  },
+  {
+    "id": 535,
+    "image": "https://picsum.photos/200?random=535",
+    "name": "Product 535",
+    "price": 185.78,
+    "category": "Home",
+    "rating": 1.6
+  },
+  {
+    "id": 536,
+    "image": "https://picsum.photos/200?random=536",
+    "name": "Product 536",
+    "price": 554.67,
+    "category": "Clothing",
+    "rating": 3.5
+  },
+  {
+    "id": 537,
+    "image": "https://picsum.photos/200?random=537",
+    "name": "Product 537",
+    "price": 23.26,
+    "category": "Electronics",
+    "rating": 1.5
+  },
+  {
+    "id": 538,
+    "image": "https://picsum.photos/200?random=538",
+    "name": "Product 538",
+    "price": 423.78,
+    "category": "Home",
+    "rating": 4.7
+  },
+  {
+    "id": 539,
+    "image": "https://picsum.photos/200?random=539",
+    "name": "Product 539",
+    "price": 33.36,
+    "category": "Clothing",
+    "rating": 2.0
+  },
+  {
+    "id": 540,
+    "image": "https://picsum.photos/200?random=540",
+    "name": "Product 540",
+    "price": 441.82,
+    "category": "Clothing",
+    "rating": 2.2
+  },
+  {
+    "id": 541,
+    "image": "https://picsum.photos/200?random=541",
+    "name": "Product 541",
+    "price": 606.85,
+    "category": "Home",
+    "rating": 3.5
+  },
+  {
+    "id": 542,
+    "image": "https://picsum.photos/200?random=542",
+    "name": "Product 542",
+    "price": 689.92,
+    "category": "Clothing",
+    "rating": 4.1
+  },
+  {
+    "id": 543,
+    "image": "https://picsum.photos/200?random=543",
+    "name": "Product 543",
+    "price": 582.83,
+    "category": "Home",
+    "rating": 3.4
+  },
+  {
+    "id": 544,
+    "image": "https://picsum.photos/200?random=544",
+    "name": "Product 544",
+    "price": 332.48,
+    "category": "Books",
+    "rating": 4.9
+  },
+  {
+    "id": 545,
+    "image": "https://picsum.photos/200?random=545",
+    "name": "Product 545",
+    "price": 475.19,
+    "category": "Clothing",
+    "rating": 4.9
+  },
+  {
+    "id": 546,
+    "image": "https://picsum.photos/200?random=546",
+    "name": "Product 546",
+    "price": 290.3,
+    "category": "Clothing",
+    "rating": 1.4
+  },
+  {
+    "id": 547,
+    "image": "https://picsum.photos/200?random=547",
+    "name": "Product 547",
+    "price": 29.53,
+    "category": "Books",
+    "rating": 2.4
+  },
+  {
+    "id": 548,
+    "image": "https://picsum.photos/200?random=548",
+    "name": "Product 548",
+    "price": 589.09,
+    "category": "Books",
+    "rating": 2.0
+  },
+  {
+    "id": 549,
+    "image": "https://picsum.photos/200?random=549",
+    "name": "Product 549",
+    "price": 835.54,
+    "category": "Books",
+    "rating": 1.7
+  },
+  {
+    "id": 550,
+    "image": "https://picsum.photos/200?random=550",
+    "name": "Product 550",
+    "price": 68.83,
+    "category": "Electronics",
+    "rating": 1.0
+  },
+  {
+    "id": 551,
+    "image": "https://picsum.photos/200?random=551",
+    "name": "Product 551",
+    "price": 36.0,
+    "category": "Clothing",
+    "rating": 2.9
+  },
+  {
+    "id": 552,
+    "image": "https://picsum.photos/200?random=552",
+    "name": "Product 552",
+    "price": 585.05,
+    "category": "Electronics",
+    "rating": 1.4
+  },
+  {
+    "id": 553,
+    "image": "https://picsum.photos/200?random=553",
+    "name": "Product 553",
+    "price": 436.01,
+    "category": "Books",
+    "rating": 1.6
+  },
+  {
+    "id": 554,
+    "image": "https://picsum.photos/200?random=554",
+    "name": "Product 554",
+    "price": 263.55,
+    "category": "Clothing",
+    "rating": 1.6
+  },
+  {
+    "id": 555,
+    "image": "https://picsum.photos/200?random=555",
+    "name": "Product 555",
+    "price": 815.16,
+    "category": "Electronics",
+    "rating": 4.5
+  },
+  {
+    "id": 556,
+    "image": "https://picsum.photos/200?random=556",
+    "name": "Product 556",
+    "price": 116.97,
+    "category": "Clothing",
+    "rating": 3.1
+  },
+  {
+    "id": 557,
+    "image": "https://picsum.photos/200?random=557",
+    "name": "Product 557",
+    "price": 471.9,
+    "category": "Clothing",
+    "rating": 3.5
+  },
+  {
+    "id": 558,
+    "image": "https://picsum.photos/200?random=558",
+    "name": "Product 558",
+    "price": 844.46,
+    "category": "Home",
+    "rating": 3.4
+  },
+  {
+    "id": 559,
+    "image": "https://picsum.photos/200?random=559",
+    "name": "Product 559",
+    "price": 382.69,
+    "category": "Clothing",
+    "rating": 3.5
+  },
+  {
+    "id": 560,
+    "image": "https://picsum.photos/200?random=560",
+    "name": "Product 560",
+    "price": 724.68,
+    "category": "Books",
+    "rating": 2.7
+  },
+  {
+    "id": 561,
+    "image": "https://picsum.photos/200?random=561",
+    "name": "Product 561",
+    "price": 413.28,
+    "category": "Home",
+    "rating": 1.9
+  },
+  {
+    "id": 562,
+    "image": "https://picsum.photos/200?random=562",
+    "name": "Product 562",
+    "price": 376.28,
+    "category": "Clothing",
+    "rating": 1.3
+  },
+  {
+    "id": 563,
+    "image": "https://picsum.photos/200?random=563",
+    "name": "Product 563",
+    "price": 998.22,
+    "category": "Electronics",
+    "rating": 1.3
+  },
+  {
+    "id": 564,
+    "image": "https://picsum.photos/200?random=564",
+    "name": "Product 564",
+    "price": 971.24,
+    "category": "Clothing",
+    "rating": 4.2
+  },
+  {
+    "id": 565,
+    "image": "https://picsum.photos/200?random=565",
+    "name": "Product 565",
+    "price": 31.39,
+    "category": "Home",
+    "rating": 2.9
+  },
+  {
+    "id": 566,
+    "image": "https://picsum.photos/200?random=566",
+    "name": "Product 566",
+    "price": 382.72,
+    "category": "Electronics",
+    "rating": 1.6
+  },
+  {
+    "id": 567,
+    "image": "https://picsum.photos/200?random=567",
+    "name": "Product 567",
+    "price": 632.87,
+    "category": "Electronics",
+    "rating": 4.9
+  },
+  {
+    "id": 568,
+    "image": "https://picsum.photos/200?random=568",
+    "name": "Product 568",
+    "price": 806.53,
+    "category": "Home",
+    "rating": 2.7
+  },
+  {
+    "id": 569,
+    "image": "https://picsum.photos/200?random=569",
+    "name": "Product 569",
+    "price": 288.39,
+    "category": "Electronics",
+    "rating": 2.8
+  },
+  {
+    "id": 570,
+    "image": "https://picsum.photos/200?random=570",
+    "name": "Product 570",
+    "price": 926.99,
+    "category": "Electronics",
+    "rating": 4.2
+  },
+  {
+    "id": 571,
+    "image": "https://picsum.photos/200?random=571",
+    "name": "Product 571",
+    "price": 415.68,
+    "category": "Home",
+    "rating": 1.6
+  },
+  {
+    "id": 572,
+    "image": "https://picsum.photos/200?random=572",
+    "name": "Product 572",
+    "price": 656.66,
+    "category": "Electronics",
+    "rating": 1.6
+  },
+  {
+    "id": 573,
+    "image": "https://picsum.photos/200?random=573",
+    "name": "Product 573",
+    "price": 382.31,
+    "category": "Clothing",
+    "rating": 2.7
+  },
+  {
+    "id": 574,
+    "image": "https://picsum.photos/200?random=574",
+    "name": "Product 574",
+    "price": 455.04,
+    "category": "Home",
+    "rating": 3.2
+  },
+  {
+    "id": 575,
+    "image": "https://picsum.photos/200?random=575",
+    "name": "Product 575",
+    "price": 666.78,
+    "category": "Clothing",
+    "rating": 2.4
+  },
+  {
+    "id": 576,
+    "image": "https://picsum.photos/200?random=576",
+    "name": "Product 576",
+    "price": 798.3,
+    "category": "Clothing",
+    "rating": 1.0
+  },
+  {
+    "id": 577,
+    "image": "https://picsum.photos/200?random=577",
+    "name": "Product 577",
+    "price": 468.92,
+    "category": "Home",
+    "rating": 4.6
+  },
+  {
+    "id": 578,
+    "image": "https://picsum.photos/200?random=578",
+    "name": "Product 578",
+    "price": 133.2,
+    "category": "Clothing",
+    "rating": 3.5
+  },
+  {
+    "id": 579,
+    "image": "https://picsum.photos/200?random=579",
+    "name": "Product 579",
+    "price": 876.09,
+    "category": "Electronics",
+    "rating": 2.7
+  },
+  {
+    "id": 580,
+    "image": "https://picsum.photos/200?random=580",
+    "name": "Product 580",
+    "price": 488.68,
+    "category": "Clothing",
+    "rating": 1.1
+  },
+  {
+    "id": 581,
+    "image": "https://picsum.photos/200?random=581",
+    "name": "Product 581",
+    "price": 374.15,
+    "category": "Books",
+    "rating": 2.4
+  },
+  {
+    "id": 582,
+    "image": "https://picsum.photos/200?random=582",
+    "name": "Product 582",
+    "price": 548.0,
+    "category": "Clothing",
+    "rating": 4.5
+  },
+  {
+    "id": 583,
+    "image": "https://picsum.photos/200?random=583",
+    "name": "Product 583",
+    "price": 32.08,
+    "category": "Clothing",
+    "rating": 2.7
+  },
+  {
+    "id": 584,
+    "image": "https://picsum.photos/200?random=584",
+    "name": "Product 584",
+    "price": 24.93,
+    "category": "Clothing",
+    "rating": 4.1
+  },
+  {
+    "id": 585,
+    "image": "https://picsum.photos/200?random=585",
+    "name": "Product 585",
+    "price": 528.8,
+    "category": "Books",
+    "rating": 2.1
+  },
+  {
+    "id": 586,
+    "image": "https://picsum.photos/200?random=586",
+    "name": "Product 586",
+    "price": 953.82,
+    "category": "Electronics",
+    "rating": 2.3
+  },
+  {
+    "id": 587,
+    "image": "https://picsum.photos/200?random=587",
+    "name": "Product 587",
+    "price": 619.83,
+    "category": "Clothing",
+    "rating": 3.4
+  },
+  {
+    "id": 588,
+    "image": "https://picsum.photos/200?random=588",
+    "name": "Product 588",
+    "price": 794.64,
+    "category": "Clothing",
+    "rating": 1.1
+  },
+  {
+    "id": 589,
+    "image": "https://picsum.photos/200?random=589",
+    "name": "Product 589",
+    "price": 45.27,
+    "category": "Electronics",
+    "rating": 3.9
+  },
+  {
+    "id": 590,
+    "image": "https://picsum.photos/200?random=590",
+    "name": "Product 590",
+    "price": 166.62,
+    "category": "Clothing",
+    "rating": 1.2
+  },
+  {
+    "id": 591,
+    "image": "https://picsum.photos/200?random=591",
+    "name": "Product 591",
+    "price": 973.56,
+    "category": "Clothing",
+    "rating": 1.6
+  },
+  {
+    "id": 592,
+    "image": "https://picsum.photos/200?random=592",
+    "name": "Product 592",
+    "price": 280.85,
+    "category": "Electronics",
+    "rating": 1.9
+  },
+  {
+    "id": 593,
+    "image": "https://picsum.photos/200?random=593",
+    "name": "Product 593",
+    "price": 69.88,
+    "category": "Books",
+    "rating": 3.5
+  },
+  {
+    "id": 594,
+    "image": "https://picsum.photos/200?random=594",
+    "name": "Product 594",
+    "price": 767.99,
+    "category": "Electronics",
+    "rating": 3.2
+  },
+  {
+    "id": 595,
+    "image": "https://picsum.photos/200?random=595",
+    "name": "Product 595",
+    "price": 78.75,
+    "category": "Books",
+    "rating": 2.7
+  },
+  {
+    "id": 596,
+    "image": "https://picsum.photos/200?random=596",
+    "name": "Product 596",
+    "price": 63.38,
+    "category": "Electronics",
+    "rating": 4.4
+  },
+  {
+    "id": 597,
+    "image": "https://picsum.photos/200?random=597",
+    "name": "Product 597",
+    "price": 585.35,
+    "category": "Electronics",
+    "rating": 1.8
+  },
+  {
+    "id": 598,
+    "image": "https://picsum.photos/200?random=598",
+    "name": "Product 598",
+    "price": 171.7,
+    "category": "Home",
+    "rating": 4.5
+  },
+  {
+    "id": 599,
+    "image": "https://picsum.photos/200?random=599",
+    "name": "Product 599",
+    "price": 582.88,
+    "category": "Home",
+    "rating": 1.5
+  },
+  {
+    "id": 600,
+    "image": "https://picsum.photos/200?random=600",
+    "name": "Product 600",
+    "price": 955.64,
+    "category": "Home",
+    "rating": 3.4
+  },
+  {
+    "id": 601,
+    "image": "https://picsum.photos/200?random=601",
+    "name": "Product 601",
+    "price": 204.79,
+    "category": "Clothing",
+    "rating": 4.8
+  },
+  {
+    "id": 602,
+    "image": "https://picsum.photos/200?random=602",
+    "name": "Product 602",
+    "price": 460.78,
+    "category": "Electronics",
+    "rating": 2.6
+  },
+  {
+    "id": 603,
+    "image": "https://picsum.photos/200?random=603",
+    "name": "Product 603",
+    "price": 233.01,
+    "category": "Home",
+    "rating": 4.6
+  },
+  {
+    "id": 604,
+    "image": "https://picsum.photos/200?random=604",
+    "name": "Product 604",
+    "price": 575.29,
+    "category": "Electronics",
+    "rating": 2.4
+  },
+  {
+    "id": 605,
+    "image": "https://picsum.photos/200?random=605",
+    "name": "Product 605",
+    "price": 65.61,
+    "category": "Books",
+    "rating": 3.4
+  },
+  {
+    "id": 606,
+    "image": "https://picsum.photos/200?random=606",
+    "name": "Product 606",
+    "price": 778.64,
+    "category": "Books",
+    "rating": 3.8
+  },
+  {
+    "id": 607,
+    "image": "https://picsum.photos/200?random=607",
+    "name": "Product 607",
+    "price": 953.25,
+    "category": "Home",
+    "rating": 1.2
+  },
+  {
+    "id": 608,
+    "image": "https://picsum.photos/200?random=608",
+    "name": "Product 608",
+    "price": 396.26,
+    "category": "Electronics",
+    "rating": 2.4
+  },
+  {
+    "id": 609,
+    "image": "https://picsum.photos/200?random=609",
+    "name": "Product 609",
+    "price": 263.35,
+    "category": "Electronics",
+    "rating": 4.9
+  },
+  {
+    "id": 610,
+    "image": "https://picsum.photos/200?random=610",
+    "name": "Product 610",
+    "price": 932.87,
+    "category": "Home",
+    "rating": 4.4
+  },
+  {
+    "id": 611,
+    "image": "https://picsum.photos/200?random=611",
+    "name": "Product 611",
+    "price": 975.47,
+    "category": "Home",
+    "rating": 3.0
+  },
+  {
+    "id": 612,
+    "image": "https://picsum.photos/200?random=612",
+    "name": "Product 612",
+    "price": 684.88,
+    "category": "Books",
+    "rating": 2.6
+  },
+  {
+    "id": 613,
+    "image": "https://picsum.photos/200?random=613",
+    "name": "Product 613",
+    "price": 30.49,
+    "category": "Home",
+    "rating": 3.1
+  },
+  {
+    "id": 614,
+    "image": "https://picsum.photos/200?random=614",
+    "name": "Product 614",
+    "price": 476.3,
+    "category": "Clothing",
+    "rating": 2.2
+  },
+  {
+    "id": 615,
+    "image": "https://picsum.photos/200?random=615",
+    "name": "Product 615",
+    "price": 270.05,
+    "category": "Electronics",
+    "rating": 2.7
+  },
+  {
+    "id": 616,
+    "image": "https://picsum.photos/200?random=616",
+    "name": "Product 616",
+    "price": 202.85,
+    "category": "Electronics",
+    "rating": 3.6
+  },
+  {
+    "id": 617,
+    "image": "https://picsum.photos/200?random=617",
+    "name": "Product 617",
+    "price": 664.51,
+    "category": "Electronics",
+    "rating": 2.9
+  },
+  {
+    "id": 618,
+    "image": "https://picsum.photos/200?random=618",
+    "name": "Product 618",
+    "price": 16.34,
+    "category": "Electronics",
+    "rating": 2.8
+  },
+  {
+    "id": 619,
+    "image": "https://picsum.photos/200?random=619",
+    "name": "Product 619",
+    "price": 520.02,
+    "category": "Books",
+    "rating": 2.3
+  },
+  {
+    "id": 620,
+    "image": "https://picsum.photos/200?random=620",
+    "name": "Product 620",
+    "price": 326.67,
+    "category": "Clothing",
+    "rating": 3.2
+  },
+  {
+    "id": 621,
+    "image": "https://picsum.photos/200?random=621",
+    "name": "Product 621",
+    "price": 463.51,
+    "category": "Home",
+    "rating": 1.8
+  },
+  {
+    "id": 622,
+    "image": "https://picsum.photos/200?random=622",
+    "name": "Product 622",
+    "price": 198.97,
+    "category": "Books",
+    "rating": 2.2
+  },
+  {
+    "id": 623,
+    "image": "https://picsum.photos/200?random=623",
+    "name": "Product 623",
+    "price": 342.07,
+    "category": "Books",
+    "rating": 1.3
+  },
+  {
+    "id": 624,
+    "image": "https://picsum.photos/200?random=624",
+    "name": "Product 624",
+    "price": 235.55,
+    "category": "Home",
+    "rating": 4.1
+  },
+  {
+    "id": 625,
+    "image": "https://picsum.photos/200?random=625",
+    "name": "Product 625",
+    "price": 649.4,
+    "category": "Home",
+    "rating": 4.9
+  },
+  {
+    "id": 626,
+    "image": "https://picsum.photos/200?random=626",
+    "name": "Product 626",
+    "price": 701.6,
+    "category": "Clothing",
+    "rating": 3.7
+  },
+  {
+    "id": 627,
+    "image": "https://picsum.photos/200?random=627",
+    "name": "Product 627",
+    "price": 498.18,
+    "category": "Home",
+    "rating": 4.0
+  },
+  {
+    "id": 628,
+    "image": "https://picsum.photos/200?random=628",
+    "name": "Product 628",
+    "price": 656.9,
+    "category": "Home",
+    "rating": 4.3
+  },
+  {
+    "id": 629,
+    "image": "https://picsum.photos/200?random=629",
+    "name": "Product 629",
+    "price": 948.87,
+    "category": "Books",
+    "rating": 4.8
+  },
+  {
+    "id": 630,
+    "image": "https://picsum.photos/200?random=630",
+    "name": "Product 630",
+    "price": 453.4,
+    "category": "Electronics",
+    "rating": 4.8
+  },
+  {
+    "id": 631,
+    "image": "https://picsum.photos/200?random=631",
+    "name": "Product 631",
+    "price": 34.39,
+    "category": "Books",
+    "rating": 3.1
+  },
+  {
+    "id": 632,
+    "image": "https://picsum.photos/200?random=632",
+    "name": "Product 632",
+    "price": 252.58,
+    "category": "Electronics",
+    "rating": 4.4
+  },
+  {
+    "id": 633,
+    "image": "https://picsum.photos/200?random=633",
+    "name": "Product 633",
+    "price": 264.88,
+    "category": "Books",
+    "rating": 4.4
+  },
+  {
+    "id": 634,
+    "image": "https://picsum.photos/200?random=634",
+    "name": "Product 634",
+    "price": 446.08,
+    "category": "Clothing",
+    "rating": 3.8
+  },
+  {
+    "id": 635,
+    "image": "https://picsum.photos/200?random=635",
+    "name": "Product 635",
+    "price": 724.34,
+    "category": "Clothing",
+    "rating": 3.2
+  },
+  {
+    "id": 636,
+    "image": "https://picsum.photos/200?random=636",
+    "name": "Product 636",
+    "price": 131.96,
+    "category": "Clothing",
+    "rating": 2.0
+  },
+  {
+    "id": 637,
+    "image": "https://picsum.photos/200?random=637",
+    "name": "Product 637",
+    "price": 789.27,
+    "category": "Books",
+    "rating": 3.4
+  },
+  {
+    "id": 638,
+    "image": "https://picsum.photos/200?random=638",
+    "name": "Product 638",
+    "price": 477.06,
+    "category": "Books",
+    "rating": 4.7
+  },
+  {
+    "id": 639,
+    "image": "https://picsum.photos/200?random=639",
+    "name": "Product 639",
+    "price": 650.94,
+    "category": "Electronics",
+    "rating": 1.8
+  },
+  {
+    "id": 640,
+    "image": "https://picsum.photos/200?random=640",
+    "name": "Product 640",
+    "price": 514.24,
+    "category": "Books",
+    "rating": 4.1
+  },
+  {
+    "id": 641,
+    "image": "https://picsum.photos/200?random=641",
+    "name": "Product 641",
+    "price": 365.2,
+    "category": "Electronics",
+    "rating": 4.0
+  },
+  {
+    "id": 642,
+    "image": "https://picsum.photos/200?random=642",
+    "name": "Product 642",
+    "price": 252.8,
+    "category": "Electronics",
+    "rating": 2.9
+  },
+  {
+    "id": 643,
+    "image": "https://picsum.photos/200?random=643",
+    "name": "Product 643",
+    "price": 177.86,
+    "category": "Electronics",
+    "rating": 4.5
+  },
+  {
+    "id": 644,
+    "image": "https://picsum.photos/200?random=644",
+    "name": "Product 644",
+    "price": 89.67,
+    "category": "Books",
+    "rating": 2.9
+  },
+  {
+    "id": 645,
+    "image": "https://picsum.photos/200?random=645",
+    "name": "Product 645",
+    "price": 742.29,
+    "category": "Electronics",
+    "rating": 1.4
+  },
+  {
+    "id": 646,
+    "image": "https://picsum.photos/200?random=646",
+    "name": "Product 646",
+    "price": 646.1,
+    "category": "Electronics",
+    "rating": 4.3
+  },
+  {
+    "id": 647,
+    "image": "https://picsum.photos/200?random=647",
+    "name": "Product 647",
+    "price": 557.64,
+    "category": "Home",
+    "rating": 1.5
+  },
+  {
+    "id": 648,
+    "image": "https://picsum.photos/200?random=648",
+    "name": "Product 648",
+    "price": 51.04,
+    "category": "Electronics",
+    "rating": 1.8
+  },
+  {
+    "id": 649,
+    "image": "https://picsum.photos/200?random=649",
+    "name": "Product 649",
+    "price": 745.1,
+    "category": "Home",
+    "rating": 3.9
+  },
+  {
+    "id": 650,
+    "image": "https://picsum.photos/200?random=650",
+    "name": "Product 650",
+    "price": 635.81,
+    "category": "Electronics",
+    "rating": 3.2
+  },
+  {
+    "id": 651,
+    "image": "https://picsum.photos/200?random=651",
+    "name": "Product 651",
+    "price": 947.88,
+    "category": "Home",
+    "rating": 4.4
+  },
+  {
+    "id": 652,
+    "image": "https://picsum.photos/200?random=652",
+    "name": "Product 652",
+    "price": 413.61,
+    "category": "Books",
+    "rating": 3.8
+  },
+  {
+    "id": 653,
+    "image": "https://picsum.photos/200?random=653",
+    "name": "Product 653",
+    "price": 348.12,
+    "category": "Books",
+    "rating": 3.8
+  },
+  {
+    "id": 654,
+    "image": "https://picsum.photos/200?random=654",
+    "name": "Product 654",
+    "price": 931.6,
+    "category": "Books",
+    "rating": 3.3
+  },
+  {
+    "id": 655,
+    "image": "https://picsum.photos/200?random=655",
+    "name": "Product 655",
+    "price": 264.72,
+    "category": "Clothing",
+    "rating": 1.3
+  },
+  {
+    "id": 656,
+    "image": "https://picsum.photos/200?random=656",
+    "name": "Product 656",
+    "price": 832.28,
+    "category": "Home",
+    "rating": 2.8
+  },
+  {
+    "id": 657,
+    "image": "https://picsum.photos/200?random=657",
+    "name": "Product 657",
+    "price": 684.27,
+    "category": "Books",
+    "rating": 4.8
+  },
+  {
+    "id": 658,
+    "image": "https://picsum.photos/200?random=658",
+    "name": "Product 658",
+    "price": 246.99,
+    "category": "Home",
+    "rating": 4.3
+  },
+  {
+    "id": 659,
+    "image": "https://picsum.photos/200?random=659",
+    "name": "Product 659",
+    "price": 719.95,
+    "category": "Electronics",
+    "rating": 1.3
+  },
+  {
+    "id": 660,
+    "image": "https://picsum.photos/200?random=660",
+    "name": "Product 660",
+    "price": 354.81,
+    "category": "Clothing",
+    "rating": 2.6
+  },
+  {
+    "id": 661,
+    "image": "https://picsum.photos/200?random=661",
+    "name": "Product 661",
+    "price": 812.46,
+    "category": "Home",
+    "rating": 2.0
+  },
+  {
+    "id": 662,
+    "image": "https://picsum.photos/200?random=662",
+    "name": "Product 662",
+    "price": 655.16,
+    "category": "Clothing",
+    "rating": 4.9
+  },
+  {
+    "id": 663,
+    "image": "https://picsum.photos/200?random=663",
+    "name": "Product 663",
+    "price": 830.35,
+    "category": "Books",
+    "rating": 1.6
+  },
+  {
+    "id": 664,
+    "image": "https://picsum.photos/200?random=664",
+    "name": "Product 664",
+    "price": 75.53,
+    "category": "Electronics",
+    "rating": 4.7
+  },
+  {
+    "id": 665,
+    "image": "https://picsum.photos/200?random=665",
+    "name": "Product 665",
+    "price": 724.13,
+    "category": "Clothing",
+    "rating": 2.9
+  },
+  {
+    "id": 666,
+    "image": "https://picsum.photos/200?random=666",
+    "name": "Product 666",
+    "price": 749.68,
+    "category": "Home",
+    "rating": 2.3
+  },
+  {
+    "id": 667,
+    "image": "https://picsum.photos/200?random=667",
+    "name": "Product 667",
+    "price": 486.0,
+    "category": "Books",
+    "rating": 3.2
+  },
+  {
+    "id": 668,
+    "image": "https://picsum.photos/200?random=668",
+    "name": "Product 668",
+    "price": 624.97,
+    "category": "Home",
+    "rating": 1.1
+  },
+  {
+    "id": 669,
+    "image": "https://picsum.photos/200?random=669",
+    "name": "Product 669",
+    "price": 191.7,
+    "category": "Electronics",
+    "rating": 3.9
+  },
+  {
+    "id": 670,
+    "image": "https://picsum.photos/200?random=670",
+    "name": "Product 670",
+    "price": 986.33,
+    "category": "Electronics",
+    "rating": 3.0
+  },
+  {
+    "id": 671,
+    "image": "https://picsum.photos/200?random=671",
+    "name": "Product 671",
+    "price": 762.27,
+    "category": "Home",
+    "rating": 3.7
+  },
+  {
+    "id": 672,
+    "image": "https://picsum.photos/200?random=672",
+    "name": "Product 672",
+    "price": 615.34,
+    "category": "Electronics",
+    "rating": 2.8
+  },
+  {
+    "id": 673,
+    "image": "https://picsum.photos/200?random=673",
+    "name": "Product 673",
+    "price": 375.41,
+    "category": "Books",
+    "rating": 2.9
+  },
+  {
+    "id": 674,
+    "image": "https://picsum.photos/200?random=674",
+    "name": "Product 674",
+    "price": 155.06,
+    "category": "Clothing",
+    "rating": 4.3
+  },
+  {
+    "id": 675,
+    "image": "https://picsum.photos/200?random=675",
+    "name": "Product 675",
+    "price": 224.25,
+    "category": "Electronics",
+    "rating": 1.2
+  },
+  {
+    "id": 676,
+    "image": "https://picsum.photos/200?random=676",
+    "name": "Product 676",
+    "price": 200.02,
+    "category": "Home",
+    "rating": 1.9
+  },
+  {
+    "id": 677,
+    "image": "https://picsum.photos/200?random=677",
+    "name": "Product 677",
+    "price": 534.16,
+    "category": "Clothing",
+    "rating": 3.6
+  },
+  {
+    "id": 678,
+    "image": "https://picsum.photos/200?random=678",
+    "name": "Product 678",
+    "price": 587.94,
+    "category": "Clothing",
+    "rating": 2.4
+  },
+  {
+    "id": 679,
+    "image": "https://picsum.photos/200?random=679",
+    "name": "Product 679",
+    "price": 792.62,
+    "category": "Books",
+    "rating": 4.2
+  },
+  {
+    "id": 680,
+    "image": "https://picsum.photos/200?random=680",
+    "name": "Product 680",
+    "price": 909.56,
+    "category": "Electronics",
+    "rating": 2.7
+  },
+  {
+    "id": 681,
+    "image": "https://picsum.photos/200?random=681",
+    "name": "Product 681",
+    "price": 947.38,
+    "category": "Clothing",
+    "rating": 2.5
+  },
+  {
+    "id": 682,
+    "image": "https://picsum.photos/200?random=682",
+    "name": "Product 682",
+    "price": 203.04,
+    "category": "Home",
+    "rating": 3.1
+  },
+  {
+    "id": 683,
+    "image": "https://picsum.photos/200?random=683",
+    "name": "Product 683",
+    "price": 706.75,
+    "category": "Home",
+    "rating": 3.2
+  },
+  {
+    "id": 684,
+    "image": "https://picsum.photos/200?random=684",
+    "name": "Product 684",
+    "price": 831.03,
+    "category": "Clothing",
+    "rating": 2.2
+  },
+  {
+    "id": 685,
+    "image": "https://picsum.photos/200?random=685",
+    "name": "Product 685",
+    "price": 272.9,
+    "category": "Electronics",
+    "rating": 4.3
+  },
+  {
+    "id": 686,
+    "image": "https://picsum.photos/200?random=686",
+    "name": "Product 686",
+    "price": 296.55,
+    "category": "Books",
+    "rating": 3.8
+  },
+  {
+    "id": 687,
+    "image": "https://picsum.photos/200?random=687",
+    "name": "Product 687",
+    "price": 829.5,
+    "category": "Electronics",
+    "rating": 1.9
+  },
+  {
+    "id": 688,
+    "image": "https://picsum.photos/200?random=688",
+    "name": "Product 688",
+    "price": 774.31,
+    "category": "Electronics",
+    "rating": 4.0
+  },
+  {
+    "id": 689,
+    "image": "https://picsum.photos/200?random=689",
+    "name": "Product 689",
+    "price": 755.53,
+    "category": "Electronics",
+    "rating": 2.0
+  },
+  {
+    "id": 690,
+    "image": "https://picsum.photos/200?random=690",
+    "name": "Product 690",
+    "price": 906.11,
+    "category": "Home",
+    "rating": 2.0
+  },
+  {
+    "id": 691,
+    "image": "https://picsum.photos/200?random=691",
+    "name": "Product 691",
+    "price": 421.69,
+    "category": "Clothing",
+    "rating": 2.4
+  },
+  {
+    "id": 692,
+    "image": "https://picsum.photos/200?random=692",
+    "name": "Product 692",
+    "price": 330.35,
+    "category": "Home",
+    "rating": 3.8
+  },
+  {
+    "id": 693,
+    "image": "https://picsum.photos/200?random=693",
+    "name": "Product 693",
+    "price": 389.53,
+    "category": "Electronics",
+    "rating": 3.7
+  },
+  {
+    "id": 694,
+    "image": "https://picsum.photos/200?random=694",
+    "name": "Product 694",
+    "price": 479.24,
+    "category": "Home",
+    "rating": 3.3
+  },
+  {
+    "id": 695,
+    "image": "https://picsum.photos/200?random=695",
+    "name": "Product 695",
+    "price": 41.48,
+    "category": "Books",
+    "rating": 1.7
+  },
+  {
+    "id": 696,
+    "image": "https://picsum.photos/200?random=696",
+    "name": "Product 696",
+    "price": 845.02,
+    "category": "Clothing",
+    "rating": 1.7
+  },
+  {
+    "id": 697,
+    "image": "https://picsum.photos/200?random=697",
+    "name": "Product 697",
+    "price": 694.73,
+    "category": "Home",
+    "rating": 2.0
+  },
+  {
+    "id": 698,
+    "image": "https://picsum.photos/200?random=698",
+    "name": "Product 698",
+    "price": 278.93,
+    "category": "Books",
+    "rating": 3.8
+  },
+  {
+    "id": 699,
+    "image": "https://picsum.photos/200?random=699",
+    "name": "Product 699",
+    "price": 740.47,
+    "category": "Books",
+    "rating": 4.3
+  },
+  {
+    "id": 700,
+    "image": "https://picsum.photos/200?random=700",
+    "name": "Product 700",
+    "price": 67.69,
+    "category": "Clothing",
+    "rating": 3.1
+  },
+  {
+    "id": 701,
+    "image": "https://picsum.photos/200?random=701",
+    "name": "Product 701",
+    "price": 114.31,
+    "category": "Home",
+    "rating": 3.4
+  },
+  {
+    "id": 702,
+    "image": "https://picsum.photos/200?random=702",
+    "name": "Product 702",
+    "price": 61.42,
+    "category": "Books",
+    "rating": 2.8
+  },
+  {
+    "id": 703,
+    "image": "https://picsum.photos/200?random=703",
+    "name": "Product 703",
+    "price": 542.31,
+    "category": "Home",
+    "rating": 4.3
+  },
+  {
+    "id": 704,
+    "image": "https://picsum.photos/200?random=704",
+    "name": "Product 704",
+    "price": 895.63,
+    "category": "Electronics",
+    "rating": 4.6
+  },
+  {
+    "id": 705,
+    "image": "https://picsum.photos/200?random=705",
+    "name": "Product 705",
+    "price": 919.25,
+    "category": "Home",
+    "rating": 1.5
+  },
+  {
+    "id": 706,
+    "image": "https://picsum.photos/200?random=706",
+    "name": "Product 706",
+    "price": 10.91,
+    "category": "Home",
+    "rating": 3.0
+  },
+  {
+    "id": 707,
+    "image": "https://picsum.photos/200?random=707",
+    "name": "Product 707",
+    "price": 314.69,
+    "category": "Books",
+    "rating": 2.1
+  },
+  {
+    "id": 708,
+    "image": "https://picsum.photos/200?random=708",
+    "name": "Product 708",
+    "price": 732.74,
+    "category": "Electronics",
+    "rating": 3.9
+  },
+  {
+    "id": 709,
+    "image": "https://picsum.photos/200?random=709",
+    "name": "Product 709",
+    "price": 421.99,
+    "category": "Clothing",
+    "rating": 3.1
+  },
+  {
+    "id": 710,
+    "image": "https://picsum.photos/200?random=710",
+    "name": "Product 710",
+    "price": 152.65,
+    "category": "Clothing",
+    "rating": 2.6
+  },
+  {
+    "id": 711,
+    "image": "https://picsum.photos/200?random=711",
+    "name": "Product 711",
+    "price": 172.87,
+    "category": "Electronics",
+    "rating": 4.2
+  },
+  {
+    "id": 712,
+    "image": "https://picsum.photos/200?random=712",
+    "name": "Product 712",
+    "price": 956.46,
+    "category": "Books",
+    "rating": 4.1
+  },
+  {
+    "id": 713,
+    "image": "https://picsum.photos/200?random=713",
+    "name": "Product 713",
+    "price": 436.81,
+    "category": "Clothing",
+    "rating": 3.4
+  },
+  {
+    "id": 714,
+    "image": "https://picsum.photos/200?random=714",
+    "name": "Product 714",
+    "price": 502.97,
+    "category": "Books",
+    "rating": 4.5
+  },
+  {
+    "id": 715,
+    "image": "https://picsum.photos/200?random=715",
+    "name": "Product 715",
+    "price": 966.12,
+    "category": "Clothing",
+    "rating": 4.4
+  },
+  {
+    "id": 716,
+    "image": "https://picsum.photos/200?random=716",
+    "name": "Product 716",
+    "price": 652.6,
+    "category": "Books",
+    "rating": 3.2
+  },
+  {
+    "id": 717,
+    "image": "https://picsum.photos/200?random=717",
+    "name": "Product 717",
+    "price": 178.81,
+    "category": "Electronics",
+    "rating": 2.4
+  },
+  {
+    "id": 718,
+    "image": "https://picsum.photos/200?random=718",
+    "name": "Product 718",
+    "price": 73.78,
+    "category": "Clothing",
+    "rating": 2.8
+  },
+  {
+    "id": 719,
+    "image": "https://picsum.photos/200?random=719",
+    "name": "Product 719",
+    "price": 377.18,
+    "category": "Home",
+    "rating": 2.7
+  },
+  {
+    "id": 720,
+    "image": "https://picsum.photos/200?random=720",
+    "name": "Product 720",
+    "price": 636.22,
+    "category": "Books",
+    "rating": 3.7
+  },
+  {
+    "id": 721,
+    "image": "https://picsum.photos/200?random=721",
+    "name": "Product 721",
+    "price": 900.66,
+    "category": "Home",
+    "rating": 3.2
+  },
+  {
+    "id": 722,
+    "image": "https://picsum.photos/200?random=722",
+    "name": "Product 722",
+    "price": 884.64,
+    "category": "Clothing",
+    "rating": 1.2
+  },
+  {
+    "id": 723,
+    "image": "https://picsum.photos/200?random=723",
+    "name": "Product 723",
+    "price": 740.15,
+    "category": "Electronics",
+    "rating": 4.2
+  },
+  {
+    "id": 724,
+    "image": "https://picsum.photos/200?random=724",
+    "name": "Product 724",
+    "price": 337.98,
+    "category": "Home",
+    "rating": 2.5
+  },
+  {
+    "id": 725,
+    "image": "https://picsum.photos/200?random=725",
+    "name": "Product 725",
+    "price": 919.77,
+    "category": "Electronics",
+    "rating": 5.0
+  },
+  {
+    "id": 726,
+    "image": "https://picsum.photos/200?random=726",
+    "name": "Product 726",
+    "price": 47.67,
+    "category": "Home",
+    "rating": 1.9
+  },
+  {
+    "id": 727,
+    "image": "https://picsum.photos/200?random=727",
+    "name": "Product 727",
+    "price": 698.39,
+    "category": "Electronics",
+    "rating": 4.7
+  },
+  {
+    "id": 728,
+    "image": "https://picsum.photos/200?random=728",
+    "name": "Product 728",
+    "price": 53.59,
+    "category": "Electronics",
+    "rating": 4.3
+  },
+  {
+    "id": 729,
+    "image": "https://picsum.photos/200?random=729",
+    "name": "Product 729",
+    "price": 382.39,
+    "category": "Electronics",
+    "rating": 1.7
+  },
+  {
+    "id": 730,
+    "image": "https://picsum.photos/200?random=730",
+    "name": "Product 730",
+    "price": 872.51,
+    "category": "Home",
+    "rating": 1.7
+  },
+  {
+    "id": 731,
+    "image": "https://picsum.photos/200?random=731",
+    "name": "Product 731",
+    "price": 52.42,
+    "category": "Home",
+    "rating": 2.3
+  },
+  {
+    "id": 732,
+    "image": "https://picsum.photos/200?random=732",
+    "name": "Product 732",
+    "price": 692.74,
+    "category": "Home",
+    "rating": 1.8
+  },
+  {
+    "id": 733,
+    "image": "https://picsum.photos/200?random=733",
+    "name": "Product 733",
+    "price": 593.78,
+    "category": "Home",
+    "rating": 2.0
+  },
+  {
+    "id": 734,
+    "image": "https://picsum.photos/200?random=734",
+    "name": "Product 734",
+    "price": 436.04,
+    "category": "Clothing",
+    "rating": 4.4
+  },
+  {
+    "id": 735,
+    "image": "https://picsum.photos/200?random=735",
+    "name": "Product 735",
+    "price": 600.01,
+    "category": "Clothing",
+    "rating": 4.3
+  },
+  {
+    "id": 736,
+    "image": "https://picsum.photos/200?random=736",
+    "name": "Product 736",
+    "price": 503.52,
+    "category": "Clothing",
+    "rating": 4.5
+  },
+  {
+    "id": 737,
+    "image": "https://picsum.photos/200?random=737",
+    "name": "Product 737",
+    "price": 366.0,
+    "category": "Home",
+    "rating": 5.0
+  },
+  {
+    "id": 738,
+    "image": "https://picsum.photos/200?random=738",
+    "name": "Product 738",
+    "price": 700.81,
+    "category": "Electronics",
+    "rating": 1.8
+  },
+  {
+    "id": 739,
+    "image": "https://picsum.photos/200?random=739",
+    "name": "Product 739",
+    "price": 318.75,
+    "category": "Clothing",
+    "rating": 2.5
+  },
+  {
+    "id": 740,
+    "image": "https://picsum.photos/200?random=740",
+    "name": "Product 740",
+    "price": 953.3,
+    "category": "Clothing",
+    "rating": 3.9
+  },
+  {
+    "id": 741,
+    "image": "https://picsum.photos/200?random=741",
+    "name": "Product 741",
+    "price": 76.3,
+    "category": "Clothing",
+    "rating": 3.5
+  },
+  {
+    "id": 742,
+    "image": "https://picsum.photos/200?random=742",
+    "name": "Product 742",
+    "price": 196.36,
+    "category": "Books",
+    "rating": 3.0
+  },
+  {
+    "id": 743,
+    "image": "https://picsum.photos/200?random=743",
+    "name": "Product 743",
+    "price": 993.25,
+    "category": "Books",
+    "rating": 1.8
+  },
+  {
+    "id": 744,
+    "image": "https://picsum.photos/200?random=744",
+    "name": "Product 744",
+    "price": 313.12,
+    "category": "Books",
+    "rating": 3.7
+  },
+  {
+    "id": 745,
+    "image": "https://picsum.photos/200?random=745",
+    "name": "Product 745",
+    "price": 626.67,
+    "category": "Electronics",
+    "rating": 2.4
+  },
+  {
+    "id": 746,
+    "image": "https://picsum.photos/200?random=746",
+    "name": "Product 746",
+    "price": 848.45,
+    "category": "Books",
+    "rating": 3.6
+  },
+  {
+    "id": 747,
+    "image": "https://picsum.photos/200?random=747",
+    "name": "Product 747",
+    "price": 516.28,
+    "category": "Clothing",
+    "rating": 4.5
+  },
+  {
+    "id": 748,
+    "image": "https://picsum.photos/200?random=748",
+    "name": "Product 748",
+    "price": 528.5,
+    "category": "Clothing",
+    "rating": 3.3
+  },
+  {
+    "id": 749,
+    "image": "https://picsum.photos/200?random=749",
+    "name": "Product 749",
+    "price": 260.02,
+    "category": "Electronics",
+    "rating": 2.6
+  },
+  {
+    "id": 750,
+    "image": "https://picsum.photos/200?random=750",
+    "name": "Product 750",
+    "price": 691.01,
+    "category": "Books",
+    "rating": 3.6
+  },
+  {
+    "id": 751,
+    "image": "https://picsum.photos/200?random=751",
+    "name": "Product 751",
+    "price": 47.73,
+    "category": "Books",
+    "rating": 4.6
+  },
+  {
+    "id": 752,
+    "image": "https://picsum.photos/200?random=752",
+    "name": "Product 752",
+    "price": 623.66,
+    "category": "Books",
+    "rating": 2.3
+  },
+  {
+    "id": 753,
+    "image": "https://picsum.photos/200?random=753",
+    "name": "Product 753",
+    "price": 750.49,
+    "category": "Home",
+    "rating": 4.3
+  },
+  {
+    "id": 754,
+    "image": "https://picsum.photos/200?random=754",
+    "name": "Product 754",
+    "price": 984.97,
+    "category": "Clothing",
+    "rating": 2.7
+  },
+  {
+    "id": 755,
+    "image": "https://picsum.photos/200?random=755",
+    "name": "Product 755",
+    "price": 558.96,
+    "category": "Books",
+    "rating": 1.5
+  },
+  {
+    "id": 756,
+    "image": "https://picsum.photos/200?random=756",
+    "name": "Product 756",
+    "price": 829.89,
+    "category": "Electronics",
+    "rating": 4.9
+  },
+  {
+    "id": 757,
+    "image": "https://picsum.photos/200?random=757",
+    "name": "Product 757",
+    "price": 176.62,
+    "category": "Home",
+    "rating": 4.2
+  },
+  {
+    "id": 758,
+    "image": "https://picsum.photos/200?random=758",
+    "name": "Product 758",
+    "price": 175.17,
+    "category": "Books",
+    "rating": 2.7
+  },
+  {
+    "id": 759,
+    "image": "https://picsum.photos/200?random=759",
+    "name": "Product 759",
+    "price": 764.15,
+    "category": "Electronics",
+    "rating": 3.8
+  },
+  {
+    "id": 760,
+    "image": "https://picsum.photos/200?random=760",
+    "name": "Product 760",
+    "price": 707.61,
+    "category": "Clothing",
+    "rating": 2.9
+  },
+  {
+    "id": 761,
+    "image": "https://picsum.photos/200?random=761",
+    "name": "Product 761",
+    "price": 948.3,
+    "category": "Electronics",
+    "rating": 4.3
+  },
+  {
+    "id": 762,
+    "image": "https://picsum.photos/200?random=762",
+    "name": "Product 762",
+    "price": 118.02,
+    "category": "Books",
+    "rating": 2.9
+  },
+  {
+    "id": 763,
+    "image": "https://picsum.photos/200?random=763",
+    "name": "Product 763",
+    "price": 829.37,
+    "category": "Electronics",
+    "rating": 3.0
+  },
+  {
+    "id": 764,
+    "image": "https://picsum.photos/200?random=764",
+    "name": "Product 764",
+    "price": 376.79,
+    "category": "Home",
+    "rating": 1.1
+  },
+  {
+    "id": 765,
+    "image": "https://picsum.photos/200?random=765",
+    "name": "Product 765",
+    "price": 217.64,
+    "category": "Electronics",
+    "rating": 3.1
+  },
+  {
+    "id": 766,
+    "image": "https://picsum.photos/200?random=766",
+    "name": "Product 766",
+    "price": 647.08,
+    "category": "Clothing",
+    "rating": 4.4
+  },
+  {
+    "id": 767,
+    "image": "https://picsum.photos/200?random=767",
+    "name": "Product 767",
+    "price": 855.36,
+    "category": "Electronics",
+    "rating": 4.4
+  },
+  {
+    "id": 768,
+    "image": "https://picsum.photos/200?random=768",
+    "name": "Product 768",
+    "price": 218.95,
+    "category": "Books",
+    "rating": 2.6
+  },
+  {
+    "id": 769,
+    "image": "https://picsum.photos/200?random=769",
+    "name": "Product 769",
+    "price": 403.25,
+    "category": "Electronics",
+    "rating": 2.8
+  },
+  {
+    "id": 770,
+    "image": "https://picsum.photos/200?random=770",
+    "name": "Product 770",
+    "price": 149.32,
+    "category": "Electronics",
+    "rating": 1.5
+  },
+  {
+    "id": 771,
+    "image": "https://picsum.photos/200?random=771",
+    "name": "Product 771",
+    "price": 232.42,
+    "category": "Home",
+    "rating": 4.0
+  },
+  {
+    "id": 772,
+    "image": "https://picsum.photos/200?random=772",
+    "name": "Product 772",
+    "price": 730.59,
+    "category": "Books",
+    "rating": 2.3
+  },
+  {
+    "id": 773,
+    "image": "https://picsum.photos/200?random=773",
+    "name": "Product 773",
+    "price": 801.98,
+    "category": "Home",
+    "rating": 2.1
+  },
+  {
+    "id": 774,
+    "image": "https://picsum.photos/200?random=774",
+    "name": "Product 774",
+    "price": 828.27,
+    "category": "Clothing",
+    "rating": 4.2
+  },
+  {
+    "id": 775,
+    "image": "https://picsum.photos/200?random=775",
+    "name": "Product 775",
+    "price": 41.07,
+    "category": "Clothing",
+    "rating": 2.9
+  },
+  {
+    "id": 776,
+    "image": "https://picsum.photos/200?random=776",
+    "name": "Product 776",
+    "price": 106.98,
+    "category": "Books",
+    "rating": 4.8
+  },
+  {
+    "id": 777,
+    "image": "https://picsum.photos/200?random=777",
+    "name": "Product 777",
+    "price": 496.81,
+    "category": "Clothing",
+    "rating": 1.9
+  },
+  {
+    "id": 778,
+    "image": "https://picsum.photos/200?random=778",
+    "name": "Product 778",
+    "price": 864.21,
+    "category": "Electronics",
+    "rating": 3.2
+  },
+  {
+    "id": 779,
+    "image": "https://picsum.photos/200?random=779",
+    "name": "Product 779",
+    "price": 550.6,
+    "category": "Books",
+    "rating": 3.3
+  },
+  {
+    "id": 780,
+    "image": "https://picsum.photos/200?random=780",
+    "name": "Product 780",
+    "price": 615.4,
+    "category": "Clothing",
+    "rating": 1.0
+  },
+  {
+    "id": 781,
+    "image": "https://picsum.photos/200?random=781",
+    "name": "Product 781",
+    "price": 799.32,
+    "category": "Electronics",
+    "rating": 2.7
+  },
+  {
+    "id": 782,
+    "image": "https://picsum.photos/200?random=782",
+    "name": "Product 782",
+    "price": 425.34,
+    "category": "Electronics",
+    "rating": 2.0
+  },
+  {
+    "id": 783,
+    "image": "https://picsum.photos/200?random=783",
+    "name": "Product 783",
+    "price": 283.28,
+    "category": "Books",
+    "rating": 3.5
+  },
+  {
+    "id": 784,
+    "image": "https://picsum.photos/200?random=784",
+    "name": "Product 784",
+    "price": 467.22,
+    "category": "Electronics",
+    "rating": 2.2
+  },
+  {
+    "id": 785,
+    "image": "https://picsum.photos/200?random=785",
+    "name": "Product 785",
+    "price": 638.75,
+    "category": "Books",
+    "rating": 1.8
+  },
+  {
+    "id": 786,
+    "image": "https://picsum.photos/200?random=786",
+    "name": "Product 786",
+    "price": 39.97,
+    "category": "Books",
+    "rating": 1.8
+  },
+  {
+    "id": 787,
+    "image": "https://picsum.photos/200?random=787",
+    "name": "Product 787",
+    "price": 455.66,
+    "category": "Books",
+    "rating": 2.1
+  },
+  {
+    "id": 788,
+    "image": "https://picsum.photos/200?random=788",
+    "name": "Product 788",
+    "price": 708.55,
+    "category": "Home",
+    "rating": 2.6
+  },
+  {
+    "id": 789,
+    "image": "https://picsum.photos/200?random=789",
+    "name": "Product 789",
+    "price": 257.02,
+    "category": "Home",
+    "rating": 1.4
+  },
+  {
+    "id": 790,
+    "image": "https://picsum.photos/200?random=790",
+    "name": "Product 790",
+    "price": 874.52,
+    "category": "Home",
+    "rating": 1.1
+  },
+  {
+    "id": 791,
+    "image": "https://picsum.photos/200?random=791",
+    "name": "Product 791",
+    "price": 804.65,
+    "category": "Clothing",
+    "rating": 3.6
+  },
+  {
+    "id": 792,
+    "image": "https://picsum.photos/200?random=792",
+    "name": "Product 792",
+    "price": 677.68,
+    "category": "Home",
+    "rating": 3.7
+  },
+  {
+    "id": 793,
+    "image": "https://picsum.photos/200?random=793",
+    "name": "Product 793",
+    "price": 258.04,
+    "category": "Books",
+    "rating": 4.5
+  },
+  {
+    "id": 794,
+    "image": "https://picsum.photos/200?random=794",
+    "name": "Product 794",
+    "price": 643.37,
+    "category": "Home",
+    "rating": 1.4
+  },
+  {
+    "id": 795,
+    "image": "https://picsum.photos/200?random=795",
+    "name": "Product 795",
+    "price": 56.17,
+    "category": "Electronics",
+    "rating": 4.3
+  },
+  {
+    "id": 796,
+    "image": "https://picsum.photos/200?random=796",
+    "name": "Product 796",
+    "price": 736.51,
+    "category": "Books",
+    "rating": 4.8
+  },
+  {
+    "id": 797,
+    "image": "https://picsum.photos/200?random=797",
+    "name": "Product 797",
+    "price": 847.04,
+    "category": "Home",
+    "rating": 4.8
+  },
+  {
+    "id": 798,
+    "image": "https://picsum.photos/200?random=798",
+    "name": "Product 798",
+    "price": 753.24,
+    "category": "Electronics",
+    "rating": 1.7
+  },
+  {
+    "id": 799,
+    "image": "https://picsum.photos/200?random=799",
+    "name": "Product 799",
+    "price": 156.93,
+    "category": "Home",
+    "rating": 1.6
+  },
+  {
+    "id": 800,
+    "image": "https://picsum.photos/200?random=800",
+    "name": "Product 800",
+    "price": 473.27,
+    "category": "Home",
+    "rating": 1.4
+  },
+  {
+    "id": 801,
+    "image": "https://picsum.photos/200?random=801",
+    "name": "Product 801",
+    "price": 774.54,
+    "category": "Clothing",
+    "rating": 3.4
+  },
+  {
+    "id": 802,
+    "image": "https://picsum.photos/200?random=802",
+    "name": "Product 802",
+    "price": 710.98,
+    "category": "Books",
+    "rating": 2.7
+  },
+  {
+    "id": 803,
+    "image": "https://picsum.photos/200?random=803",
+    "name": "Product 803",
+    "price": 291.73,
+    "category": "Books",
+    "rating": 1.1
+  },
+  {
+    "id": 804,
+    "image": "https://picsum.photos/200?random=804",
+    "name": "Product 804",
+    "price": 581.78,
+    "category": "Clothing",
+    "rating": 4.1
+  },
+  {
+    "id": 805,
+    "image": "https://picsum.photos/200?random=805",
+    "name": "Product 805",
+    "price": 632.63,
+    "category": "Books",
+    "rating": 3.8
+  },
+  {
+    "id": 806,
+    "image": "https://picsum.photos/200?random=806",
+    "name": "Product 806",
+    "price": 34.84,
+    "category": "Electronics",
+    "rating": 2.5
+  },
+  {
+    "id": 807,
+    "image": "https://picsum.photos/200?random=807",
+    "name": "Product 807",
+    "price": 335.51,
+    "category": "Books",
+    "rating": 2.7
+  },
+  {
+    "id": 808,
+    "image": "https://picsum.photos/200?random=808",
+    "name": "Product 808",
+    "price": 254.47,
+    "category": "Clothing",
+    "rating": 2.4
+  },
+  {
+    "id": 809,
+    "image": "https://picsum.photos/200?random=809",
+    "name": "Product 809",
+    "price": 67.97,
+    "category": "Clothing",
+    "rating": 1.6
+  },
+  {
+    "id": 810,
+    "image": "https://picsum.photos/200?random=810",
+    "name": "Product 810",
+    "price": 579.52,
+    "category": "Books",
+    "rating": 3.1
+  },
+  {
+    "id": 811,
+    "image": "https://picsum.photos/200?random=811",
+    "name": "Product 811",
+    "price": 697.87,
+    "category": "Clothing",
+    "rating": 4.4
+  },
+  {
+    "id": 812,
+    "image": "https://picsum.photos/200?random=812",
+    "name": "Product 812",
+    "price": 172.91,
+    "category": "Books",
+    "rating": 2.8
+  },
+  {
+    "id": 813,
+    "image": "https://picsum.photos/200?random=813",
+    "name": "Product 813",
+    "price": 48.78,
+    "category": "Electronics",
+    "rating": 3.3
+  },
+  {
+    "id": 814,
+    "image": "https://picsum.photos/200?random=814",
+    "name": "Product 814",
+    "price": 358.23,
+    "category": "Books",
+    "rating": 2.2
+  },
+  {
+    "id": 815,
+    "image": "https://picsum.photos/200?random=815",
+    "name": "Product 815",
+    "price": 739.6,
+    "category": "Books",
+    "rating": 5.0
+  },
+  {
+    "id": 816,
+    "image": "https://picsum.photos/200?random=816",
+    "name": "Product 816",
+    "price": 473.29,
+    "category": "Books",
+    "rating": 2.2
+  },
+  {
+    "id": 817,
+    "image": "https://picsum.photos/200?random=817",
+    "name": "Product 817",
+    "price": 110.0,
+    "category": "Electronics",
+    "rating": 3.1
+  },
+  {
+    "id": 818,
+    "image": "https://picsum.photos/200?random=818",
+    "name": "Product 818",
+    "price": 775.22,
+    "category": "Clothing",
+    "rating": 4.8
+  },
+  {
+    "id": 819,
+    "image": "https://picsum.photos/200?random=819",
+    "name": "Product 819",
+    "price": 520.37,
+    "category": "Home",
+    "rating": 4.2
+  },
+  {
+    "id": 820,
+    "image": "https://picsum.photos/200?random=820",
+    "name": "Product 820",
+    "price": 677.58,
+    "category": "Books",
+    "rating": 2.3
+  },
+  {
+    "id": 821,
+    "image": "https://picsum.photos/200?random=821",
+    "name": "Product 821",
+    "price": 395.75,
+    "category": "Home",
+    "rating": 2.1
+  },
+  {
+    "id": 822,
+    "image": "https://picsum.photos/200?random=822",
+    "name": "Product 822",
+    "price": 755.18,
+    "category": "Clothing",
+    "rating": 3.7
+  },
+  {
+    "id": 823,
+    "image": "https://picsum.photos/200?random=823",
+    "name": "Product 823",
+    "price": 34.83,
+    "category": "Home",
+    "rating": 4.7
+  },
+  {
+    "id": 824,
+    "image": "https://picsum.photos/200?random=824",
+    "name": "Product 824",
+    "price": 218.33,
+    "category": "Home",
+    "rating": 4.2
+  },
+  {
+    "id": 825,
+    "image": "https://picsum.photos/200?random=825",
+    "name": "Product 825",
+    "price": 765.19,
+    "category": "Electronics",
+    "rating": 1.8
+  },
+  {
+    "id": 826,
+    "image": "https://picsum.photos/200?random=826",
+    "name": "Product 826",
+    "price": 64.97,
+    "category": "Books",
+    "rating": 1.1
+  },
+  {
+    "id": 827,
+    "image": "https://picsum.photos/200?random=827",
+    "name": "Product 827",
+    "price": 89.17,
+    "category": "Clothing",
+    "rating": 4.1
+  },
+  {
+    "id": 828,
+    "image": "https://picsum.photos/200?random=828",
+    "name": "Product 828",
+    "price": 936.22,
+    "category": "Home",
+    "rating": 5.0
+  },
+  {
+    "id": 829,
+    "image": "https://picsum.photos/200?random=829",
+    "name": "Product 829",
+    "price": 334.71,
+    "category": "Electronics",
+    "rating": 2.9
+  },
+  {
+    "id": 830,
+    "image": "https://picsum.photos/200?random=830",
+    "name": "Product 830",
+    "price": 651.58,
+    "category": "Home",
+    "rating": 3.3
+  },
+  {
+    "id": 831,
+    "image": "https://picsum.photos/200?random=831",
+    "name": "Product 831",
+    "price": 676.08,
+    "category": "Clothing",
+    "rating": 4.3
+  },
+  {
+    "id": 832,
+    "image": "https://picsum.photos/200?random=832",
+    "name": "Product 832",
+    "price": 31.13,
+    "category": "Home",
+    "rating": 3.2
+  },
+  {
+    "id": 833,
+    "image": "https://picsum.photos/200?random=833",
+    "name": "Product 833",
+    "price": 270.56,
+    "category": "Electronics",
+    "rating": 1.8
+  },
+  {
+    "id": 834,
+    "image": "https://picsum.photos/200?random=834",
+    "name": "Product 834",
+    "price": 320.69,
+    "category": "Books",
+    "rating": 4.5
+  },
+  {
+    "id": 835,
+    "image": "https://picsum.photos/200?random=835",
+    "name": "Product 835",
+    "price": 440.09,
+    "category": "Books",
+    "rating": 2.7
+  },
+  {
+    "id": 836,
+    "image": "https://picsum.photos/200?random=836",
+    "name": "Product 836",
+    "price": 348.35,
+    "category": "Electronics",
+    "rating": 2.9
+  },
+  {
+    "id": 837,
+    "image": "https://picsum.photos/200?random=837",
+    "name": "Product 837",
+    "price": 130.83,
+    "category": "Electronics",
+    "rating": 3.2
+  },
+  {
+    "id": 838,
+    "image": "https://picsum.photos/200?random=838",
+    "name": "Product 838",
+    "price": 775.61,
+    "category": "Clothing",
+    "rating": 2.8
+  },
+  {
+    "id": 839,
+    "image": "https://picsum.photos/200?random=839",
+    "name": "Product 839",
+    "price": 297.43,
+    "category": "Clothing",
+    "rating": 2.9
+  },
+  {
+    "id": 840,
+    "image": "https://picsum.photos/200?random=840",
+    "name": "Product 840",
+    "price": 237.25,
+    "category": "Home",
+    "rating": 2.2
+  },
+  {
+    "id": 841,
+    "image": "https://picsum.photos/200?random=841",
+    "name": "Product 841",
+    "price": 288.62,
+    "category": "Electronics",
+    "rating": 3.8
+  },
+  {
+    "id": 842,
+    "image": "https://picsum.photos/200?random=842",
+    "name": "Product 842",
+    "price": 309.02,
+    "category": "Electronics",
+    "rating": 3.4
+  },
+  {
+    "id": 843,
+    "image": "https://picsum.photos/200?random=843",
+    "name": "Product 843",
+    "price": 562.92,
+    "category": "Electronics",
+    "rating": 3.6
+  },
+  {
+    "id": 844,
+    "image": "https://picsum.photos/200?random=844",
+    "name": "Product 844",
+    "price": 12.17,
+    "category": "Electronics",
+    "rating": 4.8
+  },
+  {
+    "id": 845,
+    "image": "https://picsum.photos/200?random=845",
+    "name": "Product 845",
+    "price": 829.23,
+    "category": "Home",
+    "rating": 1.9
+  },
+  {
+    "id": 846,
+    "image": "https://picsum.photos/200?random=846",
+    "name": "Product 846",
+    "price": 381.84,
+    "category": "Home",
+    "rating": 4.5
+  },
+  {
+    "id": 847,
+    "image": "https://picsum.photos/200?random=847",
+    "name": "Product 847",
+    "price": 384.03,
+    "category": "Clothing",
+    "rating": 3.6
+  },
+  {
+    "id": 848,
+    "image": "https://picsum.photos/200?random=848",
+    "name": "Product 848",
+    "price": 476.8,
+    "category": "Home",
+    "rating": 1.5
+  },
+  {
+    "id": 849,
+    "image": "https://picsum.photos/200?random=849",
+    "name": "Product 849",
+    "price": 336.04,
+    "category": "Home",
+    "rating": 3.0
+  },
+  {
+    "id": 850,
+    "image": "https://picsum.photos/200?random=850",
+    "name": "Product 850",
+    "price": 439.23,
+    "category": "Home",
+    "rating": 4.3
+  },
+  {
+    "id": 851,
+    "image": "https://picsum.photos/200?random=851",
+    "name": "Product 851",
+    "price": 634.96,
+    "category": "Home",
+    "rating": 2.2
+  },
+  {
+    "id": 852,
+    "image": "https://picsum.photos/200?random=852",
+    "name": "Product 852",
+    "price": 374.46,
+    "category": "Clothing",
+    "rating": 4.3
+  },
+  {
+    "id": 853,
+    "image": "https://picsum.photos/200?random=853",
+    "name": "Product 853",
+    "price": 221.77,
+    "category": "Home",
+    "rating": 1.1
+  },
+  {
+    "id": 854,
+    "image": "https://picsum.photos/200?random=854",
+    "name": "Product 854",
+    "price": 184.32,
+    "category": "Electronics",
+    "rating": 2.6
+  },
+  {
+    "id": 855,
+    "image": "https://picsum.photos/200?random=855",
+    "name": "Product 855",
+    "price": 248.55,
+    "category": "Electronics",
+    "rating": 4.2
+  },
+  {
+    "id": 856,
+    "image": "https://picsum.photos/200?random=856",
+    "name": "Product 856",
+    "price": 792.17,
+    "category": "Books",
+    "rating": 3.8
+  },
+  {
+    "id": 857,
+    "image": "https://picsum.photos/200?random=857",
+    "name": "Product 857",
+    "price": 492.71,
+    "category": "Books",
+    "rating": 1.5
+  },
+  {
+    "id": 858,
+    "image": "https://picsum.photos/200?random=858",
+    "name": "Product 858",
+    "price": 470.04,
+    "category": "Clothing",
+    "rating": 1.0
+  },
+  {
+    "id": 859,
+    "image": "https://picsum.photos/200?random=859",
+    "name": "Product 859",
+    "price": 703.06,
+    "category": "Home",
+    "rating": 4.8
+  },
+  {
+    "id": 860,
+    "image": "https://picsum.photos/200?random=860",
+    "name": "Product 860",
+    "price": 316.93,
+    "category": "Clothing",
+    "rating": 4.8
+  },
+  {
+    "id": 861,
+    "image": "https://picsum.photos/200?random=861",
+    "name": "Product 861",
+    "price": 82.48,
+    "category": "Clothing",
+    "rating": 5.0
+  },
+  {
+    "id": 862,
+    "image": "https://picsum.photos/200?random=862",
+    "name": "Product 862",
+    "price": 32.83,
+    "category": "Home",
+    "rating": 4.2
+  },
+  {
+    "id": 863,
+    "image": "https://picsum.photos/200?random=863",
+    "name": "Product 863",
+    "price": 555.58,
+    "category": "Clothing",
+    "rating": 4.8
+  },
+  {
+    "id": 864,
+    "image": "https://picsum.photos/200?random=864",
+    "name": "Product 864",
+    "price": 985.55,
+    "category": "Home",
+    "rating": 3.1
+  },
+  {
+    "id": 865,
+    "image": "https://picsum.photos/200?random=865",
+    "name": "Product 865",
+    "price": 139.64,
+    "category": "Electronics",
+    "rating": 2.6
+  },
+  {
+    "id": 866,
+    "image": "https://picsum.photos/200?random=866",
+    "name": "Product 866",
+    "price": 549.52,
+    "category": "Home",
+    "rating": 2.9
+  },
+  {
+    "id": 867,
+    "image": "https://picsum.photos/200?random=867",
+    "name": "Product 867",
+    "price": 89.59,
+    "category": "Home",
+    "rating": 4.0
+  },
+  {
+    "id": 868,
+    "image": "https://picsum.photos/200?random=868",
+    "name": "Product 868",
+    "price": 299.69,
+    "category": "Books",
+    "rating": 4.9
+  },
+  {
+    "id": 869,
+    "image": "https://picsum.photos/200?random=869",
+    "name": "Product 869",
+    "price": 294.22,
+    "category": "Clothing",
+    "rating": 2.6
+  },
+  {
+    "id": 870,
+    "image": "https://picsum.photos/200?random=870",
+    "name": "Product 870",
+    "price": 343.33,
+    "category": "Home",
+    "rating": 3.4
+  },
+  {
+    "id": 871,
+    "image": "https://picsum.photos/200?random=871",
+    "name": "Product 871",
+    "price": 449.43,
+    "category": "Electronics",
+    "rating": 1.9
+  },
+  {
+    "id": 872,
+    "image": "https://picsum.photos/200?random=872",
+    "name": "Product 872",
+    "price": 929.78,
+    "category": "Home",
+    "rating": 1.3
+  },
+  {
+    "id": 873,
+    "image": "https://picsum.photos/200?random=873",
+    "name": "Product 873",
+    "price": 19.17,
+    "category": "Books",
+    "rating": 1.2
+  },
+  {
+    "id": 874,
+    "image": "https://picsum.photos/200?random=874",
+    "name": "Product 874",
+    "price": 262.83,
+    "category": "Home",
+    "rating": 1.6
+  },
+  {
+    "id": 875,
+    "image": "https://picsum.photos/200?random=875",
+    "name": "Product 875",
+    "price": 375.89,
+    "category": "Electronics",
+    "rating": 3.6
+  },
+  {
+    "id": 876,
+    "image": "https://picsum.photos/200?random=876",
+    "name": "Product 876",
+    "price": 230.98,
+    "category": "Home",
+    "rating": 4.2
+  },
+  {
+    "id": 877,
+    "image": "https://picsum.photos/200?random=877",
+    "name": "Product 877",
+    "price": 812.19,
+    "category": "Home",
+    "rating": 4.0
+  },
+  {
+    "id": 878,
+    "image": "https://picsum.photos/200?random=878",
+    "name": "Product 878",
+    "price": 752.76,
+    "category": "Home",
+    "rating": 4.1
+  },
+  {
+    "id": 879,
+    "image": "https://picsum.photos/200?random=879",
+    "name": "Product 879",
+    "price": 934.98,
+    "category": "Home",
+    "rating": 3.8
+  },
+  {
+    "id": 880,
+    "image": "https://picsum.photos/200?random=880",
+    "name": "Product 880",
+    "price": 304.38,
+    "category": "Books",
+    "rating": 2.2
+  },
+  {
+    "id": 881,
+    "image": "https://picsum.photos/200?random=881",
+    "name": "Product 881",
+    "price": 692.79,
+    "category": "Electronics",
+    "rating": 1.8
+  },
+  {
+    "id": 882,
+    "image": "https://picsum.photos/200?random=882",
+    "name": "Product 882",
+    "price": 249.87,
+    "category": "Books",
+    "rating": 2.3
+  },
+  {
+    "id": 883,
+    "image": "https://picsum.photos/200?random=883",
+    "name": "Product 883",
+    "price": 12.38,
+    "category": "Home",
+    "rating": 4.6
+  },
+  {
+    "id": 884,
+    "image": "https://picsum.photos/200?random=884",
+    "name": "Product 884",
+    "price": 629.06,
+    "category": "Clothing",
+    "rating": 4.3
+  },
+  {
+    "id": 885,
+    "image": "https://picsum.photos/200?random=885",
+    "name": "Product 885",
+    "price": 821.94,
+    "category": "Books",
+    "rating": 4.6
+  },
+  {
+    "id": 886,
+    "image": "https://picsum.photos/200?random=886",
+    "name": "Product 886",
+    "price": 623.23,
+    "category": "Books",
+    "rating": 2.8
+  },
+  {
+    "id": 887,
+    "image": "https://picsum.photos/200?random=887",
+    "name": "Product 887",
+    "price": 805.11,
+    "category": "Electronics",
+    "rating": 4.0
+  },
+  {
+    "id": 888,
+    "image": "https://picsum.photos/200?random=888",
+    "name": "Product 888",
+    "price": 355.63,
+    "category": "Electronics",
+    "rating": 4.8
+  },
+  {
+    "id": 889,
+    "image": "https://picsum.photos/200?random=889",
+    "name": "Product 889",
+    "price": 663.2,
+    "category": "Electronics",
+    "rating": 3.2
+  },
+  {
+    "id": 890,
+    "image": "https://picsum.photos/200?random=890",
+    "name": "Product 890",
+    "price": 429.64,
+    "category": "Electronics",
+    "rating": 1.3
+  },
+  {
+    "id": 891,
+    "image": "https://picsum.photos/200?random=891",
+    "name": "Product 891",
+    "price": 114.9,
+    "category": "Home",
+    "rating": 4.1
+  },
+  {
+    "id": 892,
+    "image": "https://picsum.photos/200?random=892",
+    "name": "Product 892",
+    "price": 62.07,
+    "category": "Books",
+    "rating": 5.0
+  },
+  {
+    "id": 893,
+    "image": "https://picsum.photos/200?random=893",
+    "name": "Product 893",
+    "price": 719.08,
+    "category": "Books",
+    "rating": 2.4
+  },
+  {
+    "id": 894,
+    "image": "https://picsum.photos/200?random=894",
+    "name": "Product 894",
+    "price": 941.63,
+    "category": "Clothing",
+    "rating": 3.4
+  },
+  {
+    "id": 895,
+    "image": "https://picsum.photos/200?random=895",
+    "name": "Product 895",
+    "price": 257.69,
+    "category": "Home",
+    "rating": 5.0
+  },
+  {
+    "id": 896,
+    "image": "https://picsum.photos/200?random=896",
+    "name": "Product 896",
+    "price": 257.75,
+    "category": "Books",
+    "rating": 1.7
+  },
+  {
+    "id": 897,
+    "image": "https://picsum.photos/200?random=897",
+    "name": "Product 897",
+    "price": 170.98,
+    "category": "Home",
+    "rating": 4.1
+  },
+  {
+    "id": 898,
+    "image": "https://picsum.photos/200?random=898",
+    "name": "Product 898",
+    "price": 911.83,
+    "category": "Books",
+    "rating": 4.0
+  },
+  {
+    "id": 899,
+    "image": "https://picsum.photos/200?random=899",
+    "name": "Product 899",
+    "price": 500.47,
+    "category": "Books",
+    "rating": 1.5
+  },
+  {
+    "id": 900,
+    "image": "https://picsum.photos/200?random=900",
+    "name": "Product 900",
+    "price": 978.1,
+    "category": "Books",
+    "rating": 4.3
+  },
+  {
+    "id": 901,
+    "image": "https://picsum.photos/200?random=901",
+    "name": "Product 901",
+    "price": 266.0,
+    "category": "Clothing",
+    "rating": 4.7
+  },
+  {
+    "id": 902,
+    "image": "https://picsum.photos/200?random=902",
+    "name": "Product 902",
+    "price": 373.83,
+    "category": "Electronics",
+    "rating": 2.1
+  },
+  {
+    "id": 903,
+    "image": "https://picsum.photos/200?random=903",
+    "name": "Product 903",
+    "price": 97.47,
+    "category": "Clothing",
+    "rating": 2.7
+  },
+  {
+    "id": 904,
+    "image": "https://picsum.photos/200?random=904",
+    "name": "Product 904",
+    "price": 597.6,
+    "category": "Home",
+    "rating": 2.3
+  },
+  {
+    "id": 905,
+    "image": "https://picsum.photos/200?random=905",
+    "name": "Product 905",
+    "price": 541.02,
+    "category": "Electronics",
+    "rating": 1.8
+  },
+  {
+    "id": 906,
+    "image": "https://picsum.photos/200?random=906",
+    "name": "Product 906",
+    "price": 608.39,
+    "category": "Electronics",
+    "rating": 4.3
+  },
+  {
+    "id": 907,
+    "image": "https://picsum.photos/200?random=907",
+    "name": "Product 907",
+    "price": 620.48,
+    "category": "Electronics",
+    "rating": 2.8
+  },
+  {
+    "id": 908,
+    "image": "https://picsum.photos/200?random=908",
+    "name": "Product 908",
+    "price": 973.4,
+    "category": "Clothing",
+    "rating": 3.6
+  },
+  {
+    "id": 909,
+    "image": "https://picsum.photos/200?random=909",
+    "name": "Product 909",
+    "price": 265.12,
+    "category": "Clothing",
+    "rating": 4.8
+  },
+  {
+    "id": 910,
+    "image": "https://picsum.photos/200?random=910",
+    "name": "Product 910",
+    "price": 950.7,
+    "category": "Electronics",
+    "rating": 4.6
+  },
+  {
+    "id": 911,
+    "image": "https://picsum.photos/200?random=911",
+    "name": "Product 911",
+    "price": 898.36,
+    "category": "Home",
+    "rating": 2.2
+  },
+  {
+    "id": 912,
+    "image": "https://picsum.photos/200?random=912",
+    "name": "Product 912",
+    "price": 462.0,
+    "category": "Electronics",
+    "rating": 4.8
+  },
+  {
+    "id": 913,
+    "image": "https://picsum.photos/200?random=913",
+    "name": "Product 913",
+    "price": 734.71,
+    "category": "Books",
+    "rating": 2.3
+  },
+  {
+    "id": 914,
+    "image": "https://picsum.photos/200?random=914",
+    "name": "Product 914",
+    "price": 780.69,
+    "category": "Home",
+    "rating": 2.0
+  },
+  {
+    "id": 915,
+    "image": "https://picsum.photos/200?random=915",
+    "name": "Product 915",
+    "price": 875.86,
+    "category": "Electronics",
+    "rating": 3.1
+  },
+  {
+    "id": 916,
+    "image": "https://picsum.photos/200?random=916",
+    "name": "Product 916",
+    "price": 719.82,
+    "category": "Electronics",
+    "rating": 4.6
+  },
+  {
+    "id": 917,
+    "image": "https://picsum.photos/200?random=917",
+    "name": "Product 917",
+    "price": 161.92,
+    "category": "Electronics",
+    "rating": 2.0
+  },
+  {
+    "id": 918,
+    "image": "https://picsum.photos/200?random=918",
+    "name": "Product 918",
+    "price": 176.22,
+    "category": "Electronics",
+    "rating": 1.4
+  },
+  {
+    "id": 919,
+    "image": "https://picsum.photos/200?random=919",
+    "name": "Product 919",
+    "price": 645.19,
+    "category": "Home",
+    "rating": 1.6
+  },
+  {
+    "id": 920,
+    "image": "https://picsum.photos/200?random=920",
+    "name": "Product 920",
+    "price": 870.24,
+    "category": "Clothing",
+    "rating": 3.0
+  },
+  {
+    "id": 921,
+    "image": "https://picsum.photos/200?random=921",
+    "name": "Product 921",
+    "price": 256.69,
+    "category": "Books",
+    "rating": 1.9
+  },
+  {
+    "id": 922,
+    "image": "https://picsum.photos/200?random=922",
+    "name": "Product 922",
+    "price": 454.67,
+    "category": "Clothing",
+    "rating": 4.0
+  },
+  {
+    "id": 923,
+    "image": "https://picsum.photos/200?random=923",
+    "name": "Product 923",
+    "price": 964.88,
+    "category": "Electronics",
+    "rating": 2.8
+  },
+  {
+    "id": 924,
+    "image": "https://picsum.photos/200?random=924",
+    "name": "Product 924",
+    "price": 607.21,
+    "category": "Clothing",
+    "rating": 3.4
+  },
+  {
+    "id": 925,
+    "image": "https://picsum.photos/200?random=925",
+    "name": "Product 925",
+    "price": 264.84,
+    "category": "Home",
+    "rating": 4.6
+  },
+  {
+    "id": 926,
+    "image": "https://picsum.photos/200?random=926",
+    "name": "Product 926",
+    "price": 440.56,
+    "category": "Books",
+    "rating": 2.9
+  },
+  {
+    "id": 927,
+    "image": "https://picsum.photos/200?random=927",
+    "name": "Product 927",
+    "price": 782.29,
+    "category": "Clothing",
+    "rating": 3.8
+  },
+  {
+    "id": 928,
+    "image": "https://picsum.photos/200?random=928",
+    "name": "Product 928",
+    "price": 110.75,
+    "category": "Electronics",
+    "rating": 4.2
+  },
+  {
+    "id": 929,
+    "image": "https://picsum.photos/200?random=929",
+    "name": "Product 929",
+    "price": 209.53,
+    "category": "Books",
+    "rating": 1.6
+  },
+  {
+    "id": 930,
+    "image": "https://picsum.photos/200?random=930",
+    "name": "Product 930",
+    "price": 939.96,
+    "category": "Books",
+    "rating": 3.7
+  },
+  {
+    "id": 931,
+    "image": "https://picsum.photos/200?random=931",
+    "name": "Product 931",
+    "price": 825.11,
+    "category": "Electronics",
+    "rating": 1.1
+  },
+  {
+    "id": 932,
+    "image": "https://picsum.photos/200?random=932",
+    "name": "Product 932",
+    "price": 827.04,
+    "category": "Electronics",
+    "rating": 3.6
+  },
+  {
+    "id": 933,
+    "image": "https://picsum.photos/200?random=933",
+    "name": "Product 933",
+    "price": 454.01,
+    "category": "Electronics",
+    "rating": 2.3
+  },
+  {
+    "id": 934,
+    "image": "https://picsum.photos/200?random=934",
+    "name": "Product 934",
+    "price": 16.17,
+    "category": "Home",
+    "rating": 4.7
+  },
+  {
+    "id": 935,
+    "image": "https://picsum.photos/200?random=935",
+    "name": "Product 935",
+    "price": 41.63,
+    "category": "Clothing",
+    "rating": 4.8
+  },
+  {
+    "id": 936,
+    "image": "https://picsum.photos/200?random=936",
+    "name": "Product 936",
+    "price": 149.3,
+    "category": "Books",
+    "rating": 1.3
+  },
+  {
+    "id": 937,
+    "image": "https://picsum.photos/200?random=937",
+    "name": "Product 937",
+    "price": 771.23,
+    "category": "Clothing",
+    "rating": 1.6
+  },
+  {
+    "id": 938,
+    "image": "https://picsum.photos/200?random=938",
+    "name": "Product 938",
+    "price": 907.68,
+    "category": "Electronics",
+    "rating": 4.0
+  },
+  {
+    "id": 939,
+    "image": "https://picsum.photos/200?random=939",
+    "name": "Product 939",
+    "price": 236.8,
+    "category": "Books",
+    "rating": 1.9
+  },
+  {
+    "id": 940,
+    "image": "https://picsum.photos/200?random=940",
+    "name": "Product 940",
+    "price": 326.85,
+    "category": "Books",
+    "rating": 4.4
+  },
+  {
+    "id": 941,
+    "image": "https://picsum.photos/200?random=941",
+    "name": "Product 941",
+    "price": 199.61,
+    "category": "Electronics",
+    "rating": 1.5
+  },
+  {
+    "id": 942,
+    "image": "https://picsum.photos/200?random=942",
+    "name": "Product 942",
+    "price": 302.13,
+    "category": "Clothing",
+    "rating": 2.8
+  },
+  {
+    "id": 943,
+    "image": "https://picsum.photos/200?random=943",
+    "name": "Product 943",
+    "price": 427.36,
+    "category": "Books",
+    "rating": 1.8
+  },
+  {
+    "id": 944,
+    "image": "https://picsum.photos/200?random=944",
+    "name": "Product 944",
+    "price": 167.35,
+    "category": "Home",
+    "rating": 4.4
+  },
+  {
+    "id": 945,
+    "image": "https://picsum.photos/200?random=945",
+    "name": "Product 945",
+    "price": 327.49,
+    "category": "Clothing",
+    "rating": 2.4
+  },
+  {
+    "id": 946,
+    "image": "https://picsum.photos/200?random=946",
+    "name": "Product 946",
+    "price": 136.76,
+    "category": "Electronics",
+    "rating": 3.8
+  },
+  {
+    "id": 947,
+    "image": "https://picsum.photos/200?random=947",
+    "name": "Product 947",
+    "price": 160.52,
+    "category": "Clothing",
+    "rating": 1.7
+  },
+  {
+    "id": 948,
+    "image": "https://picsum.photos/200?random=948",
+    "name": "Product 948",
+    "price": 987.32,
+    "category": "Electronics",
+    "rating": 1.1
+  },
+  {
+    "id": 949,
+    "image": "https://picsum.photos/200?random=949",
+    "name": "Product 949",
+    "price": 225.06,
+    "category": "Electronics",
+    "rating": 4.2
+  },
+  {
+    "id": 950,
+    "image": "https://picsum.photos/200?random=950",
+    "name": "Product 950",
+    "price": 429.46,
+    "category": "Clothing",
+    "rating": 2.6
+  },
+  {
+    "id": 951,
+    "image": "https://picsum.photos/200?random=951",
+    "name": "Product 951",
+    "price": 395.6,
+    "category": "Clothing",
+    "rating": 2.0
+  },
+  {
+    "id": 952,
+    "image": "https://picsum.photos/200?random=952",
+    "name": "Product 952",
+    "price": 908.38,
+    "category": "Clothing",
+    "rating": 3.6
+  },
+  {
+    "id": 953,
+    "image": "https://picsum.photos/200?random=953",
+    "name": "Product 953",
+    "price": 343.25,
+    "category": "Books",
+    "rating": 3.2
+  },
+  {
+    "id": 954,
+    "image": "https://picsum.photos/200?random=954",
+    "name": "Product 954",
+    "price": 655.88,
+    "category": "Electronics",
+    "rating": 1.9
+  },
+  {
+    "id": 955,
+    "image": "https://picsum.photos/200?random=955",
+    "name": "Product 955",
+    "price": 320.78,
+    "category": "Books",
+    "rating": 3.2
+  },
+  {
+    "id": 956,
+    "image": "https://picsum.photos/200?random=956",
+    "name": "Product 956",
+    "price": 341.6,
+    "category": "Home",
+    "rating": 1.5
+  },
+  {
+    "id": 957,
+    "image": "https://picsum.photos/200?random=957",
+    "name": "Product 957",
+    "price": 293.01,
+    "category": "Books",
+    "rating": 3.7
+  },
+  {
+    "id": 958,
+    "image": "https://picsum.photos/200?random=958",
+    "name": "Product 958",
+    "price": 229.32,
+    "category": "Books",
+    "rating": 1.9
+  },
+  {
+    "id": 959,
+    "image": "https://picsum.photos/200?random=959",
+    "name": "Product 959",
+    "price": 368.57,
+    "category": "Home",
+    "rating": 2.8
+  },
+  {
+    "id": 960,
+    "image": "https://picsum.photos/200?random=960",
+    "name": "Product 960",
+    "price": 440.57,
+    "category": "Books",
+    "rating": 4.9
+  },
+  {
+    "id": 961,
+    "image": "https://picsum.photos/200?random=961",
+    "name": "Product 961",
+    "price": 583.31,
+    "category": "Electronics",
+    "rating": 4.0
+  },
+  {
+    "id": 962,
+    "image": "https://picsum.photos/200?random=962",
+    "name": "Product 962",
+    "price": 112.36,
+    "category": "Home",
+    "rating": 2.2
+  },
+  {
+    "id": 963,
+    "image": "https://picsum.photos/200?random=963",
+    "name": "Product 963",
+    "price": 274.81,
+    "category": "Books",
+    "rating": 2.6
+  },
+  {
+    "id": 964,
+    "image": "https://picsum.photos/200?random=964",
+    "name": "Product 964",
+    "price": 99.11,
+    "category": "Books",
+    "rating": 4.2
+  },
+  {
+    "id": 965,
+    "image": "https://picsum.photos/200?random=965",
+    "name": "Product 965",
+    "price": 778.92,
+    "category": "Clothing",
+    "rating": 2.9
+  },
+  {
+    "id": 966,
+    "image": "https://picsum.photos/200?random=966",
+    "name": "Product 966",
+    "price": 946.87,
+    "category": "Electronics",
+    "rating": 1.7
+  },
+  {
+    "id": 967,
+    "image": "https://picsum.photos/200?random=967",
+    "name": "Product 967",
+    "price": 718.94,
+    "category": "Clothing",
+    "rating": 4.7
+  },
+  {
+    "id": 968,
+    "image": "https://picsum.photos/200?random=968",
+    "name": "Product 968",
+    "price": 996.58,
+    "category": "Electronics",
+    "rating": 3.0
+  },
+  {
+    "id": 969,
+    "image": "https://picsum.photos/200?random=969",
+    "name": "Product 969",
+    "price": 954.51,
+    "category": "Electronics",
+    "rating": 4.6
+  },
+  {
+    "id": 970,
+    "image": "https://picsum.photos/200?random=970",
+    "name": "Product 970",
+    "price": 581.01,
+    "category": "Clothing",
+    "rating": 4.4
+  },
+  {
+    "id": 971,
+    "image": "https://picsum.photos/200?random=971",
+    "name": "Product 971",
+    "price": 464.16,
+    "category": "Books",
+    "rating": 4.0
+  },
+  {
+    "id": 972,
+    "image": "https://picsum.photos/200?random=972",
+    "name": "Product 972",
+    "price": 615.17,
+    "category": "Electronics",
+    "rating": 4.7
+  },
+  {
+    "id": 973,
+    "image": "https://picsum.photos/200?random=973",
+    "name": "Product 973",
+    "price": 144.88,
+    "category": "Electronics",
+    "rating": 2.9
+  },
+  {
+    "id": 974,
+    "image": "https://picsum.photos/200?random=974",
+    "name": "Product 974",
+    "price": 314.85,
+    "category": "Electronics",
+    "rating": 2.7
+  },
+  {
+    "id": 975,
+    "image": "https://picsum.photos/200?random=975",
+    "name": "Product 975",
+    "price": 907.49,
+    "category": "Books",
+    "rating": 3.9
+  },
+  {
+    "id": 976,
+    "image": "https://picsum.photos/200?random=976",
+    "name": "Product 976",
+    "price": 252.49,
+    "category": "Clothing",
+    "rating": 2.3
+  },
+  {
+    "id": 977,
+    "image": "https://picsum.photos/200?random=977",
+    "name": "Product 977",
+    "price": 450.04,
+    "category": "Books",
+    "rating": 3.4
+  },
+  {
+    "id": 978,
+    "image": "https://picsum.photos/200?random=978",
+    "name": "Product 978",
+    "price": 989.73,
+    "category": "Books",
+    "rating": 4.5
+  },
+  {
+    "id": 979,
+    "image": "https://picsum.photos/200?random=979",
+    "name": "Product 979",
+    "price": 100.26,
+    "category": "Electronics",
+    "rating": 4.3
+  },
+  {
+    "id": 980,
+    "image": "https://picsum.photos/200?random=980",
+    "name": "Product 980",
+    "price": 681.94,
+    "category": "Books",
+    "rating": 2.7
+  },
+  {
+    "id": 981,
+    "image": "https://picsum.photos/200?random=981",
+    "name": "Product 981",
+    "price": 196.97,
+    "category": "Books",
+    "rating": 1.9
+  },
+  {
+    "id": 982,
+    "image": "https://picsum.photos/200?random=982",
+    "name": "Product 982",
+    "price": 470.34,
+    "category": "Books",
+    "rating": 4.7
+  },
+  {
+    "id": 983,
+    "image": "https://picsum.photos/200?random=983",
+    "name": "Product 983",
+    "price": 39.54,
+    "category": "Electronics",
+    "rating": 4.3
+  },
+  {
+    "id": 984,
+    "image": "https://picsum.photos/200?random=984",
+    "name": "Product 984",
+    "price": 56.2,
+    "category": "Home",
+    "rating": 1.3
+  },
+  {
+    "id": 985,
+    "image": "https://picsum.photos/200?random=985",
+    "name": "Product 985",
+    "price": 556.98,
+    "category": "Clothing",
+    "rating": 1.7
+  },
+  {
+    "id": 986,
+    "image": "https://picsum.photos/200?random=986",
+    "name": "Product 986",
+    "price": 492.91,
+    "category": "Clothing",
+    "rating": 2.8
+  },
+  {
+    "id": 987,
+    "image": "https://picsum.photos/200?random=987",
+    "name": "Product 987",
+    "price": 416.98,
+    "category": "Clothing",
+    "rating": 3.2
+  },
+  {
+    "id": 988,
+    "image": "https://picsum.photos/200?random=988",
+    "name": "Product 988",
+    "price": 368.31,
+    "category": "Books",
+    "rating": 3.2
+  },
+  {
+    "id": 989,
+    "image": "https://picsum.photos/200?random=989",
+    "name": "Product 989",
+    "price": 979.8,
+    "category": "Home",
+    "rating": 1.6
+  },
+  {
+    "id": 990,
+    "image": "https://picsum.photos/200?random=990",
+    "name": "Product 990",
+    "price": 574.46,
+    "category": "Clothing",
+    "rating": 3.0
+  },
+  {
+    "id": 991,
+    "image": "https://picsum.photos/200?random=991",
+    "name": "Product 991",
+    "price": 160.05,
+    "category": "Clothing",
+    "rating": 1.5
+  },
+  {
+    "id": 992,
+    "image": "https://picsum.photos/200?random=992",
+    "name": "Product 992",
+    "price": 551.83,
+    "category": "Home",
+    "rating": 1.6
+  },
+  {
+    "id": 993,
+    "image": "https://picsum.photos/200?random=993",
+    "name": "Product 993",
+    "price": 622.95,
+    "category": "Books",
+    "rating": 1.8
+  },
+  {
+    "id": 994,
+    "image": "https://picsum.photos/200?random=994",
+    "name": "Product 994",
+    "price": 946.32,
+    "category": "Home",
+    "rating": 2.4
+  },
+  {
+    "id": 995,
+    "image": "https://picsum.photos/200?random=995",
+    "name": "Product 995",
+    "price": 724.54,
+    "category": "Electronics",
+    "rating": 4.2
+  },
+  {
+    "id": 996,
+    "image": "https://picsum.photos/200?random=996",
+    "name": "Product 996",
+    "price": 461.47,
+    "category": "Clothing",
+    "rating": 3.0
+  },
+  {
+    "id": 997,
+    "image": "https://picsum.photos/200?random=997",
+    "name": "Product 997",
+    "price": 378.36,
+    "category": "Home",
+    "rating": 4.9
+  },
+  {
+    "id": 998,
+    "image": "https://picsum.photos/200?random=998",
+    "name": "Product 998",
+    "price": 946.75,
+    "category": "Electronics",
+    "rating": 2.2
+  },
+  {
+    "id": 999,
+    "image": "https://picsum.photos/200?random=999",
+    "name": "Product 999",
+    "price": 604.84,
+    "category": "Books",
+    "rating": 2.7
+  },
+  {
+    "id": 1000,
+    "image": "https://picsum.photos/200?random=1000",
+    "name": "Product 1000",
+    "price": 683.34,
+    "category": "Books",
+    "rating": 2.6
+  }
+]

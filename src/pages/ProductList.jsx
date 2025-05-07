@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import ProductCard from '../components/ProductCard';
 import FilterBar from '../components/FilterBar';
+import Pagination from '../components/Pagination';
 
 export default function ProductList() {
   const [products, setProducts] = useState([]);
@@ -37,7 +38,13 @@ export default function ProductList() {
     return 0;
   });
 
+  const totalPages = Math.ceil(sorted.length / productsPerPage);
   const paginated = sorted.slice((page - 1) * productsPerPage, page * productsPerPage);
+
+  const handlePageChange = (newPage) => {
+    setPage(newPage);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
 
   const toggleFavorite = (id) => {
     setFavorites((prev) =>
@@ -46,7 +53,7 @@ export default function ProductList() {
   };
 
   return (
-    <>
+    <div className="product-list">
       <FilterBar filters={filters} setFilters={setFilters} sort={sort} setSort={setSort} />
       <div className="grid">
         {paginated.map((product) => (
@@ -58,11 +65,11 @@ export default function ProductList() {
           />
         ))}
       </div>
-      <div style={{ textAlign: 'center', marginBottom: '1rem' }}>
-        <button disabled={page === 1} onClick={() => setPage(page - 1)}>Prev</button>
-        <span style={{ margin: '0 1rem' }}>Page {page}</span>
-        <button disabled={page * productsPerPage >= sorted.length} onClick={() => setPage(page + 1)}>Next</button>
-      </div>
-    </>
+      <Pagination
+        currentPage={page}
+        totalPages={totalPages}
+        onPageChange={handlePageChange}
+      />
+    </div>
   );
 }

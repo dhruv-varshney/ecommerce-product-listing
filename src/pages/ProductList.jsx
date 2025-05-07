@@ -4,13 +4,13 @@ import FilterBar from '../components/FilterBar';
 
 export default function ProductList() {
   const [products, setProducts] = useState([]);
-  const [filters, setFilters] = useState({ category: '', rating: 0 });
+  const [filters, setFilters] = useState({ category: '', rating: 0, ratingType: 'all' });
   const [sort, setSort] = useState('');
   const [favorites, setFavorites] = useState(() => {
     return JSON.parse(localStorage.getItem('favorites')) || [];
   });
   const [page, setPage] = useState(1);
-  const productsPerPage = 6;
+  const productsPerPage = 10;
 
   useEffect(() => {
     fetch('/products.json')
@@ -24,7 +24,12 @@ export default function ProductList() {
 
   const filtered = products
     .filter((p) => !filters.category || p.category === filters.category)
-    .filter((p) => p.rating >= filters.rating);
+    .filter((p) => {
+      if (filters.rating === 0) return true;
+      if (filters.ratingType === 'above') return p.rating >= filters.rating;
+      if (filters.ratingType === 'below') return p.rating <= filters.rating;
+      return true;
+    });
 
   const sorted = [...filtered].sort((a, b) => {
     if (sort === 'asc') return a.price - b.price;

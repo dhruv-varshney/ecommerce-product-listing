@@ -10,11 +10,15 @@ export default function FilterBar({ filters, setFilters, sort, setSort }) {
         <option value="Appliances">Appliances</option>
       </select>
 
-      <select onChange={(e) => setFilters({ ...filters, rating: Number(e.target.value) })}>
-        <option value="0">All Ratings</option>
-        <option value="5">5 Stars</option>
-        <option value="4">4 Stars & above</option>
-        <option value="3">3 Stars & above</option>
+      <select 
+        value={filters.rating} 
+        onChange={(e) => setFilters({ ...filters, rating: Number(e.target.value), ratingType: e.target.selectedOptions[0].getAttribute('data-type') })}
+      >
+        <option value="0" data-type="all">All Ratings</option>
+        <option value="5" data-type="above">5 Stars</option>
+        <option value="4" data-type="above">4 Stars & above</option>
+        <option value="3" data-type="above">3 Stars & above</option>
+        <option value="2" data-type="below">2 Stars & below</option>
       </select>
 
       <select onChange={(e) => setSort(e.target.value)}>
